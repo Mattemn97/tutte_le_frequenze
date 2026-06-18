@@ -243,7 +243,7 @@ function filtraTabella() {
         const noteText = rows[i].querySelector(".col-note").textContent || "";
         
         // Unisce i testi per fare una ricerca globale sulla riga
-        const stringaCompleta riga = `${provText} ${locText} ${freqText} ${noteText}`.toUpperCase();
+        const stringaCompleta_riga = `${provText} ${locText} ${freqText} ${noteText}`.toUpperCase();
 
         if (stringaCompleta_riga.indexOf(filter) > -1) {
             rows[i].style.display = "";
