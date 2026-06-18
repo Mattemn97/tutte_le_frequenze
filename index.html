@@ -131,7 +131,7 @@ function caricaModuloDati(fileName) {
     const loader = `<div class="w3-container w3-center w3-padding-64"><i class="fa fa-spinner fa-spin w3-jumbo w3-text-grey"></i><p>Elaborazione record...</p></div>`;
     document.getElementById("contenuto-dati").innerHTML = loader;
 
-    fetch(`dati/${fileName}`)
+    fetch(`${fileName}`)
         .then(response => response.json())
         .then(json => {
             databaseAttivo = json;
