@@ -3,6 +3,7 @@ let databaseAttivo = null;
 
 // Funzioni di gestione dell'interfaccia mobile (Sidebar)
 function w3_open() {
+    document.getElementById("mySidebar").style.setProperty("width", "70%", "important");
     document.getElementById("mySidebar").style.display = "block";
     document.getElementById("myOverlay").style.display = "block";
 }
