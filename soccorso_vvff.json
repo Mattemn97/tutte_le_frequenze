@@ -1,0 +1,1157 @@
+{
+  "sezione": "Pubblico Soccorso VV.FF.",
+  "banda_principale": "73-74 MHz",
+  "link_master_uhf": "434-435 MHz, 444-445 MHz",
+  "ultimo_aggiornamento": "2026-06",
+  "dati_provinciali": [
+    {
+      "provincia": "Agrigento",
+      "localita": [
+        {"nome": "Agrigento (Capoluogo)", "frequenze": ["73.500", "73.600", "73.000"]},
+        {"nome": "Canicattì (Contrada Ponte Bonavia)", "frequenze": ["73.500", "73.600", "73.000"]},
+        {"nome": "Lampedusa", "frequenze": ["73.500", "73.600", "73.000"]},
+        {"nome": "Licata", "frequenze": ["73.500", "73.600", "73.000"]},
+        {"nome": "Santa Margherita di Belice", "frequenze": ["73.500", "73.600", "73.000"]},
+        {"nome": "Sciacca", "frequenze": ["73.500", "73.600", "73.000"]}
+      ]
+    },
+    {
+      "provincia": "Alessandria",
+      "localita": [
+        {"nome": "Alessandria (Capoluogo)", "frequenze": ["73.850", "73.925", "73.625"]},
+        {"nome": "Acqui Terme", "frequenze": ["73.850", "73.925", "73.625"]},
+        {"nome": "Casale Monferrato", "frequenze": ["73.850", "73.925", "73.625"]},
+        {"nome": "Novi Ligure", "frequenze": ["73.850", "73.925", "73.625"]},
+        {"nome": "Ovada", "frequenze": ["73.850", "73.925", "73.625"]},
+        {"nome": "Tortona", "frequenze": ["73.850", "73.925", "73.625"]}
+      ]
+    },
+    {
+      "provincia": "Ancona",
+      "localita": [
+        {"nome": "Ancona (Capoluogo)", "frequenze": ["73.600", "73.875", "73.550", "73.575"], "note": "parla-ascolta"},
+        {"nome": "Ancona (Nautica)", "frequenze": ["73.600", "73.875", "73.550", "73.575"]},
+        {"nome": "Fabriano", "frequenze": ["73.600", "73.875", "73.550", "73.575"]},
+        {"nome": "Falconara Marittima (Località Aeroporto)", "frequenze": ["73.600", "73.875", "73.550", "73.575"]},
+        {"nome": "Jesi", "frequenze": ["73.600", "73.875", "73.550", "73.575"]},
+        {"nome": "Osimo", "frequenze": ["73.600", "73.875", "73.550", "73.575"]},
+        {"nome": "Senigallia", "frequenze": ["73.600", "73.875", "73.550", "73.575"]}
+      ]
+    },
+    {
+      "provincia": "Aosta",
+      "localita": [
+        {"nome": "Aosta (Capoluogo)", "frequenze": ["73.525", "73.800", "73.950", "74.100"]},
+        {"nome": "Aosta (Volontari)", "frequenze": ["74.075"]},
+        {"nome": "Courmayeur", "frequenze": ["73.525", "73.800", "73.950", "74.100"]},
+        {"nome": "Pont Saint Martin", "frequenze": ["73.525", "73.800", "73.950", "74.100"]},
+        {"nome": "Monte Bianco", "frequenze": ["74.125"]}
+      ]
+    },
+    {
+      "provincia": "Arezzo",
+      "localita": [
+        {"nome": "Arezzo (Capoluogo)", "frequenze": ["73.850", "73.900", "74.3375", "73.775", "73.650"]},
+        {"nome": "Arezzo (Nucleo Elicotteri)", "frequenze": ["73.850", "73.900", "74.3375", "73.775", "73.650"]},
+        {"nome": "Bibbiena", "frequenze": ["73.850", "73.900", "74.3375", "73.775", "73.650"]},
+        {"nome": "Cortona (Località Tavarnelle)", "frequenze": ["73.850", "73.900", "74.3375", "73.775", "73.650"]},
+        {"nome": "Montevarchi", "frequenze": ["73.850", "73.900", "74.3375", "73.775", "73.650"]},
+        {"nome": "Pratovecchio", "frequenze": ["73.850", "73.900", "74.3375", "73.775", "73.650"]},
+        {"nome": "San Sepolcro", "frequenze": ["73.850", "73.900", "74.3375", "73.775", "73.650"]}
+      ]
+    },
+    {
+      "provincia": "Ascoli Piceno",
+      "localita": [
+        {"nome": "Ascoli Piceno (Capoluogo)", "frequenze": ["73.650", "73.875", "73.775", "73.950", "73.600"], "note": "parla-ascolta"},
+        {"nome": "Fermo", "frequenze": ["73.650", "73.875", "73.775", "73.950", "73.600"]},
+        {"nome": "San Benedetto del Tronto", "frequenze": ["73.650", "73.875", "73.775", "73.950", "73.600"]}
+      ]
+    },
+    {
+      "provincia": "Asti",
+      "localita": [
+        {"nome": "Asti (Capoluogo)", "frequenze": ["73.625", "74.1125"]},
+        {"nome": "Nizza Monferrato", "frequenze": ["73.625", "74.1125"]}
+      ]
+    },
+    {
+      "provincia": "Avellino",
+      "localita": [
+        {"nome": "Avellino (Capoluogo)", "frequenze": ["73.525", "74.200"]},
+        {"nome": "Bisaccia", "frequenze": ["73.525", "74.200"]},
+        {"nome": "Grottaminarda", "frequenze": ["73.525", "74.200"]},
+        {"nome": "Lioni (Contrada Macchione)", "frequenze": ["73.525", "74.200"]},
+        {"nome": "Montella", "frequenze": ["73.525", "74.200"]}
+      ]
+    },
+    {
+      "provincia": "Bari",
+      "localita": [
+        {"nome": "Bari (Capoluogo)", "frequenze": ["73.550", "73.600", "73.700", "73.800", "74.2375"], "note": "parla-ascolta"},
+        {"nome": "Bari (Aeroporto Palese)", "frequenze": ["73.550", "73.600", "73.700", "73.800", "74.2375"]},
+        {"nome": "Bari (Nucleo Elicotteri)", "frequenze": ["73.550", "73.600", "73.700", "73.800", "74.2375"]},
+        {"nome": "Bari (Nautica)", "frequenze": ["73.550", "73.600", "73.700", "73.800", "74.2375"]},
+        {"nome": "Altamura", "frequenze": ["73.550", "73.600", "73.700", "73.800", "74.2375"]},
+        {"nome": "Barletta", "frequenze": ["73.550", "73.600", "73.700", "73.800", "74.2375"]},
+        {"nome": "Putignano", "frequenze": ["73.550", "73.600", "73.700", "73.800", "74.2375"]}
+      ]
+    },
+    {
+      "provincia": "Belluno",
+      "localita": [
+        {"nome": "Belluno (Capoluogo)", "frequenze": ["73.650", "73.825", "73.875", "74.425", "73.525"]},
+        {"nome": "Agordo", "frequenze": ["73.650", "73.825", "73.875", "74.425", "73.525"]},
+        {"nome": "Colle Santa Lucia", "frequenze": ["73.650", "73.825", "73.875", "74.425", "73.525"]},
+        {"nome": "Cortina d'Ampezzo", "frequenze": ["73.650", "73.825", "73.875", "74.425", "73.525"]},
+        {"nome": "Feltre", "frequenze": ["73.650", "73.825", "73.875", "74.425", "73.525"]},
+        {"nome": "Longarone", "frequenze": ["73.650", "73.825", "73.875", "74.425", "73.525"]},
+        {"nome": "Pieve di Cadore", "frequenze": ["73.650", "73.825", "73.875", "74.425", "73.525"]},
+        {"nome": "Santo Stefano di Cadore", "frequenze": ["73.650", "73.825", "73.875", "74.425", "73.525"]},
+        {"nome": "Selva di Cadore", "frequenze": ["73.650", "73.825", "73.875", "74.425", "73.525"]}
+      ]
+    },
+    {
+      "provincia": "Benevento",
+      "localita": [
+        {"nome": "Benevento (Capoluogo)", "frequenze": ["74.175"]},
+        {"nome": "Bonea", "frequenze": ["74.175"]},
+        {"nome": "Castelvenere", "frequenze": ["74.175"]},
+        {"nome": "San Marco Dei Cavoti", "frequenze": ["74.175"]}
+      ]
+    },
+    {
+      "provincia": "Bergamo",
+      "localita": [
+        {"nome": "Bergamo (Capoluogo)", "frequenze": ["73.500", "73.700", "73.925", "74.125"], "note": "parla-ascolta"},
+        {"nome": "Clusone", "frequenze": ["73.500", "73.700", "73.925", "74.125"]},
+        {"nome": "Gazzaniga", "frequenze": ["73.500", "73.700", "73.925", "74.125"]},
+        {"nome": "Lovere", "frequenze": ["73.500", "73.700", "73.925", "74.125"]},
+        {"nome": "Orio al Serio (Località Aeroporto)", "frequenze": ["73.500", "73.700", "73.925", "74.125"]},
+        {"nome": "Romano di Lombardia", "frequenze": ["73.500", "73.700", "73.925", "74.125"]},
+        {"nome": "Treviglio", "frequenze": ["73.500", "73.700", "73.925", "74.125"]},
+        {"nome": "Zogno", "frequenze": ["73.500", "73.700", "73.925", "74.125"]}
+      ]
+    },
+    {
+      "provincia": "Biella",
+      "localita": [
+        {"nome": "Biella (Capoluogo)", "frequenze": ["73.8875", "73.725", "73.750", "74.0675", "73.575"], "note": "parla-ascolta"},
+        {"nome": "Trivero (Frazione Ponzone)", "frequenze": ["73.8875", "73.725", "73.750", "74.0675", "73.575"]}
+      ]
+    },
+    {
+      "provincia": "Bologna",
+      "localita": [
+        {"nome": "Bologna (Capoluogo)", "frequenze": ["73.575", "73.650", "73.950", "73.9875", "74.250", "73.550"]},
+        {"nome": "Bologna (Aeroporto Borgo Panigale)", "frequenze": ["73.575", "73.650", "73.950", "73.9875", "74.250", "73.550"]},
+        {"nome": "Bologna (Nucleo Elicotteri)", "frequenze": ["73.575", "73.650", "73.950", "73.9875", "74.250", "73.550"]},
+        {"nome": "Budrio", "frequenze": ["73.575", "73.650", "73.950", "73.9875", "74.250", "73.550"]},
+        {"nome": "Casalecchio di Reno", "frequenze": ["73.575", "73.650", "73.950", "73.9875", "74.250", "73.550"]},
+        {"nome": "Castel San Pietro Terme (Volontari)", "frequenze": ["73.575", "73.650", "73.950", "73.9875", "74.250", "73.550"]},
+        {"nome": "Castiglione dei Pepoli (Volontari)", "frequenze": ["73.575", "73.650", "73.950", "73.9875", "74.250", "73.550"]},
+        {"nome": "Imola", "frequenze": ["73.575", "73.650", "73.950", "73.9875", "74.250", "73.550"]},
+        {"nome": "Medicina (Volontari)", "frequenze": ["73.575", "73.650", "73.950", "73.9875", "74.250", "73.550"]},
+        {"nome": "Porretta Terme (Volontari)", "frequenze": ["73.575", "73.650", "73.950", "73.9875", "74.250", "73.550"]},
+        {"nome": "San Giovanni in Persiceto (Volontari)", "frequenze": ["73.575", "73.650", "73.950", "73.9875", "74.250", "73.550"]},
+        {"nome": "San Pietro in Casale (Volontari)", "frequenze": ["73.575", "73.650", "73.950", "73.9875", "74.250", "73.550"]}
+      ]
+    },
+    {
+      "provincia": "Bolzano",
+      "localita": [
+        {"nome": "Bolzano (Capoluogo)", "frequenze": ["73.600", "73.700", "73.8125"]},
+        {"nome": "Bressanone (Frazione Albes)", "frequenze": ["73.600", "73.700", "73.8125"]},
+        {"nome": "Brunico", "frequenze": ["73.600", "73.700", "73.8125"]},
+        {"nome": "Chienes", "frequenze": ["73.600", "73.700", "73.8125"]},
+        {"nome": "Cornedo all'Isarco", "frequenze": ["73.600", "73.700", "73.8125"]},
+        {"nome": "Corvara in Badia", "frequenze": ["73.600", "73.700", "73.8125"]},
+        {"nome": "Laives (Località San Giacomo)", "frequenze": ["73.600", "73.700", "73.8125"]},
+        {"nome": "Malles Venosta", "frequenze": ["73.600", "73.700", "73.8125"]},
+        {"nome": "Merano", "frequenze": ["73.600", "73.700", "73.8125"]},
+        {"nome": "Ortisei (Volontari)", "frequenze": ["73.600", "73.700", "73.8125"]},
+        {"nome": "Predonico (Volontari)", "frequenze": ["73.600", "73.700", "73.8125"]},
+        {"nome": "San Candido", "frequenze": ["73.600", "73.700", "73.8125"]},
+        {"nome": "Selva Val Gardena (Volontari)", "frequenze": ["73.600", "73.700", "73.8125"]},
+        {"nome": "Senale-San Felice", "frequenze": ["73.600", "73.700", "73.8125"]},
+        {"nome": "Silandro (Frazione Vezzano) (Volontari)", "frequenze": ["73.600", "73.700", "73.8125"]},
+        {"nome": "Villa Santa Caterina (Volontari)", "frequenze": ["73.600", "73.700", "73.8125"]},
+        {"nome": "Vipiteno (Volontari)", "frequenze": ["73.600", "73.700", "73.8125"]}
+      ]
+    },
+    {
+      "provincia": "Brescia",
+      "localita": [
+        {"nome": "Brescia (Capoluogo)", "frequenze": ["73.500", "73.525", "73.750"]},
+        {"nome": "Breno", "frequenze": ["73.500", "73.525", "73.750"]},
+        {"nome": "Chiari", "frequenze": ["73.500", "73.525", "73.750"]},
+        {"nome": "Darfo-Boario Terme", "frequenze": ["73.500", "73.525", "73.750"]},
+        {"nome": "Edolo", "frequenze": ["73.500", "73.525", "73.750"]},
+        {"nome": "Orzinuovi", "frequenze": ["73.500", "73.525", "73.750"]},
+        {"nome": "Salò", "frequenze": ["73.500", "73.525", "73.750"]},
+        {"nome": "Verolanuova", "frequenze": ["73.500", "73.525", "73.750"]}
+      ]
+    },
+    {
+      "provincia": "Brindisi",
+      "localita": [
+        {"nome": "Brindisi (Capoluogo)", "frequenze": ["73.550", "73.600", "73.950", "74.300"], "note": "parla-ascolta"},
+        {"nome": "Brindisi (Aeroporto Casale)", "frequenze": ["73.550", "73.600", "73.950", "74.300"]},
+        {"nome": "Brindisi (Nautica)", "frequenze": ["73.550", "73.600", "73.950", "74.300"]},
+        {"nome": "Francavilla Fontana", "frequenze": ["73.550", "73.600", "73.950", "74.300"]},
+        {"nome": "Ostuni", "frequenze": ["73.550", "73.600", "73.950", "74.300"]}
+      ]
+    },
+    {
+      "provincia": "Cagliari",
+      "localita": [
+        {"nome": "Cagliari (Capoluogo)", "frequenze": ["73.750", "74.100"]},
+        {"nome": "Cagliari (Aeroporto Elmas)", "frequenze": ["73.750", "74.100"]},
+        {"nome": "Cagliari (Nautica)", "frequenze": ["73.750", "74.100"]},
+        {"nome": "Carbonia", "frequenze": ["73.750", "74.100"]},
+        {"nome": "Iglesias", "frequenze": ["73.750", "74.100"]},
+        {"nome": "Sanluri", "frequenze": ["73.750", "74.100"]}
+      ]
+    },
+    {
+      "provincia": "Caltanissetta",
+      "localita": [
+        {"nome": "Caltanissetta (Capoluogo)", "frequenze": ["73.575", "73.600", "73.850"]},
+        {"nome": "Gela", "frequenze": ["73.575", "73.600", "73.850"]},
+        {"nome": "Mussomeli", "frequenze": ["73.575", "73.600", "73.850"]}
+      ]
+    },
+    {
+      "provincia": "Campobasso",
+      "localita": [
+        {"nome": "Campobasso (Capoluogo)", "frequenze": ["73.525", "73.925"]},
+        {"nome": "Termoli (Contrada Pantano Basso)", "frequenze": ["73.525", "73.925"]}
+      ]
+    },
+    {
+      "provincia": "Caserta",
+      "localita": [
+        {"nome": "Caserta (Capoluogo)", "frequenze": ["73.625", "73.9125", "74.225"]},
+        {"nome": "Aversa", "frequenze": ["73.625", "73.9125", "74.225"]},
+        {"nome": "Teano", "frequenze": ["73.625", "73.9125", "74.225"]}
+      ]
+    },
+    {
+      "provincia": "Catania",
+      "localita": [
+        {"nome": "Catania (Capoluogo)", "frequenze": ["73.550", "73.800", "73.825"]},
+        {"nome": "Catania (Aeroporto Fontanarossa)", "frequenze": ["73.550", "73.800", "73.825"]},
+        {"nome": "Catania (Nucleo Elicotteri)", "frequenze": ["73.550", "73.800", "73.825"]},
+        {"nome": "Catania (Nautica)", "frequenze": ["73.550", "73.800", "73.825"]},
+        {"nome": "Acireale", "frequenze": ["73.550", "73.800", "73.825"]},
+        {"nome": "Adrano", "frequenze": ["73.550", "73.800", "73.825"]},
+        {"nome": "Caltagirone", "frequenze": ["73.550", "73.800", "73.825"]},
+        {"nome": "Mascali", "frequenze": ["73.550", "73.800", "73.825"]},
+        {"nome": "Paternò", "frequenze": ["73.550", "73.800", "73.825"]}
+      ]
+    },
+    {
+      "provincia": "Catanzaro",
+      "localita": [
+        {"nome": "Catanzaro (Capoluogo)", "frequenze": ["73.550", "73.700"], "note": "Altra freq disp: Rx 73.8125 / Tx 73.0125"},
+        {"nome": "Chiaravalle Centrale (Contrada Foresta)", "frequenze": ["73.550", "73.700"]},
+        {"nome": "Lamezia Terme (Aeroporto S.Eufemia)", "frequenze": ["73.550", "73.700"]}
+      ]
+    },
+    {
+      "provincia": "Chieti",
+      "localita": [
+        {"nome": "Chieti (Capoluogo)", "frequenze": ["73.625", "73.750", "74.1125"]},
+        {"nome": "Casoli", "frequenze": ["73.625", "73.750", "74.1125"]},
+        {"nome": "Lanciano", "frequenze": ["73.625", "73.750", "74.1125"]},
+        {"nome": "Ortona", "frequenze": ["73.625", "73.750", "74.1125"]},
+        {"nome": "San Giovanni Teatino (Aeroporto)", "frequenze": ["73.625", "73.750", "74.1125"]},
+        {"nome": "Vasto", "frequenze": ["73.625", "73.750", "74.1125"]}
+      ]
+    },
+    {
+      "provincia": "Como",
+      "localita": [
+        {"nome": "Como (Capoluogo)", "frequenze": ["73.500", "73.600", "74.375"]},
+        {"nome": "Appiano Gentile", "frequenze": ["73.500", "73.600", "74.375"]},
+        {"nome": "Cantù", "frequenze": ["73.500", "73.600", "74.375"]},
+        {"nome": "Canzo", "frequenze": ["73.500", "73.600", "74.375"]},
+        {"nome": "Dongo (Presso stabilimento Falck)", "frequenze": ["73.500", "73.600", "74.375"]},
+        {"nome": "Erba", "frequenze": ["73.500", "73.600", "74.375"]},
+        {"nome": "Lomazzo", "frequenze": ["73.500", "73.600", "74.375"]}
+      ]
+    },
+    {
+      "provincia": "Cosenza",
+      "localita": [
+        {"nome": "Cosenza (Capoluogo)", "frequenze": ["73.625", "73.750", "73.700"], "note": "parla-ascolta"},
+        {"nome": "Castrovillari", "frequenze": ["73.625", "73.750", "73.700"]},
+        {"nome": "Corigliano Calabro", "frequenze": ["73.625", "73.750", "73.700"]},
+        {"nome": "Paola", "frequenze": ["73.625", "73.750", "73.700"]},
+        {"nome": "Rossano", "frequenze": ["73.625", "73.750", "73.700"]},
+        {"nome": "Scalea", "frequenze": ["73.625", "73.750", "73.700"]}
+      ]
+    },
+    {
+      "provincia": "Cremona",
+      "localita": [
+        {"nome": "Cremona (Capoluogo)", "frequenze": ["73.500", "73.750", "73.8375"]},
+        {"nome": "Crema", "frequenze": ["73.500", "73.750", "73.8375"]}
+      ]
+    },
+    {
+      "provincia": "Crotone",
+      "localita": [
+        {"nome": "Crotone (Capoluogo)", "frequenze": ["73.550", "73.700", "73.850", "73.8625"]},
+        {"nome": "Cirò Marina", "frequenze": ["73.550", "73.700", "73.850", "73.8625"]},
+        {"nome": "Isola Capo Rizzuto (Aeroporto)", "frequenze": ["73.550", "73.700", "73.850", "73.8625"]}
+      ]
+    },
+    {
+      "provincia": "Cuneo",
+      "localita": [
+        {"nome": "Cuneo (Capoluogo)", "frequenze": ["73.700", "73.925", "74.000"], "note": "parla-ascolta"},
+        {"nome": "Alba", "frequenze": ["73.700", "73.925", "74.000"]},
+        {"nome": "Barge", "frequenze": ["73.700", "73.925", "74.000"]},
+        {"nome": "Bra", "frequenze": ["73.700", "73.925", "74.000"]},
+        {"nome": "Ceva", "frequenze": ["73.700", "73.925", "74.000"]},
+        {"nome": "Cortemilia", "frequenze": ["73.700", "73.925", "74.000"]},
+        {"nome": "Fossano", "frequenze": ["73.700", "73.925", "74.000"]},
+        {"nome": "Garessio (Volontari)", "frequenze": ["73.700", "73.925", "74.000"]},
+        {"nome": "Mondovì Breo", "frequenze": ["73.700", "73.925", "74.000"]},
+        {"nome": "Racconigi", "frequenze": ["73.700", "73.925", "74.000"]},
+        {"nome": "Saluzzo", "frequenze": ["73.700", "73.925", "74.000"]},
+        {"nome": "Santo Stefano Belbo", "frequenze": ["73.700", "73.925", "74.000"]},
+        {"nome": "Santo Stefano Roero", "frequenze": ["73.700", "73.925", "74.000"]},
+        {"nome": "Savigliano", "frequenze": ["73.700", "73.925", "74.000"]}
+      ]
+    },
+    {
+      "provincia": "Enna",
+      "localita": [
+        {"nome": "Enna (Capoluogo)", "frequenze": ["73.575", "73.800", "73.950", "73.9125"]},
+        {"nome": "Nicosia", "frequenze": ["73.575", "73.800", "73.950", "73.9125"]},
+        {"nome": "Piazza Armerina (Contrada Bellia)", "frequenze": ["73.575", "73.800", "73.950", "73.9125"]}
+      ]
+    },
+    {
+      "provincia": "Ferrara",
+      "localita": [
+        {"nome": "Ferrara (Capoluogo)", "frequenze": ["73.550", "73.775", "74.350"]},
+        {"nome": "Bondeno", "frequenze": ["73.550", "73.775", "74.350"]},
+        {"nome": "Cento", "frequenze": ["73.550", "73.775", "74.350"]},
+        {"nome": "Codigoro", "frequenze": ["73.550", "73.775", "74.350"]},
+        {"nome": "Portomaggiore", "frequenze": ["73.550", "73.775", "74.350"]}
+      ]
+    },
+    {
+      "provincia": "Firenze",
+      "localita": [
+        {"nome": "Firenze (Capoluogo)", "frequenze": ["73.525", "73.675", "73.900", "74.4625", "74.4875"]},
+        {"nome": "Firenze (Aeroporto Peretola)", "frequenze": ["73.525", "73.675", "73.900", "74.4625", "74.4875"]},
+        {"nome": "Firenze Ovest (Viadotto Indiano)", "frequenze": ["73.525", "73.675", "73.900", "74.4625", "74.4875"]},
+        {"nome": "Borgo San Lorenzo", "frequenze": ["73.525", "73.675", "73.900", "74.4625", "74.4875"]},
+        {"nome": "Castelfiorentino", "frequenze": ["73.525", "73.675", "73.900", "74.4625", "74.4875"]},
+        {"nome": "Empoli", "frequenze": ["73.525", "73.675", "73.900", "74.4625", "74.4875"]},
+        {"nome": "Figline Valdarno", "frequenze": ["73.525", "73.675", "73.900", "74.4625", "74.4875"]},
+        {"nome": "Marradi", "frequenze": ["73.525", "73.675", "73.900", "74.4625", "74.4875"]},
+        {"nome": "Sesto Fiorentino", "frequenze": ["73.525", "73.675", "73.900", "74.4625", "74.4875"]}
+      ]
+    },
+    {
+      "provincia": "Foggia",
+      "localita": [
+        {"nome": "Foggia (Capoluogo)", "frequenze": ["73.550", "73.600", "73.625", "73.650", "74.4375"], "note": "parla-ascolta / 73.625 Isole Tremiti"},
+        {"nome": "Cerignola", "frequenze": ["73.550", "73.600", "73.625", "73.650", "74.4375"]},
+        {"nome": "Manfredonia", "frequenze": ["73.550", "73.600", "73.625", "73.650", "74.4375"]},
+        {"nome": "San Severo", "frequenze": ["73.550", "73.600", "73.625", "73.650", "74.4375"]}
+      ]
+    },
+    {
+      "provincia": "Forlì",
+      "localita": [
+        {"nome": "Forlì (Capoluogo)", "frequenze": ["73.550", "73.625", "74.2125"]},
+        {"nome": "Forlì (Aeroporto L. Ridolfi)", "frequenze": ["73.550", "73.625", "74.2125"]},
+        {"nome": "Cesena", "frequenze": ["73.550", "73.625", "74.2125"]},
+        {"nome": "Rocca San Casciano", "frequenze": ["73.550", "73.625", "74.2125"]}
+      ]
+    },
+    {
+      "provincia": "Frosinone",
+      "localita": [
+        {"nome": "Frosinone (Capoluogo)", "frequenze": ["73.575"], "note": "Rx 74.025"},
+        {"nome": "Cassino", "frequenze": ["73.575"]},
+        {"nome": "Sora", "frequenze": ["73.575"]}
+      ]
+    },
+    {
+      "provincia": "Genova",
+      "localita": [
+        {"nome": "Genova (Capoluogo)", "frequenze": ["73.675", "73.750", "74.2625", "73.550", "74.125"], "note": "parla-ascolta"},
+        {"nome": "Genova (Aeroporto C. Colombo)", "frequenze": ["73.675", "73.750", "74.2625", "73.550", "74.125"]},
+        {"nome": "Genova (Sezione Elicotteri)", "frequenze": ["73.675", "73.750", "74.2625", "73.550", "74.125"]},
+        {"nome": "Genova (Nautica)", "frequenze": ["73.675", "73.750", "74.2625", "73.550", "74.125"]},
+        {"nome": "Bolzaneto", "frequenze": ["73.675", "73.750", "74.2625", "73.550", "74.125"]},
+        {"nome": "Busalla", "frequenze": ["73.675", "73.750", "74.2625", "73.550", "74.125"]},
+        {"nome": "Chiavari", "frequenze": ["73.675", "73.750", "74.2625", "73.550", "74.125"]},
+        {"nome": "Moltedo", "frequenze": ["73.675", "73.750", "74.2625", "73.550", "74.125"]},
+        {"nome": "Rapallo", "frequenze": ["73.675", "73.750", "74.2625", "73.550", "74.125"]}
+      ]
+    },
+    {
+      "provincia": "Gorizia",
+      "localita": [
+        {"nome": "Gorizia (Capoluogo)", "frequenze": ["73.625", "74.100"]},
+        {"nome": "Monfalcone", "frequenze": ["73.625", "74.100"]},
+        {"nome": "Ronchi dei Legionari (Aeroporto)", "frequenze": ["73.625", "74.100"]}
+      ]
+    },
+    {
+      "provincia": "Grosseto",
+      "localita": [
+        {"nome": "Grosseto (Capoluogo)", "frequenze": ["73.900", "74.425", "73.675"]},
+        {"nome": "Arcidosso", "frequenze": ["73.900", "74.425", "73.675"]},
+        {"nome": "Follonica", "frequenze": ["73.900", "74.425", "73.675"]},
+        {"nome": "Orbetello (Località Orto Tellini)", "frequenze": ["73.900", "74.425", "73.675"]}
+      ]
+    },
+    {
+      "provincia": "Iglesias",
+      "localita": [
+        {"nome": "Iglesias (Sede)", "frequenze": ["74.150"]}
+      ]
+    },
+    {
+      "provincia": "Imperia",
+      "localita": [
+        {"nome": "Imperia (Capoluogo)", "frequenze": ["73.550", "73.800", "73.950", "73.600", "74.3125"], "note": "parla-ascolta"},
+        {"nome": "Bordighera", "frequenze": ["73.550", "73.800", "73.950", "73.600", "74.3125"]},
+        {"nome": "Diano Marina", "frequenze": ["73.550", "73.800", "73.950", "73.600", "74.3125"]},
+        {"nome": "San Remo", "frequenze": ["73.550", "73.800", "73.950", "73.600", "74.3125"]},
+        {"nome": "Ventimiglia", "frequenze": ["73.550", "73.800", "73.950", "73.600", "74.3125"]}
+      ]
+    },
+    {
+      "provincia": "Isernia",
+      "localita": [
+        {"nome": "Isernia (Capoluogo)", "frequenze": ["73.525", "73.9625"]},
+        {"nome": "Agnone", "frequenze": ["73.525", "73.9625"]}
+      ]
+    },
+    {
+      "provincia": "La Spezia",
+      "localita": [
+        {"nome": "La Spezia (Capoluogo)", "frequenze": ["74.050", "74.2125", "73.700"]},
+        {"nome": "La Spezia (Nautica)", "frequenze": ["74.050", "74.2125", "73.700"]},
+        {"nome": "Sarzana", "frequenze": ["74.050", "74.2125", "73.700"]}
+      ]
+    },
+    {
+      "provincia": "Latina",
+      "localita": [
+        {"nome": "Latina (Capoluogo)", "frequenze": ["73.550", "73.750", "74.3125", "73.675", "73.575"]},
+        {"nome": "Aprilia", "frequenze": ["73.550", "73.750", "74.3125", "73.675", "73.575"]},
+        {"nome": "Castelforte", "frequenze": ["73.550", "73.750", "74.3125", "73.675", "73.575"]},
+        {"nome": "Gaeta", "frequenze": ["73.550", "73.750", "74.3125", "73.675", "73.575"]},
+        {"nome": "Terracina", "frequenze": ["73.550", "73.750", "74.3125", "73.675", "73.575"]}
+      ]
+    },
+    {
+      "provincia": "Lecce",
+      "localita": [
+        {"nome": "Lecce (Capoluogo)", "frequenze": ["73.500", "73.725", "73.600", "74.375", "73.550"], "note": "parla-ascolta"},
+        {"nome": "Gallipoli", "frequenze": ["73.500", "73.725", "73.600", "74.375", "73.550"]},
+        {"nome": "Maglie", "frequenze": ["73.500", "73.725", "73.600", "74.375", "73.550"]},
+        {"nome": "Tricase", "frequenze": ["73.500", "73.725", "73.600", "74.375", "73.550"]}
+      ]
+    },
+    {
+      "provincia": "Lecco",
+      "localita": [
+        {"nome": "Lecco (Capoluogo)", "frequenze": ["73.500", "74.475", "73.600"]},
+        {"nome": "Bellano", "frequenze": ["73.500", "74.475", "73.600"]},
+        {"nome": "Merate", "frequenze": ["73.500", "74.475", "73.600"]}
+      ]
+    },
+    {
+      "provincia": "Livorno",
+      "localita": [
+        {"nome": "Livorno (Capoluogo)", "frequenze": ["73.500", "73.900", "74.275", "73.775"], "note": "parla-ascolta"},
+        {"nome": "Livorno (Nautica)", "frequenze": ["73.500", "73.900", "74.275", "73.775"]},
+        {"nome": "Piombino", "frequenze": ["73.500", "73.900", "74.275", "73.775"]},
+        {"nome": "Portoferraio", "frequenze": ["73.500", "73.900", "74.275", "73.775"]},
+        {"nome": "Portovecchio", "frequenze": ["73.500", "73.900", "74.275", "73.775"]}
+      ]
+    },
+    {
+      "provincia": "Lodi",
+      "localita": [
+        {"nome": "Lodi (Capoluogo)", "frequenze": ["73.500", "73.950", "74.175"]},
+        {"nome": "Casalpusterlengo", "frequenze": ["73.500", "73.950", "74.175"]},
+        {"nome": "Sant'Angelo Lodigiano", "frequenze": ["73.500", "73.950", "74.175"]}
+      ]
+    },
+    {
+      "provincia": "Lucca",
+      "localita": [
+        {"nome": "Lucca (Capoluogo)", "frequenze": ["73.825", "74.150", "73.900"]},
+        {"nome": "Castelnuovo di Garfagnana", "frequenze": ["73.825", "74.150", "73.900"]},
+        {"nome": "Viareggio", "frequenze": ["73.825", "74.150", "73.900"]}
+      ]
+    },
+    {
+      "provincia": "L'Aquila",
+      "localita": [
+        {"nome": "L'Aquila (Capoluogo)", "frequenze": ["73.525", "74.1875", "73.750"]},
+        {"nome": "Avezzano", "frequenze": ["73.525", "74.1875", "73.750"]},
+        {"nome": "Castel di Sangro", "frequenze": ["73.525", "74.1875", "73.750"]},
+        {"nome": "Sulmona", "frequenze": ["73.525", "74.1875", "73.750"]},
+        {"nome": "Tagliacozzo", "frequenze": ["73.525", "74.1875", "73.750"]}
+      ]
+    },
+    {
+      "provincia": "Macerata",
+      "localita": [
+        {"nome": "Macerata (Capoluogo)", "frequenze": ["73.500", "73.700", "73.600"]},
+        {"nome": "Camerino", "frequenze": ["73.500", "73.700", "73.600"]},
+        {"nome": "Civitanova Marche", "frequenze": ["73.500", "73.700", "73.600"]}
+      ]
+    },
+    {
+      "provincia": "Mantova",
+      "localita": [
+        {"nome": "Mantova (Capoluogo)", "frequenze": ["73.600", "73.750", "73.9125", "73.525"]},
+        {"nome": "Castiglione delle Stiviere", "frequenze": ["73.600", "73.750", "73.9125", "73.525"]},
+        {"nome": "Suzzara", "frequenze": ["73.600", "73.750", "73.9125", "73.525"]}
+      ]
+    },
+    {
+      "provincia": "Massa",
+      "localita": [
+        {"nome": "Massa (Capoluogo)", "frequenze": ["73.575", "73.800", "73.900", "74.3875"], "note": "parla-ascolta"},
+        {"nome": "Aulla", "frequenze": ["73.575", "73.800", "73.900", "74.3875"]},
+        {"nome": "Carrara", "frequenze": ["73.575", "73.800", "73.900", "74.3875"]},
+        {"nome": "Pontremoli", "frequenze": ["73.575", "73.800", "73.900", "74.3875"]}
+      ]
+    },
+    {
+      "provincia": "Matera",
+      "localita": [
+        {"nome": "Matera (Capoluogo)", "frequenze": ["74.4875", "73.550", "73.600"], "note": "parla-ascolta"},
+        {"nome": "Policoro", "frequenze": ["74.4875", "73.550", "73.600"]}
+      ]
+    },
+    {
+      "provincia": "Messina",
+      "localita": [
+        {"nome": "Messina (Capoluogo)", "frequenze": ["73.600", "73.950", "73.9875"]},
+        {"nome": "Messina (Nautica)", "frequenze": ["73.600", "73.950", "73.9875"]},
+        {"nome": "Lipari (Presso Scuole Elementari)", "frequenze": ["73.600", "73.950", "73.9875"]},
+        {"nome": "Milazzo", "frequenze": ["73.600", "73.950", "73.9875"]},
+        {"nome": "Sant'Agata di Militello (Torre Candela)", "frequenze": ["73.600", "73.950", "73.9875"]},
+        {"nome": "Taormina", "frequenze": ["73.600", "73.950", "73.9875"]}
+      ]
+    },
+    {
+      "provincia": "Milano",
+      "localita": [
+        {"nome": "Milano (Città)", "frequenze": ["73.500", "74.0625", "73.650", "73.950", "73.9125", "73.950", "73.550", "74.250"]},
+        {"nome": "Abbiategrasso", "frequenze": ["73.500", "74.0625", "73.650", "73.950", "73.9125"]},
+        {"nome": "Carate Brianza", "frequenze": ["73.500", "74.0625", "73.650", "73.950", "73.9125"]},
+        {"nome": "Casale-Bernate Ticino", "frequenze": ["73.500", "74.0625", "73.650", "73.950", "73.9125"]},
+        {"nome": "Corbetta", "frequenze": ["73.500", "74.0625", "73.650", "73.950", "73.9125"]},
+        {"nome": "Desio", "frequenze": ["73.500", "74.0625", "73.650", "73.950", "73.9125"]},
+        {"nome": "Gorgonzola", "frequenze": ["73.500", "74.0625", "73.650", "73.950", "73.9125"]},
+        {"nome": "Inveruno", "frequenze": ["73.500", "74.0625", "73.650", "73.950", "73.9125"]},
+        {"nome": "Legnano", "frequenze": ["73.500", "74.0625", "73.650", "73.950", "73.9125"]},
+        {"nome": "Linate (Aeroporto Forlanini)", "frequenze": ["73.500", "74.0625", "73.650", "73.950", "73.9125"]},
+        {"nome": "Lissone", "frequenze": ["73.500", "74.0625", "73.650", "73.950", "73.9125"]},
+        {"nome": "Magenta", "frequenze": ["73.500", "74.0625", "73.650", "73.950", "73.9125"]},
+        {"nome": "Monza", "frequenze": ["73.950"]},
+        {"nome": "Seregno", "frequenze": ["73.550"]},
+        {"nome": "Sesto San Giovanni", "frequenze": ["74.250"]}
+      ]
+    },
+    {
+      "provincia": "Modena",
+      "localita": [
+        {"nome": "Modena (Capoluogo)", "frequenze": ["73.925", "74.2875", "73.650", "73.550"]},
+        {"nome": "Carpi", "frequenze": ["73.925", "74.2875", "73.650", "73.550"]},
+        {"nome": "Fanano", "frequenze": ["73.925", "74.2875", "73.650", "73.550"], "note": "servizio discontinuo"},
+        {"nome": "Finale Emilia", "frequenze": ["73.925", "74.2875", "73.650", "73.550"], "note": "servizio discontinuo"},
+        {"nome": "Pavullo nel Frignano", "frequenze": ["73.925", "74.2875", "73.650", "73.550"]},
+        {"nome": "San Felice sul Panaro", "frequenze": ["73.925", "74.2875", "73.650", "73.550"]},
+        {"nome": "Sassuolo", "frequenze": ["73.925", "74.2875", "73.650", "73.550"]}
+      ]
+    },
+    {
+      "provincia": "Napoli",
+      "localita": [
+        {"nome": "Napoli (Città)", "frequenze": ["73.950"]},
+        {"nome": "Napoli (Aeroporto Capodichino)", "frequenze": ["73.950"]},
+        {"nome": "Napoli (Nautica)", "frequenze": ["73.950"]},
+        {"nome": "Afragola (Località Salicelle)", "frequenze": ["73.950"]},
+        {"nome": "Bacoli", "frequenze": ["73.950"]},
+        {"nome": "Capri", "frequenze": ["73.950"]},
+        {"nome": "Castellammare di Stabia", "frequenze": ["73.950"]},
+        {"nome": "Ischia", "frequenze": ["73.950"]},
+        {"nome": "Nola", "frequenze": ["73.950"]},
+        {"nome": "Pozzuoli", "frequenze": ["73.950"]},
+        {"nome": "Secondigliano", "frequenze": ["73.950"]}
+      ]
+    },
+    {
+      "provincia": "Novara",
+      "localita": [
+        {"nome": "Novara (Capoluogo)", "frequenze": ["73.575", "73.900"], "note": "parla-ascolta"},
+        {"nome": "Arona", "frequenze": ["73.575", "73.900"]},
+        {"nome": "Borgomanero", "frequenze": ["73.575", "73.900"]},
+        {"nome": "Domodossola", "frequenze": ["73.575", "73.900"]},
+        {"nome": "Romagnano Sesia", "frequenze": ["73.575", "73.900"]},
+        {"nome": "Varallo Pombia", "frequenze": ["73.575", "73.900"]}
+      ]
+    },
+    {
+      "provincia": "Nuoro",
+      "localita": [
+        {"nome": "Nuoro (Capoluogo)", "frequenze": ["74.1125", "73.550"]},
+        {"nome": "Lanusei", "frequenze": ["74.1125", "73.550"]},
+        {"nome": "Macomer", "frequenze": ["74.1125", "73.550"]},
+        {"nome": "Siniscola", "frequenze": ["74.1125", "73.550"]}
+      ]
+    },
+    {
+      "provincia": "Oristano",
+      "localita": [
+        {"nome": "Oristano (Capoluogo)", "frequenze": ["74.125", "73.950"]},
+        {"nome": "Ales", "frequenze": ["74.125", "73.950"]}
+      ]
+    },
+    {
+      "provincia": "Padova",
+      "localita": [
+        {"nome": "Padova (Capoluogo)", "frequenze": ["73.650", "73.925", "74.2375"]},
+        {"nome": "Castelfranco Veneto", "frequenze": ["73.650", "73.925", "74.2375"]},
+        {"nome": "Cittadella", "frequenze": ["73.650", "73.925", "74.2375"]},
+        {"nome": "Este", "frequenze": ["73.650", "73.925", "74.2375"]},
+        {"nome": "Piove di Sacco", "frequenze": ["73.650", "73.925", "74.2375"]},
+        {"nome": "Saonara", "frequenze": ["73.650", "73.925", "74.2375"]}
+      ]
+    },
+    {
+      "provincia": "Palermo",
+      "localita": [
+        {"nome": "Palermo (Distaccamento Nord)", "frequenze": ["73.800", "73.900", "74.475", "74.500"]},
+        {"nome": "Palermo (Distaccamento Sud)", "frequenze": ["73.800", "73.900", "74.475", "74.500"]},
+        {"nome": "Palermo (Nautica)", "frequenze": ["73.800", "73.900", "74.475", "74.500"]},
+        {"nome": "Corleone", "frequenze": ["73.800", "73.900", "74.475", "74.500"]},
+        {"nome": "Partinico", "frequenze": ["73.800", "73.900", "74.475", "74.500"]},
+        {"nome": "Petralia Soprana", "frequenze": ["73.800", "73.900", "74.475", "74.500"]},
+        {"nome": "Termini Imerese (Contrada Bevuto)", "frequenze": ["73.800", "73.900", "74.475", "74.500"]},
+        {"nome": "Ustica", "frequenze": ["73.800", "73.900", "74.475", "74.500"]}
+      ]
+    },
+    {
+      "provincia": "Parma",
+      "localita": [
+        {"nome": "Parma (Capoluogo)", "frequenze": ["73.550", "73.975", "73.825"]},
+        {"nome": "Borgo Val di Taro", "frequenze": ["73.550", "73.975", "73.825"]},
+        {"nome": "Fidenza", "frequenze": ["73.550", "73.975", "73.825"]}
+      ]
+    },
+    {
+      "provincia": "Pavia",
+      "localita": [
+        {"nome": "Pavia (Capoluogo)", "frequenze": ["73.500", "73.975"]},
+        {"nome": "Garlasco", "frequenze": ["73.500", "73.975"]},
+        {"nome": "Mede", "frequenze": ["73.500", "73.975"]},
+        {"nome": "Mortara", "frequenze": ["73.500", "73.975"]},
+        {"nome": "Vigevano", "frequenze": ["73.500", "73.975"]},
+        {"nome": "Voghera", "frequenze": ["73.500", "73.975"]}
+      ]
+    },
+    {
+      "provincia": "Perugia",
+      "localita": [
+        {"nome": "Perugia (Capoluogo)", "frequenze": ["73.675", "73.700", "73.775", "73.800", "73.925", "74.000"], "note": "73.775 fonogrammi"},
+        {"nome": "Assisi", "frequenze": ["73.675", "73.700", "73.775", "73.800", "73.925", "74.000"]},
+        {"nome": "Città di Castello", "frequenze": ["73.675", "73.700", "73.775", "73.800", "73.925", "74.000"]},
+        {"nome": "Foligno", "frequenze": ["73.675", "73.700", "73.775", "73.800", "73.925", "74.000"]},
+        {"nome": "Gubbio", "frequenze": ["73.675", "73.700", "73.775", "73.800", "73.925", "74.000"]},
+        {"nome": "Norcia", "frequenze": ["73.675", "73.700", "73.775", "73.800", "73.925", "74.000"]},
+        {"nome": "Spoleto", "frequenze": ["73.675", "73.700", "73.775", "73.800", "73.925", "74.000"]},
+        {"nome": "Todi", "frequenze": ["73.675", "73.700", "73.775", "73.800", "73.925", "74.000"]}
+      ]
+    },
+    {
+      "provincia": "Pesaro",
+      "localita": [
+        {"nome": "Pesaro (Capoluogo)", "frequenze": ["73.525", "73.600", "73.875", "73.725", "73.950", "74.175"], "note": "parla-ascolta"},
+        {"nome": "Cagli", "frequenze": ["73.525", "73.600", "73.875", "73.725", "73.950", "74.175"]},
+        {"nome": "Fano", "frequenze": ["73.525", "73.600", "73.875", "73.725", "73.950", "74.175"]},
+        {"nome": "Novafeltria", "frequenze": ["73.525", "73.600", "73.875", "73.725", "73.950", "74.175"]},
+        {"nome": "Urbino", "frequenze": ["73.525", "73.600", "73.875", "73.725", "73.950", "74.175"]}
+      ]
+    },
+    {
+      "provincia": "Pescara",
+      "localita": [
+        {"nome": "Pescara (Capoluogo)", "frequenze": ["73.750", "73.900", "73.675", "73.625"]},
+        {"nome": "Pescara (Aeroporto Liberi)", "frequenze": ["73.750", "73.900", "73.675", "73.625"]}
+      ]
+    },
+    {
+      "provincia": "Piacenza",
+      "localita": [
+        {"nome": "Piacenza (Capoluogo)", "frequenze": ["73.550", "73.875", "73.9375"]},
+        {"nome": "Bobbio Piacentino", "frequenze": ["73.550", "73.875", "73.9375"]},
+        {"nome": "Fiorenzuola d'Arda", "frequenze": ["73.550", "73.875", "73.9375"]}
+      ]
+    },
+    {
+      "provincia": "Pisa",
+      "localita": [
+        {"nome": "Pisa (Capoluogo)", "frequenze": ["73.625", "74.300", "73.925", "73.900"], "note": "parla-ascolta"},
+        {"nome": "Pisa (Aeroporto San Giusto)", "frequenze": ["73.625", "74.300", "73.925", "73.900"]},
+        {"nome": "Cascina", "frequenze": ["73.625", "74.300", "73.925", "73.900"]},
+        {"nome": "Pontedera", "frequenze": ["73.625", "74.300", "73.925", "73.900"]},
+        {"nome": "Santa Croce Sull'Arno", "frequenze": ["73.625", "74.300", "73.925", "73.900"]},
+        {"nome": "Volterra (Località Saline)", "frequenze": ["73.625", "74.300", "73.925", "73.900"]}
+      ]
+    },
+    {
+      "provincia": "Pistoia",
+      "localita": [
+        {"nome": "Pistoia (Capoluogo)", "frequenze": ["73.700", "74.5125", "73.675"]},
+        {"nome": "Borgo a Buggiano", "frequenze": ["73.700", "74.5125", "73.675"]},
+        {"nome": "Montecatini Terme", "frequenze": ["73.700", "74.5125", "73.675"]},
+        {"nome": "Pescia", "frequenze": ["73.700", "74.5125", "73.675"]},
+        {"nome": "San Felice", "frequenze": ["73.700", "74.5125", "73.675"]},
+        {"nome": "San Marcello Pistoiese", "frequenze": ["73.700", "74.5125", "73.675"]}
+      ]
+    },
+    {
+      "provincia": "Pordenone",
+      "localita": [
+        {"nome": "Pordenone (Capoluogo)", "frequenze": ["74.4875", "73.95"]},
+        {"nome": "Maniago", "frequenze": ["74.4875", "73.95"]},
+        {"nome": "San Vito al Tagliamento", "frequenze": ["74.4875", "73.95"]},
+        {"nome": "Spilimbergo", "frequenze": ["74.4875", "73.95"]}
+      ]
+    },
+    {
+      "provincia": "Potenza",
+      "localita": [
+        {"nome": "Potenza (Capoluogo)", "frequenze": ["73.900", "74.5125"]},
+        {"nome": "Lauria", "frequenze": ["73.900", "74.5125"]},
+        {"nome": "Marsicovetere", "frequenze": ["73.900", "74.5125"]},
+        {"nome": "Melfi", "frequenze": ["73.900", "74.5125"]}
+      ]
+    },
+    {
+      "provincia": "Prato",
+      "localita": [
+        {"nome": "Prato (Capoluogo)", "frequenze": ["73.525", "73.900", "74.050"]}
+      ]
+    },
+    {
+      "provincia": "Ragusa",
+      "localita": [
+        {"nome": "Ragusa (Capoluogo)", "frequenze": ["73.800", "73.850", "73.8875"]},
+        {"nome": "Modica (Contrada Serrauccelli)", "frequenze": ["73.800", "73.850", "73.8875"]},
+        {"nome": "Vittoria", "frequenze": ["73.800", "73.850", "73.8875"]}
+      ]
+    },
+    {
+      "provincia": "Ravenna",
+      "localita": [
+        {"nome": "Ravenna (Capoluogo)", "frequenze": ["73.550", "73.975", "73.825", "74.325"], "note": "parla-ascolta"},
+        {"nome": "Faenza", "frequenze": ["73.550", "73.975", "73.825", "74.325"]},
+        {"nome": "Lugo", "frequenze": ["73.550", "73.975", "73.825", "74.325"]}
+      ]
+    },
+    {
+      "provincia": "Reggio Calabria",
+      "localita": [
+        {"nome": "Reggio Calabria (Capoluogo)", "frequenze": ["73.500", "73.675", "73.700", "74.0375"]},
+        {"nome": "Reggio Calabria (Aeroporto T. Menniti)", "frequenze": ["73.500", "73.675", "73.700", "74.0375"]},
+        {"nome": "Melito di Porto Salvo", "frequenze": ["73.500", "73.675", "73.700", "74.0375"]},
+        {"nome": "Palmi", "frequenze": ["73.500", "73.675", "73.700", "74.0375"]},
+        {"nome": "Polistena", "frequenze": ["73.500", "73.675", "73.700", "74.0375"]},
+        {"nome": "Siderno", "frequenze": ["73.500", "73.675", "73.700", "74.0375"]}
+      ]
+    },
+    {
+      "provincia": "Reggio Emilia",
+      "localita": [
+        {"nome": "Reggio Emilia (Capoluogo)", "frequenze": ["73.550", "73.950", "73.850"]},
+        {"nome": "Castelnuovo nè Monti", "frequenze": ["73.550", "73.950", "73.850"]},
+        {"nome": "Guastalla", "frequenze": ["73.550", "73.950", "73.850"]}
+      ]
+    },
+    {
+      "provincia": "Rieti",
+      "localita": [
+        {"nome": "Rieti (Capoluogo)", "frequenze": ["73.550", "73.575", "74.2125"]},
+        {"nome": "Fara Sabina", "frequenze": ["73.550", "73.575", "74.2125"]}
+      ]
+    },
+    {
+      "provincia": "Rimini",
+      "localita": [
+        {"nome": "Rimini (Capoluogo)", "frequenze": ["73.550", "73.625", "73.675", "74.1625"]},
+        {"nome": "Rimini (Aeroporto Miramare)", "frequenze": ["73.550", "73.625", "73.675", "74.1625"]},
+        {"nome": "Cattolica", "frequenze": ["73.550", "73.625", "73.675", "74.1625"]}
+      ]
+    },
+    {
+      "provincia": "Roma",
+      "localita": [
+        {"nome": "Roma (Ministero)", "frequenze": ["74.075"]},
+        {"nome": "Roma (Scuole Centrali)", "frequenze": ["73.9875"]},
+        {"nome": "Roma (Città)", "frequenze": ["74.0625"]},
+        {"nome": "Roma (Sede principale)", "frequenze": ["73.600", "73.900", "74.0875"]},
+        {"nome": "Roma (Aeroporto Ciampino)", "frequenze": ["73.600", "73.900", "74.0875"]},
+        {"nome": "Roma (Aeroporto Fiumicino)", "frequenze": ["73.600", "73.900", "74.0875"]},
+        {"nome": "Roma (Stazione Fluviale)", "frequenze": ["73.600", "73.900", "74.0875"]},
+        {"nome": "Anzio", "frequenze": ["73.600", "73.900", "74.0875"]},
+        {"nome": "Bracciano", "frequenze": ["73.600", "73.900", "74.0875"]},
+        {"nome": "Civitavecchia (Porta Tarquinia)", "frequenze": ["73.600", "73.900", "74.0875"]},
+        {"nome": "Colleferro", "frequenze": ["73.600", "73.900", "74.0875"]},
+        {"nome": "Frascati", "frequenze": ["73.600", "73.900", "74.0875"]},
+        {"nome": "Lido di Ostia", "frequenze": ["73.600", "73.900", "74.0875"]},
+        {"nome": "Marino", "frequenze": ["73.600", "73.900", "74.0875"]},
+        {"nome": "Montelibretti", "frequenze": ["73.600", "73.900", "74.0875"]},
+        {"nome": "Palestrina", "frequenze": ["73.600", "73.900", "74.0875"]},
+        {"nome": "Pomezia", "frequenze": ["73.600", "73.900", "74.0875"]},
+        {"nome": "Subiaco", "frequenze": ["73.600", "73.900", "74.0875"]},
+        {"nome": "Tivoli", "frequenze": ["73.600", "73.900", "74.0875"]},
+        {"nome": "Velletri", "frequenze": ["73.600", "73.900", "74.0875"]}
+      ]
+    },
+    {
+      "provincia": "Rovigo",
+      "localita": [
+        {"nome": "Rovigo (Capoluogo)", "frequenze": ["73.650", "74.450", "73.675"]},
+        {"nome": "Adria", "frequenze": ["73.650", "74.450", "73.675"]}
+      ]
+    },
+    {
+      "provincia": "Salerno",
+      "localita": [
+        {"nome": "Salerno (Capoluogo)", "frequenze": ["73.500", "74.1875", "74.250"]},
+        {"nome": "Bellizzi (Nucleo Elicotteri)", "frequenze": ["73.500", "74.1875", "74.250"]},
+        {"nome": "Eboli", "frequenze": ["73.500", "74.1875", "74.250"]},
+        {"nome": "Nocera Inferiore", "frequenze": ["73.500", "74.1875", "74.250"]},
+        {"nome": "Sala Consilina (Statale 16)", "frequenze": ["73.500", "74.1875", "74.250"]},
+        {"nome": "Vallo della Lucania", "frequenze": ["73.500", "74.1875", "74.250"]},
+        {"nome": "Vecite Santa Caterina", "frequenze": ["73.500", "74.1875", "74.250"]}
+      ]
+    },
+    {
+      "provincia": "Sassari",
+      "localita": [
+        {"nome": "Sassari (Capoluogo)", "frequenze": ["73.575", "73.850", "74.1375"]},
+        {"nome": "Alghero (Nucleo Elicotteri Fertilia)", "frequenze": ["73.575", "73.850", "74.1375"]},
+        {"nome": "Olbia (Aeroporto Costa Smeralda)", "frequenze": ["73.575", "73.850", "74.1375"]},
+        {"nome": "Ozieri", "frequenze": ["73.575", "73.850", "74.1375"]},
+        {"nome": "Porto Torres", "frequenze": ["73.575", "73.850", "74.1375"]},
+        {"nome": "Tempio Pausania", "frequenze": ["73.575", "73.850", "74.1375"]}
+      ]
+    },
+    {
+      "provincia": "Savona",
+      "localita": [
+        {"nome": "Savona (Capoluogo)", "frequenze": ["73.525", "73.875", "73.950", "73.550", "74.350"], "note": "parla-ascolta"},
+        {"nome": "Savona (Nautica)", "frequenze": ["73.525", "73.875", "73.950", "73.550", "74.350"]},
+        {"nome": "Albenga", "frequenze": ["73.525", "73.875", "73.950", "73.550", "74.350"]},
+        {"nome": "Cairo Montenotte", "frequenze": ["73.525", "73.875", "73.950", "73.550", "74.350"]},
+        {"nome": "Finale Ligure", "frequenze": ["73.525", "73.875", "73.950", "73.550", "74.350"]},
+        {"nome": "Vado Ligure", "frequenze": ["73.525", "73.875", "73.950", "73.550", "74.350"]},
+        {"nome": "Villanova di Albenga (Aeroporto)", "frequenze": ["73.525", "73.875", "73.950", "73.550", "74.350"]}
+      ]
+    },
+    {
+      "provincia": "Siena",
+      "localita": [
+        {"nome": "Siena (Capoluogo)", "frequenze": ["73.750", "73.775", "73.900", "74.200"], "note": "parla-ascolta"},
+        {"nome": "Chianciano Terme", "frequenze": ["73.750", "73.775", "73.900", "74.200"]},
+        {"nome": "Montalcino (Località Osservanza)", "frequenze": ["73.750", "73.775", "73.900", "74.200"]},
+        {"nome": "Montepulciano (Località Lo Sterro)", "frequenze": ["73.750", "73.775", "73.900", "74.200"]},
+        {"nome": "Piancastagnaio", "frequenze": ["73.750", "73.775", "73.900", "74.200"]},
+        {"nome": "Poggibonsi", "frequenze": ["73.750", "73.775", "73.900", "74.200"]}
+      ]
+    },
+    {
+      "provincia": "Siracusa",
+      "localita": [
+        {"nome": "Siracusa (Capoluogo)", "frequenze": ["73.600", "73.800", "73.925", "74.0875"]},
+        {"nome": "Augusta", "frequenze": ["73.600", "73.800", "73.925", "74.0875"]},
+        {"nome": "Lentini", "frequenze": ["73.600", "73.800", "73.925", "74.0875"]},
+        {"nome": "Noto", "frequenze": ["73.600", "73.800", "73.925", "74.0875"]},
+        {"nome": "Palazzolo Acreide", "frequenze": ["73.600", "73.800", "73.925", "74.0875"]}
+      ]
+    },
+    {
+      "provincia": "Sondrio",
+      "localita": [
+        {"nome": "Sondrio (Capoluogo)", "frequenze": ["74.075", "73.525", "73.850"]},
+        {"nome": "Bormio", "frequenze": ["74.075", "73.525", "73.850"]},
+        {"nome": "Chiavenna", "frequenze": ["74.075", "73.525", "73.850"]},
+        {"nome": "Morbegno", "frequenze": ["74.075", "73.525", "73.850"]},
+        {"nome": "Tirano (Magazzino Deposito)", "frequenze": ["74.075", "73.525", "73.850"]}
+      ]
+    },
+    {
+      "provincia": "Taranto",
+      "localita": [
+        {"nome": "Taranto (Capoluogo)", "frequenze": ["74.4625", "73.550", "73.600"], "note": "parla-ascolta"},
+        {"nome": "Taranto (Nautica)", "frequenze": ["74.4625", "73.550", "73.600"]},
+        {"nome": "Castellaneta", "frequenze": ["74.4625", "73.550", "73.600"]},
+        {"nome": "Manduria", "frequenze": ["74.4625", "73.550", "73.600"]}
+      ]
+    },
+    {
+      "provincia": "Teramo",
+      "localita": [
+        {"nome": "Teramo (Capoluogo)", "frequenze": ["73.900", "74.1375", "73.850", "73.750"]},
+        {"nome": "Nereto", "frequenze": ["73.900", "74.1375", "73.850", "73.750"]},
+        {"nome": "Roseto degli Abruzzi", "frequenze": ["73.900", "74.1375", "73.850", "73.750"]}
+      ]
+    },
+    {
+      "provincia": "Terni",
+      "localita": [
+        {"nome": "Terni (Capoluogo)", "frequenze": ["73.975", "73.8625", "73.800", "73.625"]},
+        {"nome": "Amelia", "frequenze": ["73.975", "73.8625", "73.800", "73.625"]},
+        {"nome": "Orvieto Scalo", "frequenze": ["73.975", "73.8625", "73.800", "73.625"]}
+      ]
+    },
+    {
+      "provincia": "Torino",
+      "localita": [
+        {"nome": "Torino (Capoluogo)", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650", "74.2375"], "note": "parla-ascolta"},
+        {"nome": "Almese", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Alpignano", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Carmagnola", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Chivasso", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Caselle (Aeroporto)", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Caselle (Nucleo Elicotteri)", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Condove", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Giaveno", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Grugliasco", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Ivrea", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Lanzo Torinese", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Luserna San Giovanni", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Pinerolo", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Riva di Chieri (Volontari)", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Rivalta", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Rivoli", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "San Maurizio Canavese (Elicotteri)", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "San Mauro Torinese", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Sant'Antonino di Susa (Autorimessa)", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Santena", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Susa", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Torre Pellice", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Venaria Reale", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]},
+        {"nome": "Vinovo", "frequenze": ["73.550", "73.800", "73.850", "74.1375", "74.1625", "74.2375", "73.650"]}
+      ]
+    },
+    {
+      "provincia": "Trapani",
+      "localita": [
+        {"nome": "Trapani (Capoluogo)", "frequenze": ["73.800", "73.950", "74.0125"]},
+        {"nome": "Trapani (Aeroporto Birgi)", "frequenze": ["73.800", "73.950", "74.0125"]},
+        {"nome": "Trapani (Nautica)", "frequenze": ["73.800", "73.950", "74.0125"]},
+        {"nome": "Alcamo", "frequenze": ["73.800", "73.950", "74.0125"]},
+        {"nome": "Castelvetrano", "frequenze": ["73.800", "73.950", "74.0125"]},
+        {"nome": "Marsala", "frequenze": ["73.800", "73.950", "74.0125"]},
+        {"nome": "Mazara del Vallo", "frequenze": ["73.800", "73.950", "74.0125"]},
+        {"nome": "Pantelleria (Aeroporto)", "frequenze": ["73.800", "73.950", "74.0125"]}
+      ]
+    },
+    {
+      "provincia": "Trento",
+      "localita": [
+        {"nome": "Trento (Capoluogo)", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]},
+        {"nome": "Trento (Nucleo Elicotteri)", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]},
+        {"nome": "Arco", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]},
+        {"nome": "Borgo Val Sugana", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]},
+        {"nome": "Canazei di Fassa", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]},
+        {"nome": "Castello Molina di Fiemme", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]},
+        {"nome": "Cavalese", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]},
+        {"nome": "Fiera di Primiero (Volontari)", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]},
+        {"nome": "Fondo in Val di Non", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]},
+        {"nome": "Levico Terme", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]},
+        {"nome": "Madonna di Campiglio (Pinzolo)", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]},
+        {"nome": "Malè", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]},
+        {"nome": "Mezzano di Primiero", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]},
+        {"nome": "Pergine Valsugana", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]},
+        {"nome": "Predazzo", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]},
+        {"nome": "Rovereto Trentino", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]},
+        {"nome": "San Martino di Castrozza (Magazzino)", "frequenze": ["73.500", "73.575", "73.625", "73.700", "73.725", "73.775", "74.050"]}
+      ]
+    },
+    {
+      "provincia": "Treviso",
+      "localita": [
+        {"nome": "Treviso (Capoluogo)", "frequenze": ["73.600", "73.650", "74.3625"]},
+        {"nome": "Treviso (Aeroporto Sant'Angelo)", "frequenze": ["73.600", "73.650", "74.3625"]},
+        {"nome": "Asolo (Biblioteca) (Volontari)", "frequenze": ["73.600", "73.650", "74.3625"]},
+        {"nome": "Castelfranco Veneto", "frequenze": ["73.600", "73.650", "74.3625"]},
+        {"nome": "Conegliano", "frequenze": ["73.600", "73.650", "74.3625"]},
+        {"nome": "Mogliano Veneto", "frequenze": ["73.600", "73.650", "74.3625"]},
+        {"nome": "Montebelluna", "frequenze": ["73.600", "73.650", "74.3625"]},
+        {"nome": "Motta di Livenza", "frequenze": ["73.600", "73.650", "74.3625"]},
+        {"nome": "Vittorio Veneto", "frequenze": ["73.600", "73.650", "74.3625"]}
+      ]
+    },
+    {
+      "provincia": "Trieste",
+      "localita": [
+        {"nome": "Trieste (Capoluogo)", "frequenze": ["73.525", "73.650", "74.2875"]},
+        {"nome": "Muggia", "frequenze": ["73.525", "73.650", "74.2875"]},
+        {"nome": "Punto Franco Vecchio", "frequenze": ["73.525", "73.650", "74.2875"]},
+        {"nome": "Villa Opicina", "frequenze": ["73.525", "73.650", "74.2875"]}
+      ]
+    },
+    {
+      "provincia": "Udine",
+      "localita": [
+        {"nome": "Udine (Capoluogo)", "frequenze": ["73.500", "73.675", "73.700", "73.750", "74.5125"]},
+        {"nome": "Latisana", "frequenze": ["73.500", "73.675", "73.700", "73.750", "74.5125"]},
+        {"nome": "Cervignano del Friuli", "frequenze": ["73.500", "73.675", "73.700", "73.750", "74.5125"]},
+        {"nome": "Gemona del Friuli", "frequenze": ["73.500", "73.675", "73.700", "73.750", "74.5125"]},
+        {"nome": "Lignano Sabbiadoro", "frequenze": ["73.500", "73.675", "73.700", "73.750", "74.5125"]},
+        {"nome": "Pontebba", "frequenze": ["73.500", "73.675", "73.700", "73.750", "74.5125"]},
+        {"nome": "San Daniele del Friuli", "frequenze": ["73.500", "73.675", "73.700", "73.750", "74.5125"]},
+        {"nome": "Spilimbergo", "frequenze": ["73.500", "73.675", "73.700", "73.750", "74.5125"]},
+        {"nome": "Tarvisio", "frequenze": ["73.500", "73.675", "73.700", "73.750", "74.5125"]},
+        {"nome": "Tolmezzo", "frequenze": ["73.500", "73.675", "73.700", "73.750", "74.5125"]}
+      ]
+    },
+    {
+      "provincia": "Varese",
+      "localita": [
+        {"nome": "Varese (Capoluogo)", "frequenze": ["73.500", "73.625", "74.200"]},
+        {"nome": "Busto Arsizio", "frequenze": ["73.500", "73.625", "74.200"]},
+        {"nome": "Gallarate", "frequenze": ["73.500", "73.625", "74.200"]},
+        {"nome": "Luino", "frequenze": ["73.500", "73.625", "74.200"]},
+        {"nome": "Malpensa (Aeroporto)", "frequenze": ["73.500", "73.625", "74.200"]},
+        {"nome": "Saronno", "frequenze": ["73.500", "73.625", "74.200"]},
+        {"nome": "Somma Lombardo", "frequenze": ["73.500", "73.625", "74.200"]}
+      ]
+    },
+    {
+      "provincia": "Venezia",
+      "localita": [
+        {"nome": "Venezia (Capoluogo)", "frequenze": ["73.575", "73.650", "73.900", "74.0375", "74.3375"]},
+        {"nome": "Venezia (Aeroporto Tessera)", "frequenze": ["73.575", "73.650", "73.900", "74.0375", "74.3375"]},
+        {"nome": "Venezia (Nucleo Elicotteri)", "frequenze": ["73.575", "73.650", "73.900", "74.0375", "74.3375"]},
+        {"nome": "Venezia Lido", "frequenze": ["73.575", "73.650", "73.900", "74.0375", "74.3375"]},
+        {"nome": "Cavarzere", "frequenze": ["73.575", "73.650", "73.900", "74.0375", "74.3375"]},
+        {"nome": "Chioggia", "frequenze": ["73.575", "73.650", "73.900", "74.0375", "74.3375"]},
+        {"nome": "Jesolo Lido", "frequenze": ["73.575", "73.650", "73.900", "74.0375", "74.3375"]},
+        {"nome": "Marghera (Nautica)", "frequenze": ["73.575", "73.650", "73.900", "74.0375", "74.3375"]},
+        {"nome": "Mestre (Località Favorita)", "frequenze": ["73.575", "73.650", "73.900", "74.0375", "74.3375"]},
+        {"nome": "Mira (Località Oriago)", "frequenze": ["73.575", "73.650", "73.900", "74.0375", "74.3375"]},
+        {"nome": "Mirano", "frequenze": ["73.575", "73.650", "73.900", "74.0375", "74.3375"]},
+        {"nome": "Noale", "frequenze": ["73.575", "73.650", "73.900", "74.0375", "74.3375"]},
+        {"nome": "Portogruaro", "frequenze": ["73.575", "73.650", "73.900", "74.0375", "74.3375"]},
+        {"nome": "San Donà di Piave", "frequenze": ["73.575", "73.650", "73.900", "74.0375", "74.3375"]}
+      ]
+    },
+    {
+      "provincia": "Verbania",
+      "localita": [
+        {"nome": "Verbania (Capoluogo)", "frequenze": ["73.575", "73.900", "73.000"], "note": "parla-ascolta"},
+        {"nome": "Baceno", "frequenze": ["73.575", "73.900", "73.000"]},
+        {"nome": "Gravellona Toce (Posto Vigilanza)", "frequenze": ["73.575", "73.900", "73.000"]},
+        {"nome": "Macugnaga", "frequenze": ["73.575", "73.900", "73.000"]},
+        {"nome": "Omegna", "frequenze": ["73.575", "73.900", "73.000"]},
+        {"nome": "Santa Maria Maggiore", "frequenze": ["73.575", "73.900", "73.000"]},
+        {"nome": "Stresa", "frequenze": ["73.575", "73.900", "73.000"]},
+        {"nome": "Varzo", "frequenze": ["73.575", "73.900", "73.000"]},
+        {"nome": "Villadossola", "frequenze": ["73.575", "73.900", "73.000"]}
+      ]
+    },
+    {
+      "provincia": "Vercelli",
+      "localita": [
+        {"nome": "Vercelli (Capoluogo)", "frequenze": ["73.575", "73.725", "73.750", "74.0875", "74.025"], "note": "parla-ascolta"},
+        {"nome": "Alagna Valsesia (Volontari)", "frequenze": ["73.575", "73.725", "73.750", "74.0875", "74.025"]},
+        {"nome": "Borgosesia", "frequenze": ["73.575", "73.725", "73.750", "74.0875", "74.025"]},
+        {"nome": "Ponzone", "frequenze": ["73.575", "73.725", "73.750", "74.0875", "74.025"]},
+        {"nome": "Santhià", "frequenze": ["73.575", "73.725", "73.750", "74.0875", "74.025"]},
+        {"nome": "Varallo Sesia (Statale 299)", "frequenze": ["73.575", "73.725", "73.750", "74.0875", "74.025"]}
+      ]
+    },
+    {
+      "provincia": "Verona",
+      "localita": [
+        {"nome": "Verona (Capoluogo)", "frequenze": ["73.550", "73.650", "73.750", "74.0875"]},
+        {"nome": "Bardolino", "frequenze": ["73.550", "73.650", "73.750", "74.0875"]},
+        {"nome": "Dossobuono (Aeroporto Villafranca)", "frequenze": ["73.550", "73.650", "73.750", "74.0875"]},
+        {"nome": "Legnago", "frequenze": ["73.550", "73.650", "73.750", "74.0875"]}
+      ]
+    },
+    {
+      "provincia": "Vibo Valentia",
+      "localita": [
+        {"nome": "Vibo Valentia (Capoluogo)", "frequenze": ["73.550", "73.700", "74.0625"]}
+      ]
+    },
+    {
+      "provincia": "Vicenza",
+      "localita": [
+        {"nome": "Vicenza (Capoluogo)", "frequenze": ["73.800", "73.900", "73.8875"]},
+        {"nome": "Arzignano", "frequenze": ["73.800", "73.900", "73.8875"]},
+        {"nome": "Asiago", "frequenze": ["73.800", "73.900", "73.8875"]},
+        {"nome": "Bassano del Grappa", "frequenze": ["73.800", "73.900", "73.8875"]},
+        {"nome": "Lonigo", "frequenze": ["73.800", "73.900", "73.8875"]},
+        {"nome": "Schio", "frequenze": ["73.800", "73.900", "73.8875"]},
+        {"nome": "Thiene", "frequenze": ["73.800", "73.900", "73.8875"]}
+      ]
+    },
+    {
+      "provincia": "Viterbo",
+      "localita": [
+        {"nome": "Viterbo (Capoluogo)", "frequenze": ["73.525", "73.575", "74.2375"]},
+        {"nome": "Civita Castellana", "frequenze": ["73.525", "73.575", "74.2375"]},
+        {"nome": "Tuscania", "frequenze": ["73.525", "73.575", "74.2375"]}
+      ]
+    }
+  ],
+  "canali_comuni_nazionali_regionali": [
+    {"ambito": "Nazionale", "nome": "Canale Nazionale", "frequenza": "74.4125"},
+    {"ambito": "Nazionale", "nome": "Canale ponti d'emergenza", "frequenza": "74.5375"},
+    {"ambito": "Nazionale", "nome": "Canale interconnessione Nord/Est", "frequenza": "74.400"},
+    {"ambito": "Nazionale", "nome": "Canale interconnessione Sud", "frequenza": "74.3875"},
+    {"ambito": "Nazionale", "nome": "Canale interconnessione Ovest", "frequenza": "74.375"},
+    {"ambito": "Nazionale", "nome": "Canale interconnessione Est", "frequenza": "74.3625"},
+    {"ambito": "Nazionale", "nome": "Canale interconnessione Nord/Ovest", "frequenza": "74.350"},
+    {"ambito": "Nazionale", "nome": "Canale interconnessione Sud/Nord", "frequenza": "74.3375"},
+    {"ambito": "Nazionale", "nome": "Canale interconnessione Nord", "frequenza": "74.325"},
+    {"ambito": "Regionale", "nome": "Piemonte e Valle d'Aosta", "frequenza": "74.2875"},
+    {"ambito": "Regionale", "nome": "Lombardia", "frequenza": "74.1875"},
+    {"ambito": "Regionale", "nome": "Veneto", "frequenza": "74.2625"},
+    {"ambito": "Regionale", "nome": "Trentino e Friuli", "frequenza": "74.025"},
+    {"ambito": "Regionale", "nome": "Liguria", "frequenza": "74.075"},
+    {"ambito": "Regionale", "nome": "Emilia-Romagna", "frequenza": "74.3125"},
+    {"ambito": "Regionale", "nome": "Toscana", "frequenza": "74.100"},
+    {"ambito": "Regionale", "nome": "Marche", "frequenza": "73.8375"},
+    {"ambito": "Regionale", "nome": "Umbria", "frequenza": "74.0375"},
+    {"ambito": "Regionale", "nome": "Lazio", "frequenza": "73.9125"},
+    {"ambito": "Regionale", "nome": "Abruzzo", "frequenza": "73.8125"},
+    {"ambito": "Regionale", "nome": "Molise", "frequenza": "73.875"},
+    {"ambito": "Regionale", "nome": "Puglia", "frequenza": "74.125"},
+    {"ambito": "Regionale", "nome": "Campania", "frequenza": "74.175"},
+    {"ambito": "Regionale", "nome": "Basilicata", "frequenza": "74.275"},
+    {"ambito": "Regionale", "nome": "Calabria", "frequenza": "74.050"},
+    {"ambito": "Regionale", "nome": "Sicilia", "frequenza": "73.9625"},
+    {"ambito": "Regionale", "nome": "Sardegna", "frequenza": "74.175"}
+  ],
+  "canalizzazione_apparati_uhf": [
+    "434.650", "434.8125", "442.075", "442.125", "442.250", "442.275", "442.425", "442.825"
+  ]
+}
