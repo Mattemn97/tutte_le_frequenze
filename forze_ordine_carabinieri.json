@@ -1,0 +1,317 @@
+{
+  "sezione": "Pronto Intervento Arma dei Carabinieri",
+  "banda_principale": "VHF (77-79 MHz / 87-89 MHz)",
+  "ultimo_aggiornamento": "2026-06",
+  "dati_provinciali": [
+    {
+      "provincia": "Agrigento",
+      "localita": [
+        {"nome": "Agrigento (Comando Provinciale / Centrale Operativa)", "frequenze": ["77.225", "87.225"]},
+        {"nome": "Bivona (Compagnia)", "frequenze": ["77.225", "87.225"]},
+        {"nome": "Cammarata (Compagnia)", "frequenze": ["77.225", "87.225"]},
+        {"nome": "Canicattì (Compagnia)", "frequenze": ["77.225", "87.225"]},
+        {"nome": "Licata (Compagnia)", "frequenze": ["77.225", "87.225"]},
+        {"nome": "Sciacca (Compagnia)", "frequenze": ["77.375", "87.375"]}
+      ]
+    },
+    {
+      "provincia": "Alessandria",
+      "localita": [
+        {"nome": "Alessandria (Comando Provinciale)", "frequenze": ["77.400", "87.400"]},
+        {"nome": "Acqui Terme (Compagnia)", "frequenze": ["77.400", "87.400"]},
+        {"nome": "Casale Monferrato (Compagnia)", "frequenze": ["77.400", "87.400"]},
+        {"nome": "Novi Ligure (Compagnia)", "frequenze": ["77.550", "87.550"]},
+        {"nome": "Tortona (Compagnia)", "frequenze": ["77.550", "87.550"]}
+      ]
+    },
+    {
+      "provincia": "Ancona",
+      "localita": [
+        {"nome": "Ancona (Comando Provinciale)", "frequenze": ["77.125", "77.500", "87.125"]},
+        {"nome": "Fabriano (Compagnia)", "frequenze": ["77.125", "87.125"]},
+        {"nome": "Jesi (Compagnia)", "frequenze": ["77.125", "87.125"]},
+        {"nome": "Osimo (Compagnia)", "frequenze": ["77.125", "87.125"]},
+        {"nome": "Senigallia (Compagnia)", "frequenze": ["77.125", "87.125"]}
+      ]
+    },
+    {
+      "provincia": "Aosta",
+      "localita": [
+        {"nome": "Aosta (Comando Gruppo)", "frequenze": ["77.300", "77.625", "87.300"]},
+        {"nome": "Chatillon (Compagnia)", "frequenze": ["77.300", "87.300"]},
+        {"nome": "Saint Vincent (Stazione)", "frequenze": ["77.300", "87.300"]}
+      ]
+    },
+    {
+      "provincia": "Arezzo",
+      "localita": [
+        {"nome": "Arezzo (Comando Provinciale)", "frequenze": ["77.450", "87.450"]},
+        {"nome": "Bibbiena (Compagnia)", "frequenze": ["77.450", "87.450"]},
+        {"nome": "Cortona (Compagnia)", "frequenze": ["77.450", "87.450"]},
+        {"nome": "San Giovanni Valdarno (Compagnia)", "frequenze": ["77.450", "87.450"]},
+        {"nome": "Sansepolcro (Compagnia)", "frequenze": ["77.450", "87.450"]}
+      ]
+    },
+    {
+      "provincia": "Ascoli Piceno",
+      "localita": [
+        {"nome": "Ascoli Piceno (Comando Provinciale)", "frequenze": ["77.200", "87.200"]},
+        {"nome": "Fermo (Compagnia)", "frequenze": ["77.200", "87.200"]},
+        {"nome": "San Benedetto del Tronto (Compagnia)", "frequenze": ["77.200", "77.650", "87.200"]}
+      ]
+    },
+    {
+      "provincia": "Asti",
+      "localita": [
+        {"nome": "Asti (Comando Provinciale)", "frequenze": ["77.150", "77.475", "87.150"]},
+        {"nome": "Canelli (Compagnia)", "frequenze": ["77.150", "87.150"]}
+      ]
+    },
+    {
+      "provincia": "Avellino",
+      "localita": [
+        {"nome": "Avellino (Comando Provinciale)", "frequenze": ["77.325", "87.325"]},
+        {"nome": "Ariano Irpino (Compagnia)", "frequenze": ["77.325", "87.325"]},
+        {"nome": "Baiano (Compagnia)", "frequenze": ["77.325", "87.325"]},
+        {"nome": "Cervinara (Stazione)", "frequenze": ["77.325", "87.325"]},
+        {"nome": "Mirabella Eclano (Compagnia)", "frequenze": ["77.325", "87.325"]},
+        {"nome": "Montella (Compagnia)", "frequenze": ["77.325", "87.325"]},
+        {"nome": "Sant'Angelo dei Lombardi (Compagnia)", "frequenze": ["77.325", "87.325"]}
+      ]
+    },
+    {
+      "provincia": "Bari",
+      "localita": [
+        {"nome": "Bari (Comando Provinciale / CO San Paolo)", "frequenze": ["77.100", "77.525", "77.900", "87.100"], "note": "77.100 Ch 1 gazzelle Radiomobile"},
+        {"nome": "Altamura (Compagnia)", "frequenze": ["77.100", "87.100"]},
+        {"nome": "Andria (Compagnia)", "frequenze": ["77.250", "87.250"]},
+        {"nome": "Barletta (Compagnia)", "frequenze": ["77.250", "87.250"]},
+        {"nome": "Gioia del Colle (Compagnia)", "frequenze": ["77.100", "87.100"]},
+        {"nome": "Molfetta (Compagnia)", "frequenze": ["77.250", "87.250"]},
+        {"nome": "Monopoli (Compagnia)", "frequenze": ["77.100", "87.100"]},
+        {"nome": "Trani (Compagnia)", "frequenze": ["77.250", "87.250"]}
+      ]
+    },
+    {
+      "provincia": "Belluno",
+      "localita": [
+        {"nome": "Belluno (Comando Provinciale)", "frequenze": ["77.525", "87.525"]},
+        {"nome": "Cortina d'Ampezzo (Compagnia)", "frequenze": ["77.525", "87.525"]},
+        {"nome": "Feltre (Compagnia)", "frequenze": ["77.525", "87.525"]},
+        {"nome": "Pieve di Cadore (Compagnia)", "frequenze": ["77.525", "87.525"]}
+      ]
+    },
+    {
+      "provincia": "Benevento",
+      "localita": [
+        {"nome": "Benevento (Comando Provinciale)", "frequenze": ["77.275", "87.275"]},
+        {"nome": "Cerreto Sannita (Compagnia)", "frequenze": ["77.275", "87.275"]},
+        {"nome": "Montesarchio (Compagnia)", "frequenze": ["77.275", "87.275"]},
+        {"nome": "San Bartolomeo in Galdo (Compagnia)", "frequenze": ["77.275", "87.275"]}
+      ]
+    },
+    {
+      "provincia": "Bergamo",
+      "localita": [
+        {"nome": "Bergamo (Comando Provinciale)", "frequenze": ["77.350", "77.725", "87.350"]},
+        {"nome": "Clusone (Compagnia)", "frequenze": ["77.350", "87.350"]},
+        {"nome": "Treviglio (Compagnia)", "frequenze": ["77.350", "87.350"]},
+        {"nome": "Zogno (Compagnia)", "frequenze": ["77.350", "87.350"]}
+      ]
+    },
+    {
+      "provincia": "Bologna",
+      "localita": [
+        {"nome": "Bologna (Comando Provinciale / CO)", "frequenze": ["77.425", "77.800", "77.925", "87.425"], "note": "77.425 Canale Emergenza 112 / Radiomobile"},
+        {"nome": "Imola (Compagnia)", "frequenze": ["77.425", "87.425"]},
+        {"nome": "Molinella (Compagnia)", "frequenze": ["77.425", "87.425"]},
+        {"nome": "Porretta Terme (Compagnia)", "frequenze": ["77.425", "87.425"]},
+        {"nome": "San Giovanni in Persiceto (Compagnia)", "frequenze": ["77.425", "87.425"]},
+        {"nome": "Vergato (Compagnia)", "frequenze": ["77.425", "87.425"]}
+      ]
+    },
+    {
+      "provincia": "Bolzano",
+      "localita": [
+        {"nome": "Bolzano (Comando Provinciale)", "frequenze": ["77.200", "77.575", "87.200"]},
+        {"nome": "Bressanone (Compagnia)", "frequenze": ["77.200", "87.200"]},
+        {"nome": "Brunico (Compagnia)", "frequenze": ["77.200", "87.200"]},
+        {"nome": "Egna (Compagnia)", "frequenze": ["77.200", "87.200"]},
+        {"nome": "Merano (Compagnia)", "frequenze": ["77.200", "87.200"]},
+        {"nome": "Ortisei (Compagnia)", "frequenze": ["77.200", "87.200"]},
+        {"nome": "San Candido (Compagnia)", "frequenze": ["77.200", "87.200"]},
+        {"nome": "Silandro (Compagnia)", "frequenze": ["77.200", "87.200"]},
+        {"nome": "Vipiteno (Compagnia)", "frequenze": ["77.200", "87.200"]}
+      ]
+    },
+    {
+      "provincia": "Brescia",
+      "localita": [
+        {"nome": "Brescia (Comando Provinciale)", "frequenze": ["77.150", "77.500", "87.150"]},
+        {"nome": "Breno (Compagnia)", "frequenze": ["77.150", "87.150"]},
+        {"nome": "Chiari (Compagnia)", "frequenze": ["77.150", "87.150"]},
+        {"nome": "Desenzano del Garda (Compagnia)", "frequenze": ["77.150", "87.150"]},
+        {"nome": "Gardone Val Trompia (Compagnia)", "frequenze": ["77.150", "87.150"]},
+        {"nome": "Salò (Compagnia)", "frequenze": ["77.150", "87.150"]},
+        {"nome": "Verolanuova (Compagnia)", "frequenze": ["77.150", "87.150"]}
+      ]
+    },
+    {
+      "provincia": "Cagliari",
+      "localita": [
+        {"nome": "Cagliari (Comando Provinciale)", "frequenze": ["77.400", "77.725", "87.400"]},
+        {"nome": "Carbonia (Compagnia)", "frequenze": ["77.400", "87.400"]},
+        {"nome": "Iglesias (Compagnia)", "frequenze": ["77.400", "87.400"]},
+        {"nome": "Isili (Compagnia)", "frequenze": ["77.400", "87.400"]},
+        {"nome": "Sanluri (Compagnia)", "frequenze": ["77.400", "87.400"]},
+        {"nome": "Quartu Sant'Elena (Compagnia)", "frequenze": ["77.400", "87.400"]},
+        {"nome": "Villacidro (Compagnia)", "frequenze": ["77.400", "87.400"]}
+      ]
+    },
+    {
+      "provincia": "Catania",
+      "localita": [
+        {"nome": "Catania (Comando Provinciale / CO)", "frequenze": ["77.225", "77.625", "77.950", "87.225"], "note": "77.225 Frequenza Operativa Gg.Gg."},
+        {"nome": "Acireale (Compagnia)", "frequenze": ["77.225", "87.225"]},
+        {"nome": "Caltagirone (Compagnia)", "frequenze": ["77.225", "87.225"]},
+        {"nome": "Giarre (Compagnia)", "frequenze": ["77.225", "87.225"]},
+        {"nome": "Gravina di Catania (Compagnia)", "frequenze": ["77.225", "87.225"]},
+        {"nome": "Palagonia (Compagnia)", "frequenze": ["77.225", "87.225"]},
+        {"nome": "Paternò (Compagnia)", "frequenze": ["77.225", "87.225"]},
+        {"nome": "Randazzo (Compagnia)", "frequenze": ["77.225", "87.225"]}
+      ]
+    },
+    {
+      "provincia": "Como",
+      "localita": [
+        {"nome": "Como (Comando Provinciale)", "frequenze": ["77.225", "77.600", "87.225"]},
+        {"nome": "Cantù (Compagnia)", "frequenze": ["77.225", "87.225"]},
+        {"nome": "Menaggio (Compagnia)", "frequenze": ["77.225", "87.225"]}
+      ]
+    },
+    {
+      "provincia": "Cuneo",
+      "localita": [
+        {"nome": "Cuneo (Comando Provinciale)", "frequenze": ["77.300", "77.700", "87.300"]},
+        {"nome": "Alba (Compagnia)", "frequenze": ["77.300", "87.300"]},
+        {"nome": "Borgosessio (Stazione)", "frequenze": ["77.300", "87.300"]},
+        {"nome": "Bra (Compagnia)", "frequenze": ["77.300", "87.300"]},
+        {"nome": "Fossano (Compagnia)", "frequenze": ["77.300", "87.300"]},
+        {"nome": "Mondovì (Compagnia)", "frequenze": ["77.300", "87.300"]},
+        {"nome": "Saluzzo (Compagnia)", "frequenze": ["77.300", "87.300"]},
+        {"nome": "Savigliano (Compagnia)", "frequenze": ["77.300", "87.300"]}
+      ]
+    },
+    {
+      "provincia": "Firenze",
+      "localita": [
+        {"nome": "Firenze (Comando Provinciale / CO Borgo Pinti)", "frequenze": ["77.375", "77.750", "77.900", "87.375"]},
+        {"nome": "Borgo San Lorenzo (Compagnia)", "frequenze": ["77.375", "87.375"]},
+        {"nome": "Empoli (Compagnia)", "frequenze": ["77.375", "87.375"]},
+        {"nome": "Figline Valdarno (Compagnia)", "frequenze": ["77.375", "87.375"]},
+        {"nome": "Scandicci (Compagnia)", "frequenze": ["77.375", "87.375"]},
+        {"nome": "Signa (Compagnia)", "frequenze": ["77.375", "87.375"]}
+      ]
+    },
+    {
+      "provincia": "Genova",
+      "localita": [
+        {"nome": "Genova (Comando Provinciale / CO Forte San Giuliano)", "frequenze": ["77.175", "77.550", "77.875", "87.175"], "note": "77.175 Canale Principale Radiomobile"},
+        {"nome": "Chiavari (Compagnia)", "frequenze": ["77.175", "87.175"]},
+        {"nome": "Sestri Levante (Compagnia)", "frequenze": ["77.175", "87.175"]},
+        {"nome": "Arenzano (Compagnia)", "frequenze": ["77.175", "87.175"]},
+        {"nome": "San Martino (Compagnia)", "frequenze": ["77.175", "87.175"]}
+      ]
+    },
+    {
+      "provincia": "Milano",
+      "localita": [
+        {"nome": "Milano (Comando Provinciale / CO Via Moscova)", "frequenze": ["77.250", "77.275", "77.300", "77.650", "77.675", "87.250"], "note": "77.250 Ch 1 Radiomobile (Gazzelle città) / 77.300 Ch 2 Hinterland / 77.650 Link Servizi Speciali Operativi"},
+        {"nome": "Monza (Comando Gruppo / CO)", "frequenze": ["77.450", "77.825", "87.450"]},
+        {"nome": "Sesto San Giovanni (Compagnia)", "frequenze": ["77.300", "87.300"]},
+        {"nome": "Legnano (Compagnia)", "frequenze": ["77.300", "87.300"]},
+        {"nome": "San Donato Milanese (Compagnia)", "frequenze": ["77.300", "87.300"]},
+        {"nome": "Corsico (Compagnia)", "frequenze": ["77.250", "77.300", "87.250"]},
+        {"nome": "Abbiategrasso (Compagnia)", "frequenze": ["77.300", "87.300"]},
+        {"nome": "Desio (Compagnia)", "frequenze": ["77.450", "87.450"]},
+        {"nome": "Seregno (Compagnia)", "frequenze": ["77.450", "87.450"]},
+        {"nome": "Vimercate (Compagnia)", "frequenze": ["77.450", "87.450"]}
+      ]
+    },
+    {
+      "provincia": "Napoli",
+      "localita": [
+        {"nome": "Napoli (Comando Provinciale / CO Caserma Pastrengo)", "frequenze": ["77.450", "77.475", "77.500", "77.825", "77.850", "87.450"], "note": "Struttura multi-canale flessibile per la gestione delle zone calde (città e cintura urbana)"},
+        {"nome": "Bagnoli (Compagnia)", "frequenze": ["77.450", "87.450"]},
+        {"nome": "Castellammare di Stabia (Compagnia)", "frequenze": ["77.450", "87.450"]},
+        {"nome": "Casoria (Compagnia)", "frequenze": ["77.475", "87.475"]},
+        {"nome": "Giugliano in Campania (Compagnia)", "frequenze": ["77.475", "87.475"]},
+        {"nome": "Ischia (Compagnia)", "frequenze": ["77.450", "87.450"]},
+        {"nome": "Marano di Napoli (Compagnia)", "frequenze": ["77.475", "87.475"]},
+        {"nome": "Nola (Compagnia)", "frequenze": ["77.500", "87.500"]},
+        {"nome": "Pozzuoli (Compagnia)", "frequenze": ["77.450", "87.450"]},
+        {"nome": "Torre del Greco (Compagnia)", "frequenze": ["77.450", "87.450"]},
+        {"nome": "Torre Annunziata (Compagnia)", "frequenze": ["77.450", "87.450"]}
+      ]
+    },
+    {
+      "provincia": "Palermo",
+      "localita": [
+        {"nome": "Palermo (Comando Provinciale / CO Piazza Verdi)", "frequenze": ["77.125", "77.150", "77.525", "87.125"], "note": "77.125 Ch 1 Radiomobile città"},
+        {"nome": "Bagheria (Compagnia)", "frequenze": ["77.125", "87.125"]},
+        {"nome": "Carini (Compagnia)", "frequenze": ["77.150", "87.150"]},
+        {"nome": "Cefalù (Compagnia)", "frequenze": ["77.125", "87.125"]},
+        {"nome": "Corleone (Compagnia)", "frequenze": ["77.150", "87.150"]},
+        {"nome": "Lercara Friddi (Compagnia)", "frequenze": ["77.150", "87.150"]},
+        {"nome": "Monreale (Compagnia)", "frequenze": ["77.150", "87.150"]},
+        {"nome": "Partinico (Compagnia)", "frequenze": ["77.150", "87.150"]},
+        {"nome": "Petralia Sottana (Compagnia)", "frequenze": ["77.125", "87.125"]},
+        {"nome": "Termini Imerese (Compagnia)", "frequenze": ["77.125", "87.125"]}
+      ]
+    },
+    {
+      "provincia": "Roma",
+      "localita": [
+        {"nome": "Roma (Comando Provinciale / CO Piazza San Lorenzo in Lucina)", "frequenze": ["77.175", "77.200", "77.225", "77.575", "77.600", "87.175"], "note": "77.175 Ch 1 Radiomobile / 77.200 Ch 2 / 77.225 Ch 3 / 77.575 Canale coordinamento Interforze CO e servizi di scorta Quirinale/Vaticano"},
+        {"nome": "Roma Ostia (Compagnia)", "frequenze": ["77.175", "87.175"]},
+        {"nome": "Roma Cassia (Compagnia)", "frequenze": ["77.200", "87.200"]},
+        {"nome": "Roma Castel Gandolfo (Compagnia)", "frequenze": ["77.225", "87.225"]},
+        {"nome": "Anzio (Compagnia)", "frequenze": ["77.175", "87.175"]},
+        {"nome": "Bracciano (Compagnia)", "frequenze": ["77.200", "87.200"]},
+        {"nome": "Civitavecchia (Compagnia)", "frequenze": ["77.175", "87.175"]},
+        {"nome": "Colleferro (Compagnia)", "frequenze": ["77.225", "87.225"]},
+        {"nome": "Frascati (Compagnia)", "frequenze": ["77.225", "87.225"]},
+        {"nome": "Monterotondo (Compagnia)", "frequenze": ["77.200", "87.200"]},
+        {"nome": "Palestrina (Compagnia)", "frequenze": ["77.225", "87.225"]},
+        {"nome": "Subiaco (Compagnia)", "frequenze": ["77.200", "87.200"]},
+        {"nome": "Tivoli (Compagnia)", "frequenze": ["77.200", "87.200"]},
+        {"nome": "Velletri (Compagnia)", "frequenze": ["77.225", "87.225"]}
+      ]
+    },
+    {
+      "provincia": "Torino",
+      "localita": [
+        {"nome": "Torino (Comando Provinciale / CO Via Valfrè)", "frequenze": ["77.325", "77.350", "77.725", "87.325"], "note": "77.325 Canale gazzelle città"},
+        {"nome": "Chieri (Compagnia)", "frequenze": ["77.325", "87.325"]},
+        {"nome": "Chivasso (Compagnia)", "frequenze": ["77.325", "87.325"]},
+        {"nome": "Ivrea (Compagnia)", "frequenze": ["77.350", "87.350"]},
+        {"nome": "Moncalieri (Compagnia)", "frequenze": ["77.325", "87.325"]},
+        {"nome": "Pinerolo (Compagnia)", "frequenze": ["77.325", "87.325"]},
+        {"nome": "Rivoli (Compagnia)", "frequenze": ["77.325", "87.325"]},
+        {"nome": "Susa (Compagnia)", "frequenze": ["77.350", "77.725", "87.350"], "note": "Sottoponti dedicati per la Val di Susa (controllo cantieri TAV e ordine pubblico)"},
+        {"nome": "Venaria Reale (Compagnia)", "frequenze": ["77.325", "87.325"]}
+      ]
+    }
+  ],
+  "riserve_nazionali_e_speciali_cc": [
+    {"codice": "Bravo 1", "frequenza": "77.500", "note": "Frequenza Nazionale Emergenza e coordinamento mobile Arma"},
+    {"codice": "Bravo 2", "frequenza": "77.900", "note": "Canale Travaso Operativo per macro-eventi e Ordine Pubblico (Battaglioni)"},
+    {"codice": "Bravo 3", "frequenza": "78.025", "note": "Frequenza Servizio Scorte e Reparto Mezzi Corazzati CC"},
+    {"codice": "UHF Dorsale 1", "frequenza": "438.250", "note": "Trassatellitare / Link UHF interconnessione comandi di corpo"},
+    {"codice": "UHF Dorsale 2", "frequenza": "438.475", "note": "Trassatellitare / Link UHF interconnessione comandi di corpo"}
+  ],
+  "frequenze_coordinamento_interforze": {
+    "canale_112": "77.500",
+    "note": "La canalizzazione prevede una spaziatura rigidamente fissa di +10 MHz esatti per la ricezione dai ponti (es. se si trasmette a 77.125, il ponte risponde ed è ascoltabile a 87.125)."
+  }
+}
