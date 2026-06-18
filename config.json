@@ -3,5 +3,6 @@
     { "id": "soccorso_vvff", "label": "🔥 Vigili del Fuoco", "file": "soccorso_vvff.json" },
     { "id": "forze_ordine_polizia", "label": "🚨 Polizia di Stato", "file": "forze_ordine_polizia.json" },
     { "id": "forze_ordine_carabinieri", "label": "🚓 Carabinieri", "file": "forze_ordine_carabinieri.json" }
+    { "id": "forze_ordine_gdf", "label": "🔥🟨 Guardia di Finanza", "file": "forze_ordine_gdf.json" }
   ]
 }
