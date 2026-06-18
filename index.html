@@ -4,50 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Radio Frequency Monitor</title>
-    <!-- W3.CSS Framework -->
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <!-- FontAwesome per icone moderne -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        body { font-family: "Segoe UI", Arial, sans-serif; background-color: #f1f1f1; }
-        .w3-sidebar { z-index: 3; width: 260px; font-weight: bold; background: #1a252f !important; color: #fff; }
-        .w3-main { margin-left: 260px; }
-        .badge-freq { background-color: #e74c3c; color: white; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-family: monospace; display: inline-block; margin: 2px; }
-        .sticky-header { position: sticky; top: 0; z-index: 2; background-color: #f1f1f1; padding-bottom: 10px; }
-        @media (max-width:992px) { .w3-main { margin-left: 0; } .w3-sidebar { display: none; } }
-    </style>
 </head>
-<body>
+<body class="w3-light-grey">
 
-<!-- Sidebar Menu (Popolata dinamicamente) -->
-<nav class="w3-sidebar w3-bar-block w3-collapse w3-animate-left" id="mySidebar">
-    <div class="w3-container w3-padding-16 w3-dark-grey">
-        <h4 class="w3-margin-0"><i class="fa-solid fa-radio w3-margin-right"></i>RF Database</h4>
-    </div>
-    <div id="menu-voci">
-        <!-- Le voci del menu caricate dai JSON appariranno qui -->
-        <div class="w3-padding w3-text-grey"><i class="fa fa-spinner fa-spin"></i> Caricamento moduli...</div>
-    </div>
-</nav>
+<div class="w3-row">
 
-<!-- Effetto Overlay per mobile quando la sidebar è aperta -->
-<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" id="myOverlay"></div>
+    <nav class="w3-sidebar w3-bar-block w3-collapse w3-animate-left w3-card" style="width:20%; background-color:#1a252f; color:#fff; z-index:3;" id="mySidebar">
+        <div class="w3-container w3-padding-16 w3-dark-grey">
+            <h4 class="w3-margin-0"><i class="fa-solid fa-radio w3-margin-right"></i>RF Database</h4>
+        </div>
+        <div id="menu-voci">
+            <div class="w3-padding w3-text-grey"><i class="fa fa-spinner fa-spin"></i> Caricamento moduli...</div>
+        </div>
+    </nav>
 
-<!-- Contenuto Principale -->
-<div class="w3-main">
+    <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" id="myOverlay"></div>
 
-    <!-- Top Header su Mobile -->
-    <header class="w3-container w3-top w3-hide-large w3-black w3-xlarge w3-padding">
-        <a href="javascript:void(0)" class="w3-button w3-black w3-margin-right" onclick="w3_open()"><i class="fa fa-bars"></i></a>
-        <span>RF Database</span>
-    </header>
+    <div class="w3-main" style="margin-left:20%;">
 
-    <!-- Contenitore della Pagina -->
-    <div class="w3-container" style="margin-top:60px; padding: 20px;">
-        
-        <!-- Barra di Ricerca e Info Modulo -->
-        <div class="sticky-header">
-            <div class="w3-card w3-white w3-padding w3-round">
+        <header class="w3-container w3-hide-large w3-black w3-xlarge w3-padding">
+            <a href="javascript:void(0)" class="w3-button w3-black w3-margin-right" onclick="w3_open()"><i class="fa fa-bars"></i></a>
+            <span>RF Database</span>
+        </header>
+
+        <div class="w3-container w3-padding-16">
+            
+            <div class="w3-card w3-white w3-padding w3-round w3-margin-bottom">
                 <h2 id="titolo-sezione" class="w3-text-blue-grey w3-margin-0">Seleziona una categoria</h2>
                 <p id="info-sezione" class="w3-text-grey w3-small w3-margin-0">Scegli un ambito dal menu laterale per iniziare.</p>
                 
@@ -60,17 +44,14 @@
                     </div>
                 </div>
             </div>
-        </div>
 
-        <!-- Sezione Tabelle Principali -->
-        <div id="contenuto-dati" class="w3-margin-top">
-            <!-- I dati estratti dai JSON verranno renderizzati qui sotto forma di tabelle -->
+            <div id="contenuto-dati">
+                </div>
         </div>
-
     </div>
 </div>
 
-<script src="script.js"> </script>
+<script src="script.js"></script>
 
 </body>
 </html>
