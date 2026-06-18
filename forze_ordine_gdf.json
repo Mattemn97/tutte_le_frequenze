@@ -1,0 +1,84 @@
+{
+  "sezione": "Guardia di Finanza (G.d.F.)",
+  "banda_principale": "VHF (74-76 MHz / 84-86 MHz)",
+  "ultimo_aggiornamento": "2026-06",
+  "dati_provinciali": [
+    {
+      "provincia": "Agrigento",
+      "localita": [
+        {"nome": "Agrigento (Comando Provinciale)", "frequenze": ["74.875", "84.875"]},
+        {"nome": "Lampedusa (Tenenza / Unità Navale)", "frequenze": ["74.875", "84.875", "156.425"], "note": "Canale 68 Nautico G.d.F. Flotta"},
+        {"nome": "Licata (Tenenza)", "frequenze": ["74.875", "84.875"]},
+        {"nome": "Sciacca (Tenenza)", "frequenze": ["74.875", "84.875"]}
+      ]
+    },
+    {
+      "provincia": "Ancona",
+      "localita": [
+        {"nome": "Ancona (Comando Regionale / Porto)", "frequenze": ["74.625", "74.950", "84.625"]},
+        {"nome": "Falconara Marittima (Sezione Aerea)", "frequenze": ["74.625", "84.625", "143.200"], "note": "143.200 Link Volo Volpe"},
+        {"nome": "Senigallia (Tenenza)", "frequenze": ["74.625", "84.625"]}
+      ]
+    },
+    {
+      "provincia": "Bari",
+      "localita": [
+        {"nome": "Bari (Comando Regionale / CO)", "frequenze": ["74.700", "75.125", "84.700"], "note": "74.700 Canale Operativo Unità Mobili \u0022Grifo\u0022"},
+        {"nome": "Bari (Stazione Navale Porto)", "frequenze": ["74.700", "84.700", "156.300"], "note": "Canale 06 VHF Marina Interno G.d.F."},
+        {"nome": "Barletta (Compagnia)", "frequenze": ["74.700", "84.700"]},
+        {"nome": "Monopoli (Compagnia)", "frequenze": ["74.700", "84.700"]}
+      ]
+    },
+    {
+      "provincia": "Genova",
+      "localita": [
+        {"nome": "Genova (Comando Provinciale / Porto)", "frequenze": ["74.800", "75.050", "84.800"]},
+        {"nome": "Genova (Reparto Operativo Aeronavale)", "frequenze": ["74.800", "84.800", "156.425"]},
+        {"nome": "Chiavari (Compagnia)", "frequenze": ["74.800", "84.800"]}
+      ]
+    },
+    {
+      "provincia": "Milano",
+      "localita": [
+        {"nome": "Milano (Comando Regionale Via Valtellina)", "frequenze": ["74.650", "74.675", "74.900", "84.650"], "note": "74.650 Ch 1 Operativo Milano Città / 74.900 Frequenza di travaso verifiche"},
+        {"nome": "Milano (Aeroporto Linate)", "frequenze": ["74.650", "84.650"]},
+        {"nome": "Milano (Aeroporto Malpensa)", "frequenze": ["74.725", "84.725"], "note": "Canale doganale merci Cargo Città"},
+        {"nome": "Monza (Compagnia)", "frequenze": ["74.650", "84.650"]},
+        {"nome": "Sesto San Giovanni (Tenenza)", "frequenze": ["74.650", "84.650"]}
+      ]
+    },
+    {
+      "provincia": "Napoli",
+      "localita": [
+        {"nome": "Napoli (Comando Provinciale / CO Caserma Zanzur)", "frequenze": ["74.925", "74.950", "75.100", "84.925"], "note": "74.925 Canale ATPI (Baschi Verdi) pronto impiego"},
+        {"nome": "Napoli (Capodichino Sezione Aerea)", "frequenze": ["74.925", "143.250"]},
+        {"nome": "Ischia (Tenenza)", "frequenze": ["74.925", "84.925"]},
+        {"nome": "Pozzuoli (Compagnia)", "frequenze": ["74.925", "84.925"]}
+      ]
+    },
+    {
+      "provincia": "Roma",
+      "localita": [
+        {"nome": "Roma (Comando Generale / CO Via XXI Aprile)", "frequenze": ["74.750", "74.775", "75.150", "84.750"], "note": "74.750 Canale Operativo Centrale \u0022Sondaggio\u0022 / 75.150 Interconnessione Ministero Finanze"},
+        {"nome": "Roma (Aeroporto Fiumicino Dogana)", "frequenze": ["74.750", "74.825", "84.750"]},
+        {"nome": "Civitavecchia (Sezione Navale)", "frequenze": ["74.750", "84.750", "156.425"]},
+        {"nome": "Pratica di Mare (Centro Aviazione)", "frequenze": ["74.775", "143.200", "143.300"], "note": "Frequenze di raccordo flotta aerea nazionale G.d.F."}
+      ]
+    },
+    {
+      "provincia": "Torino",
+      "localita": [
+        {"nome": "Torino (Comando Provinciale Corso IV Novembre)", "frequenze": ["74.600", "74.850", "84.600"], "note": "74.600 Canale Operativo 117 / Nucleo PT"},
+        {"nome": "Bardonecchia (Tenenza del Frejus)", "frequenze": ["74.600", "84.600"]},
+        {"nome": "Ivrea (Compagnia)", "frequenze": ["74.600", "84.600"]},
+        {"nome": "Orbassano (Sito Interporto)", "frequenze": ["74.850", "84.850"]}
+      ]
+    }
+  ],
+  "canali_speciali_nazionali_gdf": [
+    {"codice": "Charlie 1", "frequenza": "74.550", "note": "Canale Nazionale di Soccorso ed Emergenza 117 G.d.F."},
+    {"codice": "Charlie 2", "frequenza": "75.000", "note": "Canale di travaso e Ordine Pubblico ATPI interforze"},
+    {"codice": "Volo Volpe", "frequenza": "143.200", "note": "Frequenza VHF Aeronautica principale per elicotteri/aerei G.d.F."},
+    {"codice": "Flotta Navale", "frequenza": "156.425", "note": "Canale 68 VHF Marina (utilizzato internamente per comunicazioni operative bordo-costa)"}
+  ]
+}
