@@ -1,0 +1,290 @@
+{
+  "sezione": "Pronto Intervento Polizia di Stato",
+  "banda_principale": "VHF (75-77 MHz / 85-87 MHz)",
+  "ultimo_aggiornamento": "2026-06",
+  "dati_provinciali": [
+    {
+      "provincia": "Agrigento",
+      "localita": [
+        {"nome": "Agrigento (Questura - CO)", "frequenze": ["75.250", "75.400", "85.250"]},
+        {"nome": "Canicattì (Commissariato)", "frequenze": ["75.250", "85.250"]},
+        {"nome": "Lampedusa (Posto Polizia)", "frequenze": ["75.400", "85.400"]},
+        {"nome": "Licata (Commissariato)", "frequenze": ["75.250", "85.250"]},
+        {"nome": "Porto Empedocle", "frequenze": ["75.250", "85.250"]},
+        {"nome": "Sciacca (Commissariato)", "frequenze": ["75.300", "85.300"]}
+      ]
+    },
+    {
+      "provincia": "Alessandria",
+      "localita": [
+        {"nome": "Alessandria (Questura)", "frequenze": ["76.125", "76.500", "86.125"]},
+        {"nome": "Acqui Terme (Commissariato)", "frequenze": ["76.125", "86.125"]},
+        {"nome": "Casale Monferrato", "frequenze": ["76.125", "86.125"]},
+        {"nome": "Novi Ligure (Polfer / Stradale)", "frequenze": ["76.500", "86.500"]},
+        {"nome": "Serravalle Scrivia", "frequenze": ["76.500", "86.500"]},
+        {"nome": "Tortona (Polstrada)", "frequenze": ["76.500", "86.500"]}
+      ]
+    },
+    {
+      "provincia": "Ancona",
+      "localita": [
+        {"nome": "Ancona (Questura / CO)", "frequenze": ["75.600", "75.925", "85.600"], "note": "parla-ascolta"},
+        {"nome": "Fabriano (Commissariato)", "frequenze": ["75.600", "85.600"]},
+        {"nome": "Falconara Marittima", "frequenze": ["75.925", "85.925"]},
+        {"nome": "Jesi (Commissariato)", "frequenze": ["75.600", "85.600"]},
+        {"nome": "Loreto (Posto Polizia)", "frequenze": ["75.600", "85.600"]},
+        {"nome": "Senigallia (Commissariato)", "frequenze": ["75.600", "85.600"]}
+      ]
+    },
+    {
+      "provincia": "Aosta",
+      "localita": [
+        {"nome": "Aosta (Questura)", "frequenze": ["75.450", "75.800", "85.450"]},
+        {"nome": "Courmayeur (Traforo Monte Bianco)", "frequenze": ["75.800", "85.800", "76.925"]},
+        {"nome": "Pont Saint Martin (Polstrada)", "frequenze": ["75.450", "85.450"]}
+      ]
+    },
+    {
+      "provincia": "Arezzo",
+      "localita": [
+        {"nome": "Arezzo (Questura)", "frequenze": ["75.325", "75.750", "85.325"]},
+        {"nome": "Battifolle (Polstrada A1)", "frequenze": ["75.750", "85.750"], "note": "Canale Autostradale CO"},
+        {"nome": "San Sepolcro (Posto Polizia)", "frequenze": ["75.325", "85.325"]},
+        {"nome": "Valdarno (Polstrada)", "frequenze": ["75.750", "85.750"]}
+      ]
+    },
+    {
+      "provincia": "Ascoli Piceno",
+      "localita": [
+        {"nome": "Ascoli Piceno (Questura)", "frequenze": ["75.525", "85.525"]},
+        {"nome": "Fermo (Commissariato)", "frequenze": ["75.525", "85.525"]},
+        {"nome": "Porto San Giorgio (Polstrada)", "frequenze": ["75.525", "85.525"]},
+        {"nome": "San Benedetto del Tronto", "frequenze": ["75.525", "75.900", "85.525"]}
+      ]
+    },
+    {
+      "provincia": "Asti",
+      "localita": [
+        {"nome": "Asti (Questura / CO)", "frequenze": ["76.025", "76.450", "86.025"]},
+        {"nome": "Nizza Monferrato (Polstrada)", "frequenze": ["76.450", "86.450"]}
+      ]
+    },
+    {
+      "provincia": "Avellino",
+      "localita": [
+        {"nome": "Avellino (Questura)", "frequenze": ["75.225", "75.650", "85.225"]},
+        {"nome": "Ariano Irpino (Commissariato)", "frequenze": ["75.225", "85.225"]},
+        {"nome": "Cervinara (Commissariato)", "frequenze": ["75.225", "85.225"]},
+        {"nome": "Grottaminarda (Polstrada)", "frequenze": ["75.650", "85.650"]},
+        {"nome": "Lauro (Commissariato)", "frequenze": ["75.225", "85.225"]},
+        {"nome": "Sant'Angelo dei Lombardi", "frequenze": ["75.225", "85.225"]}
+      ]
+    },
+    {
+      "provincia": "Bari",
+      "localita": [
+        {"nome": "Bari (Questura / CO)", "frequenze": ["75.500", "75.900", "76.225", "85.500"], "note": "parla-ascolta Volanti"},
+        {"nome": "Bari (Aeroporto Palese)", "frequenze": ["75.500", "76.350", "85.500"]},
+        {"nome": "Bari (Polfer / Nautica)", "frequenze": ["75.900", "85.900"]},
+        {"nome": "Altamura (Polstrada)", "frequenze": ["75.500", "85.500"]},
+        {"nome": "Andria (Commissariato)", "frequenze": ["75.525", "85.525"]},
+        {"nome": "Barletta (Commissariato)", "frequenze": ["75.525", "85.525"]},
+        {"nome": "Canosa di Puglia (Commissariato)", "frequenze": ["75.525", "85.525"]},
+        {"nome": "Castellana Grotte", "frequenze": ["75.500", "85.500"]},
+        {"nome": "Corato (Commissariato)", "frequenze": ["75.525", "85.525"]},
+        {"nome": "Gioia del Colle (Polstrada)", "frequenze": ["75.900", "85.900"]},
+        {"nome": "Monopoli (Commissariato)", "frequenze": ["75.500", "85.500"]},
+        {"nome": "Ruvo di Puglia (Polstrada)", "frequenze": ["75.525", "85.525"]}
+      ]
+    },
+    {
+      "provincia": "Belluno",
+      "localita": [
+        {"nome": "Belluno (Questura)", "frequenze": ["75.350", "75.825", "85.350"]},
+        {"nome": "Cortina d'Ampezzo (Commissariato)", "frequenze": ["75.350", "85.350", "76.125"]},
+        {"nome": "Feltre (Polstrada)", "frequenze": ["75.350", "85.350"]},
+        {"nome": "Pieve di Cadore (Polstrada)", "frequenze": ["75.825", "85.825"]},
+        {"nome": "Valle di Cadore (Posto Polizia)", "frequenze": ["75.350", "85.350"]}
+      ]
+    },
+    {
+      "provincia": "Benevento",
+      "localita": [
+        {"nome": "Benevento (Questura)", "frequenze": ["75.470", "75.725", "85.470"]},
+        {"nome": "San Salvatore Telesino", "frequenze": ["75.470", "85.470"]}
+      ]
+    },
+    {
+      "provincia": "Bergamo",
+      "localita": [
+        {"nome": "Bergamo (Questura / CO)", "frequenze": ["75.625", "76.150", "85.625"], "note": "parla-ascolta Co.Re."},
+        {"nome": "Bergamo (Aeroporto Orio)", "frequenze": ["75.625", "85.625", "76.950"]},
+        {"nome": "Seriate (Polstrada A4)", "frequenze": ["76.150", "86.150"]},
+        {"nome": "Treviglio (Commissariato)", "frequenze": ["75.625", "85.625"]}
+      ]
+    },
+    {
+      "provincia": "Bologna",
+      "localita": [
+        {"nome": "Bologna (Questura / CO)", "frequenze": ["75.275", "75.700", "76.325", "85.275"], "note": "75.275 Canale Volanti principale"},
+        {"nome": "Bologna (Aeroporto Borgo Panigale)", "frequenze": ["75.275", "85.275", "76.875"]},
+        {"nome": "Bologna (Polstrada Casalecchio)", "frequenze": ["75.700", "85.700"]},
+        {"nome": "Bologna (Reparto Mobile)", "frequenze": ["76.100", "86.100"]},
+        {"nome": "Imola (Commissariato)", "frequenze": ["75.275", "85.275"]},
+        {"nome": "San Giovanni in Persiceto", "frequenze": ["75.275", "85.275"]}
+      ]
+    },
+    {
+      "provincia": "Bolzano",
+      "localita": [
+        {"nome": "Bolzano (Questura / CO)", "frequenze": ["75.550", "75.925", "85.550"], "note": "bilingue Italiano/Tedesco"},
+        {"nome": "Brennero (Polizia di Frontiera)", "frequenze": ["75.925", "85.925", "76.400"]},
+        {"nome": "Bressanone (Commissariato)", "frequenze": ["75.550", "85.550"]},
+        {"nome": "Brunico (Commissariato)", "frequenze": ["75.550", "85.550"]},
+        {"nome": "Merano (Commissariato)", "frequenze": ["75.550", "85.550"]},
+        {"nome": "San Candido (Commissariato)", "frequenze": ["75.550", "85.550"]}
+      ]
+    },
+    {
+      "provincia": "Brescia",
+      "localita": [
+        {"nome": "Brescia (Questura / CO)", "frequenze": ["75.300", "75.800", "85.300"]},
+        {"nome": "Desenzano del Garda", "frequenze": ["75.300", "85.300"]},
+        {"nome": "Darfo Boario Terme (Polstrada)", "frequenze": ["75.800", "85.800"]},
+        {"nome": "Montichiari (Polstrada)", "frequenze": ["75.300", "85.300"]},
+        {"nome": "Salò (Polstrada)", "frequenze": ["75.300", "85.300"]}
+      ]
+    },
+    {
+      "provincia": "Cagliari",
+      "localita": [
+        {"nome": "Cagliari (Questura)", "frequenze": ["75.650", "75.950", "85.650"]},
+        {"nome": "Cagliari (Aeroporto Elmas)", "frequenze": ["75.650", "85.650"]},
+        {"nome": "Carbonia (Commissariato)", "frequenze": ["75.650", "85.650"]},
+        {"nome": "Iglesias (Commissariato)", "frequenze": ["75.650", "85.650"]},
+        {"nome": "Quartu Sant'Elena", "frequenze": ["75.650", "85.650"]}
+      ]
+    },
+    {
+      "provincia": "Catania",
+      "localita": [
+        {"nome": "Catania (Questura / CO)", "frequenze": ["75.450", "75.850", "76.150", "85.450"], "note": "75.450 Volanti / 75.850 Polstrada-Polfer"},
+        {"nome": "Catania (Aeroporto Fontanarossa)", "frequenze": ["75.450", "85.450", "76.900"]},
+        {"nome": "Caltagirone (Commissariato)", "frequenze": ["75.450", "85.450"]},
+        {"nome": "Adrano (Commissariato)", "frequenze": ["75.450", "85.450"]},
+        {"nome": "Acireale (Commissariato)", "frequenze": ["75.450", "85.450"]}
+      ]
+    },
+    {
+      "provincia": "Como",
+      "localita": [
+        {"nome": "Como (Questura)", "frequenze": ["75.250", "75.725", "85.250"]},
+        {"nome": "Chiasso (Polizia di Frontiera)", "frequenze": ["75.725", "85.725", "76.300"]},
+        {"nome": "Bellano (Polstrada)", "frequenze": ["75.250", "85.250"]}
+      ]
+    },
+    {
+      "provincia": "Cuneo",
+      "localita": [
+        {"nome": "Cuneo (Questura)", "frequenze": ["75.625", "75.950", "85.625"]},
+        {"nome": "Alba (Posto Polizia)", "frequenze": ["75.625", "85.625"]},
+        {"nome": "Bra (Polstrada)", "frequenze": ["75.625", "85.625"]},
+        {"nome": "Bra (Posto Polizia)", "frequenze": ["75.625", "85.625"]},
+        {"nome": "Mondovì (Polstrada)", "frequenze": ["75.950", "85.950"]},
+        {"nome": "Saluzzo (Posto Polizia)", "frequenze": ["75.625", "85.625"]}
+      ]
+    },
+    {
+      "provincia": "Firenze",
+      "localita": [
+        {"nome": "Firenze (Questura / CO)", "frequenze": ["75.225", "75.650", "76.250", "85.225"], "note": "75.225 Volanti principale"},
+        {"nome": "Firenze (Aeroporto Peretola)", "frequenze": ["75.225", "85.225"]},
+        {"nome": "Firenze (Polstrada A1 Nord)", "frequenze": ["75.650", "85.650"]},
+        {"nome": "Empoli (Commissariato)", "frequenze": ["75.225", "85.225"]},
+        {"nome": "Sesto Fiorentino", "frequenze": ["75.225", "85.225"]}
+      ]
+    },
+    {
+      "provincia": "Genova",
+      "localita": [
+        {"nome": "Genova (Questura / CO)", "frequenze": ["75.325", "75.750", "76.050", "85.325"], "note": "75.325 Volanti / 75.750 Polstrada e Nautica"},
+        {"nome": "Genova (Aeroporto C. Colombo)", "frequenze": ["75.325", "85.325", "76.925"]},
+        {"nome": "Chiavari (Commissariato)", "frequenze": ["75.325", "85.325"]},
+        {"nome": "Sampierdarena (Polfer)", "frequenze": ["75.750", "85.750"]}
+      ]
+    },
+    {
+      "provincia": "Milano",
+      "localita": [
+        {"nome": "Milano (Questura - CO Centrale)", "frequenze": ["75.400", "75.425", "75.450", "75.850", "75.875", "85.400"], "note": "75.400 Ch 1 Volanti / 75.450 Ch 2 / 75.850 Polstrada CO Milano Ovest"},
+        {"nome": "Milano (Aeroporto Linate)", "frequenze": ["75.400", "85.400", "76.850"]},
+        {"nome": "Milano (Aeroporto Malpensa)", "frequenze": ["75.525", "85.525", "76.970"], "note": "Competenza territoriale estesa"},
+        {"nome": "Milano (Polfer Centrale)", "frequenze": ["75.875", "85.875"]},
+        {"nome": "Milano (Reparto Mobile)", "frequenze": ["76.000", "76.200", "86.000"]},
+        {"nome": "Monza (Commissariato / CO)", "frequenze": ["75.350", "75.825", "85.350"]},
+        {"nome": "Sesto San Giovanni", "frequenze": ["75.400", "75.425", "85.400"]},
+        {"nome": "Legnano (Commissariato)", "frequenze": ["75.400", "85.400"]}
+      ]
+    },
+    {
+      "provincia": "Napoli",
+      "localita": [
+        {"nome": "Napoli (Questura / CO centrale)", "frequenze": ["75.300", "75.350", "75.750", "75.800", "85.300"], "note": "Multi-canale Volanti/Radiomobile PS"},
+        {"nome": "Napoli (Aeroporto Capodichino)", "frequenze": ["75.300", "85.300", "76.800"]},
+        {"nome": "Napoli (Polfer / Nautica Porto)", "frequenze": ["75.750", "85.750"]},
+        {"nome": "Acerra (Commissariato)", "frequenze": ["75.350", "85.350"]},
+        {"nome": "Castellammare di Stabia", "frequenze": ["75.300", "85.300"]},
+        {"nome": "Ischia (Commissariato)", "frequenze": ["75.300", "85.300"]},
+        {"nome": "Nola (Commissariato)", "frequenze": ["75.350", "85.350"]},
+        {"nome": "Pozzuoli (Commissariato)", "frequenze": ["75.300", "85.300"]},
+        {"nome": "Torre del Greco", "frequenze": ["75.300", "85.300"]}
+      ]
+    },
+    {
+      "provincia": "Palermo",
+      "localita": [
+        {"nome": "Palermo (Questura / CO Volanti)", "frequenze": ["75.525", "75.550", "75.950", "85.525"], "note": "75.525 Ch Principale Volanti"},
+        {"nome": "Palermo (Aeroporto Punta Raisi)", "frequenze": ["75.525", "85.525", "76.950"]},
+        {"nome": "Bagheria (Commissariato)", "frequenze": ["75.525", "85.525"]},
+        {"nome": "Cefalù (Commissariato)", "frequenze": ["75.525", "85.525"]},
+        {"nome": "Termini Imerese", "frequenze": ["75.525", "75.950", "85.525"]}
+      ]
+    },
+    {
+      "provincia": "Roma",
+      "localita": [
+        {"nome": "Roma (Questura - CO Centrale San Vitale)", "frequenze": ["75.600", "75.625", "75.650", "75.700", "76.000", "76.025", "85.600"], "note": "75.600 Ch 1 Volanti / 75.625 Ch 2 Volanti / 76.000 Canale CO Roma-Polstrada / 75.700 Fluviale-Tevere / Civitavecchia Nautica"},
+        {"nome": "Roma (Aeroporto Fiumicino)", "frequenze": ["75.600", "85.600", "76.900", "76.925"]},
+        {"nome": "Roma (Aeroporto Ciampino)", "frequenze": ["75.600", "85.600", "76.825"]},
+        {"nome": "Anzio / Nettuno (Commissariato)", "frequenze": ["75.600", "85.600"]},
+        {"nome": "Civitavecchia (Commissariato)", "frequenze": ["75.600", "75.700", "85.600"]},
+        {"nome": "Frascati (Commissariato)", "frequenze": ["75.625", "85.625"]},
+        {"nome": "Tivoli (Commissariato)", "frequenze": ["75.625", "85.625"]},
+        {"nome": "Velletri (Commissariato)", "frequenze": ["75.600", "85.600"]}
+      ]
+    },
+    {
+      "provincia": "Torino",
+      "localita": [
+        {"nome": "Torino (Questura / CO Centrale)", "frequenze": ["75.500", "75.525", "75.900", "75.925", "85.500"], "note": "75.500 Ch 1 Volanti / 75.900 Sottoponti Stradale-Susa"},
+        {"nome": "Torino (Aeroporto Caselle)", "frequenze": ["75.500", "85.500", "76.800"]},
+        {"nome": "Bardonecchia (Polizia Frontiera)", "frequenze": ["75.900", "85.900", "76.350"]},
+        {"nome": "Ivrea (Commissariato)", "frequenze": ["75.500", "85.500"]},
+        {"nome": "Pinerolo (Commissariato)", "frequenze": ["75.500", "85.500"]},
+        {"nome": "Susa (Polstrada Traforo)", "frequenze": ["75.900", "85.900"]}
+      ]
+    }
+  ],
+  "canali_nella_riserva_di_stato": [
+    {"codice": "Alpha 1", "frequenza": "75.200", "note": "Frequenza di riserva nazionale / Interforze PS"},
+    {"codice": "Alpha 2", "frequenza": "75.575", "note": "Emergenza ordine pubblico coordinamento"},
+    {"codice": "Alpha 3", "frequenza": "76.100", "note": "Reparti Mobili - Canale di travaso Alpha"},
+    {"codice": "Alpha 4", "frequenza": "76.550", "note": "Collegamenti speciali CO inter-questure"},
+    {"codice": "UHF Link 1", "frequenza": "440.125", "note": "Dorsale UHF di trasferimento dati e fonia Questure-Viminale"},
+    {"codice": "UHF Link 2", "frequenza": "440.350", "note": "Dorsale UHF di trasferimento dati e fonia Questure-Viminale"}
+  ],
+  "note_operative_scrambler": {
+    "tecnologia": "Inversione di banda analogica / Digitale Crypto (ove implementato)",
+    "note": "Molti dei canali elencati utilizzano sistemi di mascheramento della parola analogici o ponti ripetitori con tone-squelch (CTCSS) differenziati tra ingresso e uscita."
+  }
+}
