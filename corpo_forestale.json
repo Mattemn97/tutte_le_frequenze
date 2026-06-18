@@ -1,0 +1,62 @@
+{
+  "sezione": "Corpo Forestale e Antincendio Boschivo (A.I.B.)",
+  "banda_principale": "VHF (79-81 MHz / 156-160 MHz)",
+  "ultimo_aggiornamento": "2026-06",
+  "dati_provinciali": [
+    {
+      "provincia": "Ancona",
+      "localita": [
+        {"nome": "Ancona (Comando Regionale CFS)", "frequenze": ["79.925", "81.425"]},
+        {"nome": "Fabriano (Stazione Forestale)", "frequenze": ["79.925"]},
+        {"nome": "Parco del Conero (Vigilanza)", "frequenze": ["156.150"], "note": "Canale civile VHF Guardaparco"}
+      ]
+    },
+    {
+      "provincia": "Bari",
+      "localita": [
+        {"nome": "Bari (Comando Provinciale CFS)", "frequenze": ["79.800", "81.300"]},
+        {"nome": "Altamura (Parco Alta Murgia)", "frequenze": ["79.800"]},
+        {"nome": "Gioia del Colle (Servizio A.I.B.)", "frequenze": ["158.800"], "note": "Canale radio per lo spegnimento dei fuochi estivi"}
+      ]
+    },
+    {
+      "provincia": "Bologna",
+      "localita": [
+        {"nome": "Bologna (Centrale Operativa Regionale CFS)", "frequenze": ["79.850", "81.350"], "note": "Identificativo radio \u0022Quadrifoglio Bologna\u0022"},
+        {"nome": "Imola (Stazione Forestale Appennino)", "frequenze": ["79.850"]},
+        {"nome": "Porretta Terme (Presidio Montano)", "frequenze": ["79.850", "159.225"], "note": "159.225 Raccordo con Protezione Civile Volontari"}
+      ]
+    },
+    {
+      "provincia": "L'Aquila",
+      "localita": [
+        {"nome": "L'Aquila (Comando Regionale \u0022Sila\u0022)", "frequenze": ["79.900", "81.400"]},
+        {"nome": "Parco Nazionale d'Abruzzo (Sede Pescasseroli)", "frequenze": ["79.900", "156.100"], "note": "Canale interno dei Guardaparco anti-bracconaggio"},
+        {"nome": "Sulmona (Stazione CFS)", "frequenze": ["79.900"]}
+      ]
+    },
+    {
+      "provincia": "Roma",
+      "localita": [
+        {"nome": "Roma (Direzione Generale / CO Nazionale Viminale)", "frequenze": ["79.775", "79.975", "81.275", "81.475"], "note": "Centrale Nazionale \u0022Quadrifoglio Roma\u0022"},
+        {"nome": "Roma (Centro Elicotteri Rieti/Urbe)", "frequenze": ["79.775", "159.950"], "note": "Frequenza volo elicotteri antincendio \u0022Canarini\u0022"},
+        {"nome": "Civitavecchia (Vigilanza Costiera CFS)", "frequenze": ["79.975"]},
+        {"nome": "Velletri (Stazione Forestale Parco Castelli)", "frequenze": ["79.975"]}
+      ]
+    },
+    {
+      "provincia": "Torino",
+      "localita": [
+        {"nome": "Torino (Comando Provinciale CFS)", "frequenze": ["79.950", "81.450"]},
+        {"nome": "Pinerolo (Sede Valli Chisone e Germanasca)", "frequenze": ["79.950"]},
+        {"nome": "Susa (Vigilanza Alpina CFS)", "frequenze": ["79.950", "158.425"], "note": "158.425 Frequenza coordinamento A.I.B. Piemonte"}
+      ]
+    }
+  ],
+  "canali_comuni_canadair_aib": [
+    {"ambito": "Nazionale", "nome": "Emergenza Ambientale 1515", "frequenza": "79.750"},
+    {"ambito": "Nazionale", "nome": "Canale Canale 1 A.I.B. (Coordinamento Terra)", "frequenza": "156.025"},
+    {"ambito": "Nazionale", "nome": "Canale Canale 2 A.I.B. (Coordinamento Terra)", "frequenza": "156.175"},
+    {"ambito": "Aeronautico", "nome": "Raccordo elicotteri flotta Stato (Canadair)", "frequenza": "122.925", "note": "Frequenza AM banda aerea per velivoli protezione civile"}
+  ]
+}

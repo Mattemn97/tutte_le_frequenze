@@ -1,0 +1,66 @@
+{
+  "sezione": "Polizia Locale (Municipale / Provinciale)",
+  "banda_principale": "UHF Civile (450-466 MHz)",
+  "ultimo_aggiornamento": "2026-06",
+  "dati_provinciali": [
+    {
+      "provincia": "Bologna",
+      "localita": [
+        {"nome": "Bologna (Centrale Operativa - Ch 1)", "frequenze": ["456.125", "466.125"], "note": "Viabilità Centro Storico e Pronto Intervento"},
+        {"nome": "Bologna (Canale 2 - Reparto Mobile)", "frequenze": ["456.350", "466.350"]},
+        {"nome": "Imola (Polizia Municipale)", "frequenze": ["455.875", "465.875"]}
+      ]
+    },
+    {
+      "provincia": "Firenze",
+      "localita": [
+        {"nome": "Firenze (Centrale Operativa \u0022Prato\u0022)", "frequenze": ["456.000", "466.000"], "note": "Gestione pattuglie e incidenti stradali"},
+        {"nome": "Firenze (Canale 2 - Polizia Provinciale)", "frequenze": ["455.525", "465.525"], "note": "Servizio ittico-venatorio"}
+      ]
+    },
+    {
+      "provincia": "Genova",
+      "localita": [
+        {"nome": "Genova (CO Matitone - Ch 1)", "frequenze": ["456.250", "466.250"], "note": "Duplex ponte principale città"},
+        {"nome": "Genova (Canale 2 - Reparto Infortunistica)", "frequenze": ["456.400", "466.400"]},
+        {"nome": "Chiavari (Polizia Locale)", "frequenze": ["455.950", "465.950"]}
+      ]
+    },
+    {
+      "provincia": "Milano",
+      "localita": [
+        {"nome": "Milano (Centrale Piazza Beccaria - Ch 1)", "frequenze": ["456.500", "466.500"], "note": "Canale Radio principale Radiomobile PM"},
+        {"nome": "Milano (Ch 2 - Annona e Commercio)", "frequenze": ["456.550", "466.550"]},
+        {"nome": "Milano (Ch 3 - Quartieri e Decentramento)", "frequenze": ["456.675", "466.675"]},
+        {"nome": "Monza (Polizia Locale)", "frequenze": ["455.800", "465.800"]},
+        {"nome": "Sesto San Giovanni (Polizia Municipale)", "frequenze": ["456.025", "466.025"]}
+      ]
+    },
+    {
+      "provincia": "Napoli",
+      "localita": [
+        {"nome": "Napoli (Centrale Via De Giaxa - Ch 1)", "frequenze": ["456.300", "466.300"], "note": "Pronto intervento e rimozioni ganci"},
+        {"nome": "Napoli (Ch 2 - Polizia Turistica e Investigativa)", "frequenze": ["456.325", "466.325"]},
+        {"nome": "Pozzuoli (Polizia Locale)", "frequenze": ["455.725", "465.725"]}
+      ]
+    },
+    {
+      "provincia": "Roma",
+      "localita": [
+        {"nome": "Roma Capitale (CO Circonvallazione Ostiense)", "frequenze": ["456.100", "466.100"], "note": "Ch 1 Generale \u0022Centauro\u0022 viabilità"},
+        {"nome": "Roma (Ch 2 - Reparto G.I.T. Gruppo Intervento Traffico)", "frequenze": ["456.150", "466.150"]},
+        {"nome": "Roma (Ch 3 - Navona / Centro Storico)", "frequenze": ["456.200", "466.200"]},
+        {"nome": "Roma (Ch 4 - Gruppo Sicurezza Pubblica)", "frequenze": ["456.225", "466.225"]},
+        {"nome": "Civitavecchia (Polizia Municipale)", "frequenze": ["455.650", "465.650"]}
+      ]
+    },
+    {
+      "provincia": "Torino",
+      "localita": [
+        {"nome": "Torino (Centrale Via Bologna - Ch 1)", "frequenze": ["456.050", "466.050"], "note": "Pronto Intervento \u0022Alfa\u0022 gazzelle municipali"},
+        {"nome": "Torino (Ch 2 - Reparto Radiomobile Stradale)", "frequenze": ["456.075", "466.075"]},
+        {"nome": "Torino (Polizia Provinciale)", "frequenze": ["455.300", "465.300"], "note": "Antibracconaggio e parchi naturali"}
+      ]
+    }
+  ]
+}
