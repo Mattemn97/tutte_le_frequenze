@@ -1,0 +1,44 @@
+{
+ "sezione": "Vigilanza privata",
+ "fonte": "Tutte le frequenze segrete V2.0, pag. 36",
+ "blocchi": [
+  {
+   "nota": "VIGILANZA"
+  },
+  {
+   "nota": "BANDA 169 MHz"
+  },
+  {
+   "nota": "LINK MASTER UHF - COMPRESI NELLA BANDA CIVILE UHF"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "440.925 441.200",
+     "(3a frequenza non disponibile)"
+    ]
+   ]
+  },
+  {
+   "colonne": [
+    "Assegnazione",
+    "Frequenze"
+   ],
+   "righe": [
+    [
+     "Nazionale",
+     "169.925"
+    ],
+    [
+     "Nazionale",
+     "169.937,5"
+    ],
+    [
+     "Nazionale",
+     "169.950"
+    ]
+   ]
+  }
+ ]
+}

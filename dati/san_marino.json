@@ -1,0 +1,40 @@
+{
+ "sezione": "Repubblica di San Marino",
+ "fonte": "Tutte le frequenze segrete V2.0, pag. 102",
+ "blocchi": [
+  {
+   "nota": "REPUBBLICA SAN MARINO"
+  },
+  {
+   "nota": "Vengono riportati i servizi resisi disponibili al momento dell’impaginazione"
+  },
+  {
+   "colonne": [
+    "Servizio",
+    "Frequenza"
+   ],
+   "righe": [
+    [
+     "Emergenza Sanitaria 118",
+     "185.750"
+    ],
+    [
+     "Gendarmeria",
+     "421.650"
+    ],
+    [
+     "Ospedale",
+     "165.750"
+    ],
+    [
+     "Polizia Municipale",
+     "421.650"
+    ],
+    [
+     "Pronto Soccorso",
+     "165.750"
+    ]
+   ]
+  }
+ ]
+}

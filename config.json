@@ -1,10 +1,207 @@
 {
   "moduli": [
-    { "id": "soccorso_vvff", "label": "🔥 Vigili del Fuoco", "file": "soccorso_vvff.json" },
-    { "id": "forze_ordine_polizia", "label": "🚨 Polizia di Stato", "file": "forze_ordine_polizia.json" },
-    { "id": "forze_ordine_carabinieri", "label": "🚓 Carabinieri", "file": "forze_ordine_carabinieri.json" },
-    { "id": "forze_ordine_gdf", "label": "💰 Guardia di Finanza", "file": "forze_ordine_gdf.json" },
-    { "id": "polizia_locale", "label": "🏙️ Polizia Locale", "file": "polizia_locale.json" },
-    { "id": "corpo_forestale", "label": "🌲 Forestale e A.I.B.", "file": "corpo_forestale.json" }
+    {
+      "id": "forze_ordine_polizia",
+      "label": "Polizia di Stato",
+      "icon": "fa-shield-halved",
+      "categoria": "Forze dell'ordine",
+      "file": "dati/forze_ordine_polizia.json"
+    },
+    {
+      "id": "forze_ordine_carabinieri",
+      "label": "Carabinieri",
+      "icon": "fa-star",
+      "categoria": "Forze dell'ordine",
+      "file": "dati/forze_ordine_carabinieri.json"
+    },
+    {
+      "id": "forze_ordine_gdf",
+      "label": "Guardia di Finanza",
+      "icon": "fa-coins",
+      "categoria": "Forze dell'ordine",
+      "file": "dati/forze_ordine_gdf.json"
+    },
+    {
+      "id": "polizia_locale",
+      "label": "Polizia Locale",
+      "icon": "fa-building-shield",
+      "categoria": "Forze dell'ordine",
+      "file": "dati/polizia_locale.json"
+    },
+    {
+      "id": "polizia_stradale",
+      "label": "Polizia Stradale · arterie e distaccamenti",
+      "icon": "fa-road",
+      "categoria": "Forze dell'ordine",
+      "file": "dati/polizia_stradale.json"
+    },
+    {
+      "id": "vigilanza",
+      "label": "Vigilanza privata",
+      "icon": "fa-user-shield",
+      "categoria": "Forze dell'ordine",
+      "file": "dati/vigilanza.json"
+    },
+    {
+      "id": "soccorso_vvff",
+      "label": "Vigili del Fuoco",
+      "icon": "fa-fire-extinguisher",
+      "categoria": "Soccorso ed emergenza",
+      "file": "dati/soccorso_vvff.json"
+    },
+    {
+      "id": "corpo_forestale",
+      "label": "Forestale e antincendio boschivo",
+      "icon": "fa-tree",
+      "categoria": "Soccorso ed emergenza",
+      "file": "dati/corpo_forestale.json"
+    },
+    {
+      "id": "sanita_ambulanze",
+      "label": "Sanità · ambulanze, croci e pubbliche assistenze",
+      "icon": "fa-truck-medical",
+      "categoria": "Soccorso ed emergenza",
+      "file": "dati/sanita_ambulanze.json"
+    },
+    {
+      "id": "emergenza_sanitaria",
+      "label": "Emergenza sanitaria 118 e guardie mediche",
+      "icon": "fa-kit-medical",
+      "categoria": "Soccorso ed emergenza",
+      "file": "dati/emergenza_sanitaria.json"
+    },
+    {
+      "id": "elisoccorso",
+      "label": "Elisoccorso ed eliambulanze",
+      "icon": "fa-helicopter",
+      "categoria": "Soccorso ed emergenza",
+      "file": "dati/elisoccorso.json"
+    },
+    {
+      "id": "soccorso_alpino",
+      "label": "Soccorso alpino, rifugi, guide e funivie",
+      "icon": "fa-mountain",
+      "categoria": "Soccorso ed emergenza",
+      "file": "dati/soccorso_alpino.json"
+    },
+    {
+      "id": "autostrade",
+      "label": "Autostrade · Polizia Stradale, caselli e viabilità",
+      "icon": "fa-car-side",
+      "categoria": "Viabilità e trasporti",
+      "file": "dati/autostrade.json"
+    },
+    {
+      "id": "anas",
+      "label": "ANAS · strade statali",
+      "icon": "fa-road-barrier",
+      "categoria": "Viabilità e trasporti",
+      "file": "dati/anas.json"
+    },
+    {
+      "id": "ferrovie",
+      "label": "Ferrovie dello Stato",
+      "icon": "fa-train",
+      "categoria": "Viabilità e trasporti",
+      "file": "dati/ferrovie.json"
+    },
+    {
+      "id": "aeronautica_civile",
+      "label": "Aeronautica civile · aeroporti",
+      "icon": "fa-plane-departure",
+      "categoria": "Aeronautica e marina",
+      "file": "dati/aeronautica_civile.json"
+    },
+    {
+      "id": "vor",
+      "label": "Radiofari V.O.R.",
+      "icon": "fa-compass",
+      "categoria": "Aeronautica e marina",
+      "file": "dati/vor.json"
+    },
+    {
+      "id": "aeronautica_militare",
+      "label": "Aeronautica militare",
+      "icon": "fa-jet-fighter",
+      "categoria": "Aeronautica e marina",
+      "file": "dati/aeronautica_militare.json"
+    },
+    {
+      "id": "marina_civile",
+      "label": "Marina civile · Capitanerie e Meteomar",
+      "icon": "fa-anchor",
+      "categoria": "Aeronautica e marina",
+      "file": "dati/marina_civile.json"
+    },
+    {
+      "id": "marina_militare",
+      "label": "Marina militare",
+      "icon": "fa-ship",
+      "categoria": "Aeronautica e marina",
+      "file": "dati/marina_militare.json"
+    },
+    {
+      "id": "enel",
+      "label": "ENEL",
+      "icon": "fa-bolt",
+      "categoria": "Servizi e aziende",
+      "file": "dati/enel.json"
+    },
+    {
+      "id": "agip_snam",
+      "label": "AGIP · SNAM",
+      "icon": "fa-gas-pump",
+      "categoria": "Servizi e aziende",
+      "file": "dati/agip_snam.json"
+    },
+    {
+      "id": "rai",
+      "label": "RAI · riprese esterne e radiomicrofoni",
+      "icon": "fa-tower-broadcast",
+      "categoria": "Servizi e aziende",
+      "file": "dati/rai.json"
+    },
+    {
+      "id": "ciclismo",
+      "label": "Federazione Ciclistica · corse professionistiche",
+      "icon": "fa-person-biking",
+      "categoria": "Servizi e aziende",
+      "file": "dati/ciclismo.json"
+    },
+    {
+      "id": "civili_43",
+      "label": "Civili 43 MHz",
+      "icon": "fa-walkie-talkie",
+      "categoria": "Civili, satelliti e TV",
+      "file": "dati/civili_43.json"
+    },
+    {
+      "id": "civili_lpd",
+      "label": "Civili LPD 433 MHz",
+      "icon": "fa-walkie-talkie",
+      "categoria": "Civili, satelliti e TV",
+      "file": "dati/civili_lpd.json"
+    },
+    {
+      "id": "satelliti",
+      "label": "Satelliti",
+      "icon": "fa-satellite",
+      "categoria": "Civili, satelliti e TV",
+      "file": "dati/satelliti.json"
+    },
+    {
+      "id": "san_marino",
+      "label": "Repubblica di San Marino",
+      "icon": "fa-flag",
+      "categoria": "Civili, satelliti e TV",
+      "file": "dati/san_marino.json"
+    },
+    {
+      "id": "canali_tv",
+      "label": "Bande e canali televisivi",
+      "icon": "fa-tv",
+      "categoria": "Civili, satelliti e TV",
+      "file": "dati/canali_tv.json"
+    }
   ]
 }

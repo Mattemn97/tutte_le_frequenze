@@ -1,0 +1,642 @@
+{
+ "sezione": "Autostrade · Polizia Stradale, caselli e viabilità",
+ "fonte": "Tutte le frequenze segrete V2.0, pag. 46–49",
+ "blocchi": [
+  {
+   "nota": "AUTOSTRADE"
+  },
+  {
+   "nota": "PRONTO INTERVENTO – POLIZIA STRADALE"
+  },
+  {
+   "nota": "BANDA 76 -79 MHz"
+  },
+  {
+   "colonne": [
+    "Autostrade",
+    "Frequenze",
+    "Tratte"
+   ],
+   "righe": [
+    [
+     "A 1",
+     "78.350",
+     "Milano - Lodi"
+    ],
+    [
+     "",
+     "78.425",
+     "Lodi - Parma"
+    ],
+    [
+     "",
+     "78.375",
+     "Reggio Emilia - Sasso Marconi (BO)"
+    ],
+    [
+     "",
+     "78.425",
+     "Sasso Marconi (BO) - Firenze"
+    ],
+    [
+     "",
+     "78.400",
+     "Firenze - Chiusi (SI)"
+    ],
+    [
+     "",
+     "78.425",
+     "Chiusi (SI) - Roma"
+    ],
+    [
+     "",
+     "78.425",
+     "Roma - Frosinone"
+    ],
+    [
+     "",
+     "78.400",
+     "Frosinone - San Vittore (FR)"
+    ],
+    [
+     "",
+     "78.350",
+     "San Vittore (FR) - Napoli"
+    ],
+    [
+     "A 3",
+     "78.400",
+     "(da verificare)",
+     "Napoli -?"
+    ],
+    [
+     "",
+     "78.750",
+     "Salerno - Lauria (PZ)"
+    ],
+    [
+     "78.350",
+     "(da verificare)",
+     "Lauria (PZ) - Vibo Valentia"
+    ],
+    [
+     "",
+     "78.850",
+     "Vibo Valentia - Reggio Calabria"
+    ],
+    [
+     "A 4",
+     "79.150",
+     "Torino - Milano (bari- Ghisolfa)"
+    ],
+    [
+     "",
+     "78.350",
+     "Milano (barriera Ghisolfa - Milano est)"
+    ],
+    [
+     "",
+     "78.400",
+     "Agrate Brianza (MI) - Brescia"
+    ],
+    [
+     "",
+     "78.350",
+     "Brescia - Padova est"
+    ],
+    [
+     "",
+     "78.400 - 77.700",
+     "Padova est - Mestre (VE)"
+    ],
+    [
+     "",
+     "78.425",
+     "Mestre (VE) - Portogruaro (VE)"
+    ],
+    [
+     "",
+     "78.425",
+     "Latisana (UD) - Trieste"
+    ],
+    [
+     "A 5",
+     "76.900",
+     "Torino nord - Aosta"
+    ],
+    [
+     "A 6",
+     "78.450",
+     "Carmagnola (TO) - Carcare (SV)"
+    ],
+    [
+     "",
+     "78.925 - 78.825",
+     "Altare Carcere (SV) - Savona"
+    ],
+    [
+     "A 7",
+     "78.350",
+     "Milano - Serravalle Scrivia (AL)"
+    ],
+    [
+     "",
+     "78.400",
+     "Serravalle Scrivia (AL) - Genova"
+    ],
+    [
+     "A 8",
+     "78.350",
+     "Milano nord - Varese I Sesto Calende (VA)"
+    ],
+    [
+     "A 9",
+     ".",
+     "78.350",
+     "Milano nord - Chiasso (CO) valico Brogeda"
+    ],
+    [
+     "A 10",
+     "78.375",
+     "Genova - Savona"
+    ],
+    [
+     "",
+     "78.350",
+     "Savona - Ventimiglia (IM) valico doganale"
+    ],
+    [
+     "A il",
+     "78.350",
+     "Firenze - Lucca"
+    ],
+    [
+     "",
+     "78.375",
+     "Lucca - Pisa nord"
+    ],
+    [
+     "A 12",
+     "78.400",
+     "Genova - Sestri Levante (GE)"
+    ],
+    [
+     "",
+     "78.375",
+     "Sestri Levante (GE) - Livorno"
+    ],
+    [
+     "",
+     "non disponibile",
+     "Livorno - Roma"
+    ],
+    [
+     "",
+     "78.400",
+     "Roma (barriera Aurelia) - Roma"
+    ],
+    [
+     "A 13",
+     "78.400",
+     "Bologna - Padova sud"
+    ],
+    [
+     "A 14",
+     "78.375",
+     "Bologna - Imola (BO)"
+    ],
+    [
+     "",
+     "78.350<>78.400 (sim.)",
+     "Cattolica (RN) - Ancona"
+    ],
+    [
+     "",
+     "78.425",
+     "Ancona - San Benedetto del Tronto"
+    ],
+    [
+     "",
+     "78.350<>78.425 (sim.)",
+     "San Benedetto del Tronto - Pescara"
+    ],
+    [
+     "",
+     "78.375",
+     "Pescara - Termoli Molise (CB)"
+    ],
+    [
+     "",
+     "78.450",
+     "Termoli Molise - San Severo (FG)"
+    ],
+    [
+     "",
+     "78.400",
+     "San Severo (FG) - Cerignola (FG)"
+    ],
+    [
+     "",
+     "78.450",
+     "Cerignola (FG)- Taranto"
+    ],
+    [
+     "A 15",
+     "78.450",
+     "Parma - Le Spezia"
+    ],
+    [
+     "A 16",
+     "78.400",
+     "Napoli est - Benevento"
+    ],
+    [
+     "",
+     "78.425 (da verificaire)",
+     "Benevento - Candela <FG)"
+    ],
+    [
+     "",
+     "78.450",
+     "Candela (FG) - Canosa di Puglia (BA)"
+    ],
+    [
+     "A 18",
+     "78.525",
+     "Messina - Catania"
+    ],
+    [
+     "A 19",
+     "78.325 - 78.525",
+     "Palermo - Catania"
+    ],
+    [
+     "A 20",
+     "78.325 - 78.525",
+     "Messina - Palermo"
+    ],
+    [
+     "A 21",
+     "78.450",
+     "Torino (barriera Trofarello) - Piacenza"
+    ],
+    [
+     "",
+     "77.300",
+     "Piacenza - Brescia centro"
+    ],
+    [
+     "A 22",
+     "77.800 - 172.625",
+     "Soc. Autostrade Brennero (BZ) - Trento"
+    ],
+    [
+     "",
+     "78.525 - 172.625",
+     "Soc. Autostrade Trento - Verona"
+    ],
+    [
+     "",
+     "77.700",
+     "Verona - Mantova"
+    ],
+    [
+     "",
+     "77.800",
+     "Mantova - Modena"
+    ],
+    [
+     "A 23",
+     "78.425",
+     "Patmanova (UD) - Udine"
+    ],
+    [
+     "",
+     "78.400",
+     "Udine - Tarvisio (UD)"
+    ],
+    [
+     "A 24",
+     "78.350 (ric. reg. Lazio)",
+     "Roma est - Teramo"
+    ],
+    [
+     "",
+     "78.425 (ric. reg. Abruzzo)",
+     "Roma est - Teramo"
+    ],
+    [
+     "",
+     "",
+     "78.375<>78.400 (parla-ascolta)"
+    ],
+    [
+     "",
+     "(ric. regione Molise)",
+     "Roma est - Teramo"
+    ],
+    [
+     "A 25",
+     "78.350 (ric. reg. Lazio)",
+     "Roma est - Pescara"
+    ],
+    [
+     "",
+     "78.425 (ric. reg. Abruzzo)",
+     "Roma est - Pescara"
+    ],
+    [
+     "",
+     "",
+     "78.375<>78.400 (parla-ascolta)"
+    ],
+    [
+     "",
+     "(ric. regione Molise)",
+     "Roma est - Pescara"
+    ],
+    [
+     "A 26",
+     "78.425",
+     "Voltri (GE) - Alessandria"
+    ],
+    [
+     "",
+     "78.375",
+     "Alessandria - Gravellona Toce (VB)"
+    ],
+    [
+     "",
+     "78.375 - 79.150",
+     "Vercelli Ovest - tvrea (TO)"
+    ],
+    [
+     "A 27",
+     "78.450",
+     "Mestre (VE) - Vittorio Veneto (TV)"
+    ],
+    [
+     "A 26",
+     "78.425",
+     "Portogruaro (VE) - Pordenone"
+    ],
+    [
+     "A 29",
+     "78.325",
+     "Patermo - Mezara dat Vatio (TP)"
+    ],
+    [
+     "A 30",
+     "78.400",
+     "Caserta - Satemo (barriere Mercato)"
+    ],
+    [
+     "A 31",
+     "78.350",
+     "Vicenza - Piovene Rocchette (VI)"
+    ],
+    [
+     "A 32",
+     "77.450 - 77.275",
+     "Torino - Bardonecchia (TO)"
+    ],
+    [
+     "Milano tangenziali",
+     "78.350",
+     "Tangenziati Est - Ovest"
+    ],
+    [
+     "Torino",
+     "tangenziale",
+     "78.825",
+     "Tengenziali"
+    ],
+    [
+     "Genova nodo autostr.",
+     "78.375 - 78.400 - 78.425",
+     "Nodo autostradele"
+    ],
+    [
+     "Bologna nodo autostr.",
+     "78.375 - 77.800",
+     "Nodo autostradale"
+    ],
+    [
+     "Firenze nodo autostr.",
+     "78.400 - 78.425 - 77.400 - 78.775",
+     "Nodo autostradale"
+    ],
+    [
+     "Napoti tangenzieli",
+     "non disponibile .",
+     "Tengenziali Est - Ovest"
+    ],
+    [
+     "Roma gr. racc. anulare",
+     "78.375 - 78.350 - 78.425",
+     "Grande Raccordo Anulare"
+    ],
+    [
+     "",
+     "",
+     "Barriere nord/sud/est/ovest"
+    ]
+   ]
+  },
+  {
+   "nota": "AUTOSTRADE"
+  },
+  {
+   "nota": "CASELLI PEDAGGIO - SOCCORSO STRADALE - INFORMAZIONI VIABILITA'"
+  },
+  {
+   "nota": "BANDA VHF (servizi compresi nella gamma civile e commerciale FM)"
+  },
+  {
+   "nota": "LINK MASTER UHF LIMITI DI BANDA 436 - 440 446 - 448 MHz"
+  },
+  {
+   "nota": "(compresi nella gamma civile UHF)"
+  },
+  {
+   "nota": "CASELLI PEDAGGIO SOCCORSO STRADALE"
+  },
+  {
+   "colonne": [
+    "Assegnazione",
+    "Percorsi Assegnati",
+    "Frequenze"
+   ],
+   "righe": [
+    [
+     "Nazionale",
+     "Ambito territoriale regionale",
+     "171.900"
+    ],
+    [
+     "Nazionale",
+     "Ambito territoriale regionale",
+     "172.625"
+    ],
+    [
+     "Nazionale",
+     "Ambito territoriale regionale",
+     "172.650"
+    ],
+    [
+     "Nazionale",
+     "Ambito territoriale regionale",
+     "172.675"
+    ],
+    [
+     "Nazionale",
+     "Ambito territoriale regionale",
+     "172.825"
+    ],
+    [
+     "Nazionale",
+     "Ambito territoriale regionale",
+     "172.850"
+    ],
+    [
+     "Nazionale",
+     "Ambito territoriale regionale",
+     "172.875"
+    ],
+    {
+     "g": "TRATTE CON UTILIZZO FREQUENZE NON COMPRESE NELL'ASSEGNAZIONE NAZIONALE"
+    },
+    [
+     "A 4",
+     "Torino - Milano (barriera Ghisolfa)",
+     "172.712,5"
+    ],
+    [
+     "A 4",
+     "Torino-Milano (barriera Ghisolfa)",
+     "172.725"
+    ],
+    [
+     "A 4",
+     "Verona - Venezia (Mestre Villabona)",
+     "172.725"
+    ],
+    [
+     "A 4",
+     "Venezia (Mestre Bazzera) - Palmanova (UD)",
+     "172.975"
+    ],
+    [
+     "A 4",
+     "Palmanova (UD) -Trieste",
+     "172.725"
+    ],
+    [
+     "A 5",
+     "Torino nord - Aosta",
+     "172.662,5"
+    ],
+    [
+     "A 7",
+     "Milano (barriera) - Gropello Cairoli (PV)",
+     "161.850"
+    ],
+    [
+     "A 7",
+     "Gropello Cairoli (PV) - Serravalle Scrivia",
+     "(AL)",
+     "161.775"
+    ],
+    [
+     "A 11",
+     "Pisa nord - Lucca",
+     "172.725"
+    ],
+    [
+     "A 12",
+     "Deiva Marina (SP) - Livorno",
+     "172.725"
+    ],
+    [
+     "A 15",
+     "Parma - La Spezia",
+     "163.525"
+    ],
+    [
+     "A 21",
+     "Torino – Piacenza",
+     "172.662,5"
+    ],
+    [
+     "A 21",
+     "Piacenza - Brescia",
+     "172.725"
+    ],
+    [
+     "A 23",
+     "Palmanova (UD) - Udine",
+     "172.725"
+    ],
+    [
+     "A 31",
+     "Vicenza - Piovene Rocchette (VI)",
+     "172.725"
+    ],
+    [
+     "A 32",
+     "Torino - Susa (TO)",
+     "172.837,5"
+    ],
+    [
+     "A 32",
+     "Susa (TO) - Bardonecchia (TO)",
+     "161.700"
+    ],
+    [
+     "Milano tangenziali",
+     "Tangenziali Est - Ovest",
+     "161.850"
+    ]
+   ]
+  },
+  {
+   "nota": "INFORMAZIONI VIABILITA’"
+  },
+  {
+   "colonne": [
+    "Frequenze",
+    "Copertura D’Ascolto"
+   ],
+   "righe": [
+    [
+     "95.900",
+     "A 7 Milano - Serravalle Scrivia (AL)"
+    ],
+    [
+     "97.100",
+     "A 7 Milano - Serravalle Scrivia (AL)"
+    ],
+    [
+     "100.300",
+     "A 7 Milano — Serravalla Scrivia (AL) Radio Lombardia"
+    ],
+    [
+     "93.400  98.300  99.000 106.800",
+     "A 22 Brennero (BZ) - Verona nord"
+    ],
+    [
+     "101.300  101.500",
+     "Regione Friuli Venezia Giulia (tratte autostradali della regione)"
+    ],
+    [
+     "103.300",
+     "Isoradio (copertura quasi totale intera rete autostradale nazionale)"
+    ],
+    [
+     "100.300",
+     "Milano -Tangenziali Est/Ovest Radio Lombardia"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,805 @@
+{
+ "sezione": "Soccorso alpino, rifugi, guide e funivie",
+ "fonte": "Tutte le frequenze segrete V2.0, pag. 88–91",
+ "blocchi": [
+  {
+   "nota": "SOCCORSO ALPINO"
+  },
+  {
+   "nota": "RIFUGI ALPINI GUIDE ALPINE FUNIVIE"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "BANDA VHF",
+     "166.025 - 166.475",
+     "MHz",
+     "BANDA",
+     "UHF",
+     "446.050 - 447.450",
+     "MHz (servizi compresi nelle gamme civili VHF-UHF)"
+    ],
+    [
+     "BANDA VHF 68.0 - 72.0 MHz"
+    ]
+   ]
+  },
+  {
+   "nota": "IN QUESTA BANDA SONO OPERATIVI SERVIZI CON UTILIZZAZIONE A LIVELLO LOCALE"
+  },
+  {
+   "nota": "DI FREQUENZE PER SOCCORSO ASSEGNATE PER OGNI BACINO DI UTENZA"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "68.750",
+     "Per impiego in operazioni di soccorso su tutto il territorio nazionale fatta eccezione per la sola regione Valle d'Aosta"
+    ],
+    [
+     "71.250",
+     "Savigliano (CN)"
+    ],
+    [
+     "71,500",
+     "Per impiego in operazioni di soccorso su tutto il territ orio nazionale anche per collegamenti con elicotteri di soccorso"
+    ],
+    [
+     "71.550",
+     "Per impiego in operazioni di soccorso per la sola regione Valle d’Aosta"
+    ],
+    [
+     "146.660",
+     "Per impiego in operazioni di soccorso su tutto il territorio nazionale (da verificame effettivo utilizzo in interventi di emergenza e soccorso)"
+    ],
+    [
+     "169.812,5",
+     "CAI. Per impiego in operazioni di emergenza e soccorso su tutto il territorio nazionale"
+    ]
+   ]
+  },
+  {
+   "nota": "LOCALITA’ CON FREQUENZE OPERATIVE ADIBITE ALL’EMERGENZA E SOCCORSO"
+  },
+  {
+   "nota": "BANDA VHF (servizi compresi nella gamma cIvile)"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "145.900",
+     "Presanella"
+    ],
+    [
+     "146.410",
+     "Edolo (BS)"
+    ],
+    [
+     "146.410",
+     "Ponte di Legno (BS)"
+    ],
+    [
+     "146.500",
+     "Passo Oclini (TN)"
+    ],
+    [
+     "146.700",
+     "Tonale (TN)"
+    ],
+    [
+     "156.135",
+     "Alpe Devero (VB)"
+    ],
+    [
+     "158.625",
+     "Vallese"
+    ],
+    [
+     "160.425",
+     "Alpe Siusi"
+    ],
+    [
+     "160.462,5",
+     "Trento"
+    ],
+    [
+     "162.525",
+     "Val Gardene"
+    ],
+    [
+     "163.350",
+     "La Thuille (AO)"
+    ],
+    [
+     "164.000",
+     "Alto Adige"
+    ],
+    [
+     "164.035",
+     "Valle del Po"
+    ],
+    [
+     "165.150",
+     "Bormio (SO)"
+    ],
+    [
+     "165.250",
+     "Alpe Cermis (TN)"
+    ],
+    [
+     "166.650",
+     "Alagna Valsesia (VC)"
+    ],
+    [
+     "166.925",
+     "Sondalo (SO)"
+    ],
+    [
+     "173.562,5",
+     "Massa (località appenniniche nella provincia)"
+    ]
+   ]
+  },
+  {
+   "nota": "RIFUGI ALPINI"
+  },
+  {
+   "nota": "I RIFUGI RIPORTATI SONO DOTATI DI APPARECCHIO"
+  },
+  {
+   "nota": "RADIOTELEFONICO DI EMERGENZA"
+  },
+  {
+   "colonne": [
+    "Rifugio",
+    "Regione",
+    "Prov",
+    "Frequenze"
+   ],
+   "righe": [
+    [
+     "Monte Aiona",
+     "Liguria",
+     "GE",
+     "446.550"
+    ],
+    [
+     "Monte Bue",
+     "Liguria",
+     "GE",
+     "446.900"
+    ],
+    [
+     "Pra Riondo",
+     "Liguria",
+     "GE",
+     "447.050"
+    ],
+    [
+     "Albani",
+     "Lombardia",
+     "BG",
+     "166.125"
+    ],
+    [
+     "Berni",
+     "Lombardia",
+     "SO",
+     "446.250"
+    ],
+    [
+     "Bonetta",
+     "Lombardia",
+     "BS?",
+     "166.325"
+    ],
+    [
+     "Capanna",
+     "Lombardia",
+     "BG?",
+     "446.400  446.550"
+    ],
+    [
+     "Casati G -Guasti A.",
+     "Lombardia",
+     "SO",
+     "163.650  446.900"
+    ],
+    [
+     "Coca",
+     "Lombardia",
+     "BG",
+     "166.225"
+    ],
+    [
+     "Curò",
+     "Lombardia",
+     "BG",
+     "166.375"
+    ],
+    [
+     "Garibaldi",
+     "Lombardia",
+     "BS",
+     "166.375  446.450"
+    ],
+    [
+     "Lissone",
+     "Lombardia",
+     "BS",
+     "147.650"
+    ],
+    [
+     "Menaggio",
+     "Lombardia",
+     "CO",
+     "141.250"
+    ],
+    [
+     "Porro A-Geni A.e M.",
+     "Lombardia",
+     "SO?",
+     "147.000"
+    ],
+    [
+     "Rosa Marco",
+     "Lombardia",
+     "SO",
+     "147.000"
+    ],
+    [
+     "Tonolini",
+     "Lombardia",
+     "BS",
+     "146.660"
+    ],
+    [
+     "Aprimo O. CAI",
+     "Piemonte",
+     "TO",
+     "166.325"
+    ],
+    [
+     "Balma",
+     "Piemonte",
+     "TO",
+     "446.400"
+    ],
+    [
+     "Barbara",
+     "Piemonte",
+     "TO",
+     "446.550"
+    ],
+    [
+     "Bianco",
+     "Piemont",
+     "CN",
+     "446.450"
+    ],
+    [
+     "Bolzano",
+     "Piemone",
+     "CN",
+     "446.100"
+    ],
+    [
+     "Ca dAsti",
+     "Piemote",
+     "TO",
+     "446.250"
+    ],
+    [
+     "Capanna Renata",
+     "Piemonte",
+     "BI",
+     "446.100"
+    ],
+    [
+     "Cibrario",
+     "Piemonte",
+     "TO",
+     "446.200"
+    ],
+    [
+     "Città di Busto",
+     "Piemonte",
+     "NO",
+     "146.650"
+    ],
+    [
+     "Daviso CAI",
+     "Piemonte",
+     "TO",
+     "446.100"
+    ],
+    [
+     "Federico F.- Marchesini E",
+     "Piemonte",
+     "CN",
+     "446.550"
+    ],
+    [
+     "Genova",
+     "Piemonte",
+     "CN",
+     "446.250"
+    ],
+    [
+     "Il Truc",
+     "Piemonte",
+     "TO",
+     "447.350"
+    ],
+    [
+     "La Balma",
+     "Piemonte",
+     "CN",
+     "166.325"
+    ],
+    [
+     "Lowrie B. GAI",
+     "Piemonte",
+     "TO",
+     "446.550"
+    ],
+    [
+     "Mombarone",
+     "Piemonte",
+     "BI",
+     "446.900"
+    ],
+    [
+     "Morelli",
+     "Piemonte",
+     "CN",
+     "446.200"
+    ],
+    [
+     "Mucrone",
+     "Piemonte",
+     "BI",
+     "446.250"
+    ],
+    [
+     "Pagani",
+     "Piemonte",
+     "CN",
+     "446.550"
+    ],
+    [
+     "Piano del Re",
+     "Piemonte.",
+     "CN",
+     "166.325"
+    ],
+    [
+     "Questa",
+     "Piemonte",
+     "CN",
+     "446.450"
+    ],
+    [
+     "Remondino CAI",
+     "Piemonte",
+     "CN",
+     "446.250"
+    ],
+    [
+     "Rosazza",
+     "Piemonte",
+     "BI",
+     "446.250"
+    ],
+    [
+     "Salvin",
+     "Piemonte",
+     "TO",
+     "446.500"
+    ],
+    [
+     "Sorta",
+     "Piemonte",
+     "CN",
+     "447.350"
+    ],
+    [
+     "Tazzetti E.",
+     "Piemonte",
+     "TO",
+     "446.400"
+    ],
+    [
+     "Vaccarone L.",
+     "Piemonte",
+     "TO",
+     "446.500"
+    ],
+    [
+     "Biasi",
+     "Trentino Alto Adige",
+     "BZ",
+     "446.250"
+    ],
+    [
+     "Brentari",
+     "Trentino Alto Adige",
+     "TN",
+     "166.425"
+    ],
+    [
+     "Carà Alto",
+     "Trentino Atto Adige",
+     "TN",
+     "146.440"
+    ],
+    [
+     "Coronelle",
+     "Trentino Alto Adige",
+     "TN",
+     "160.950"
+    ],
+    [
+     "Fraccaroli M.",
+     "Trentino Alto Adige",
+     "TN",
+     "446.550"
+    ],
+    [
+     "Mantova",
+     "Trentino Alto Adige",
+     "BZ?",
+     "1 55.860"
+    ],
+    [
+     "Pedrotti alla Tosa",
+     "Trentino Alto Adige",
+     "TN",
+     "168.925 link"
+    ],
+    [
+     "Aosta",
+     "Valle d’Aosta",
+     "AO",
+     "447.350"
+    ],
+    [
+     "Barba G. - Ferrero L.",
+     "Valle dAosta",
+     "AO",
+     "446.250"
+    ],
+    [
+     "Benevolo CAI",
+     "Valle d'Aosta",
+     "AO",
+     "446.100"
+    ],
+    [
+     "Bertone G.",
+     "Valle d'Aosta",
+     "AO",
+     "446.500"
+    ],
+    [
+     "Bezzi CAI",
+     "Valle d'Aosta",
+     "AO",
+     "446.250"
+    ],
+    [
+     "Boccalatte",
+     "Valle d’Aosta",
+     "AO",
+     "446.100"
+    ],
+    [
+     "Chabot",
+     "Valle d’Aosta",
+     "AO",
+     "446.550"
+    ],
+    [
+     "CIttà di Chivasso",
+     "Valle dAosta",
+     "AO",
+     "446.250"
+    ],
+    [
+     "Chiarella",
+     "Valle d'Aosta",
+     "AO",
+     "446.200"
+    ],
+    [
+     "Città di Mantova",
+     "Valle d'Aosta",
+     "AO",
+     "446.500"
+    ],
+    [
+     "Città di Vigevano",
+     "Valle dAosta",
+     "AO",
+     "447.350"
+    ],
+    [
+     "Col Collon-Nacamuli A.",
+     "Valle d'Aosta",
+     "AO",
+     "446.250"
+    ],
+    [
+     "Cretea Seches",
+     "Valle dAosta",
+     "AO",
+     "446.400"
+    ],
+    [
+     "Daffeyes A.",
+     "Valle d'Aosta",
+     "AO",
+     "447.150"
+    ],
+    [
+     "Dalmazzi",
+     "Valle d'Aosta",
+     "AO",
+     "446.200"
+    ],
+    [
+     "Delle Roccie",
+     "Valle d'Aosta",
+     "AO",
+     "447.050"
+    ],
+    [
+     "Duca Degli Abruzzi",
+     "Valle d'Aosta",
+     "AO",
+     "447.350"
+    ],
+    [
+     "Elisabetta",
+     "Valle d'Aosta",
+     "AO",
+     "446.250"
+    ],
+    [
+     "Emmanuelle V.",
+     "Valle d'Aosta",
+     "AO",
+     "166.225"
+    ],
+    [
+     "Prarayer",
+     "Valle dAosta",
+     "AO",
+     "446.550"
+    ],
+    [
+     "Savoia",
+     "Valle d’Aosta",
+     "AO",
+     "447.350"
+    ],
+    [
+     "Sella Q.",
+     "Valle d'Aosta",
+     "AO",
+     "446.250"
+    ],
+    [
+     "Sella V.",
+     "CAI",
+     "Valle dAosta",
+     "AO",
+     "446.250"
+    ],
+    [
+     "Torino Vecchio CAI",
+     "Valle d'Aosta",
+     "AO",
+     "447.050"
+    ],
+    [
+     "Averau",
+     "Veneto",
+     "BL",
+     "446.250"
+    ],
+    [
+     "Bassano",
+     "Veneto",
+     "VI o TV",
+     "447.150"
+    ],
+    [
+     "Biella",
+     "Veneto",
+     "BL",
+     "166.425"
+    ],
+    [
+     "Croda da Lago - Palmieri G.",
+     "Veneto",
+     "BL",
+     "166.125"
+    ],
+    [
+     "Lobbia",
+     "Veneto",
+     "VI o VR",
+     "146.350"
+    ],
+    [
+     "Papa A.",
+     "Veneto",
+     "VI",
+     "166.325"
+    ],
+    [
+     "Telegrafo",
+     "Veneto",
+     "VR",
+     "446.200"
+    ],
+    [
+     "Alpe Pratetto",
+     "non identiticata",
+     "",
+     "446.550"
+    ],
+    [
+     "Boval",
+     "non identificata",
+     "",
+     "160.000"
+    ],
+    [
+     "Carosello",
+     "non identificata",
+     "",
+     "446.900"
+    ],
+    [
+     "Coazze",
+     "non identificata",
+     "",
+     "446.500"
+    ],
+    [
+     "Delle Roccie",
+     "non identificata",
+     "",
+     "447.050"
+    ],
+    [
+     "Mandronte",
+     "non identificata",
+     "",
+     "146.150"
+    ],
+    [
+     "Monpantero",
+     "non identificata",
+     "",
+     "447.350"
+    ],
+    [
+     "Sciliar TCI",
+     "non identificata",
+     "",
+     "156.675"
+    ]
+   ]
+  },
+  {
+   "nota": "GUIDE ALPINE"
+  },
+  {
+   "nota": "NON VENGONO UTILIZZATE FREQUENZE CON ASSEGNAZIONE MINISTERIALE"
+  },
+  {
+   "colonne": [
+    "Localita'",
+    "Prov",
+    "Frequenze"
+   ],
+   "righe": [
+    [
+     "Bormio",
+     "SO",
+     "166.100"
+    ],
+    [
+     "Brescia",
+     "BS",
+     "146.800"
+    ],
+    [
+     "C.A.S.",
+     "",
+     "150.200"
+    ],
+    [
+     "Cervino",
+     "",
+     "156.800"
+    ],
+    [
+     "Courmayeur",
+     "AO",
+     "155.035"
+    ],
+    [
+     "Gardena",
+     "",
+     "160.500"
+    ],
+    [
+     "Macugnaga",
+     "VB",
+     "141.650"
+    ],
+    [
+     "Ponte di Legno",
+     "BS",
+     "147.650"
+    ],
+    [
+     "San Martino",
+     "",
+     "146.100"
+    ],
+    [
+     "Val Camonica",
+     "",
+     "147.650"
+    ],
+    [
+     "Val di Fessa",
+     "",
+     "146.100"
+    ]
+   ]
+  },
+  {
+   "nota": "FUNIVIE"
+  },
+  {
+   "nota": "NON VENGONO UTILIZZATE FREQUENZE CON ASSEGNAZIONE MINISTERIALE"
+  },
+  {
+   "colonne": [
+    "Localita’",
+    "Frequenze"
+   ],
+   "righe": [
+    [
+     "Gran Montein",
+     "156.195"
+    ],
+    [
+     "Monte Bianco",
+     "156.625"
+    ],
+    [
+     "Val Strona",
+     "160.667,5"
+    ],
+    [
+     "Val Torta",
+     "160.687,5"
+    ],
+    [
+     "Val Veny",
+     "156.275"
+    ]
+   ]
+  }
+ ]
+}

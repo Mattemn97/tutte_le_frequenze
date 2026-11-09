@@ -1,0 +1,542 @@
+{
+ "sezione": "Polizia Stradale · arterie e distaccamenti",
+ "fonte": "Tutte le frequenze segrete V2.0, pag. 37–45",
+ "blocchi": [
+  {
+   "nota": "ARTERIE STRADALI"
+  },
+  {
+   "nota": "PRONTO INTERVENTO – POLIZIA STRADALE"
+  },
+  {
+   "nota": "BANDA 76 -79 MHz"
+  },
+  {
+   "nota": "LINK MASTER UHF - LIMITI DI BANDA 434 - 435 443 - 444 MHz"
+  },
+  {
+   "nota": "PER OGNI PROVINCIA VENGONO RIPORTATI I DISTACCAMENTI DIPENDENTI"
+  },
+  {
+   "colonne": [
+    "Provincie E Localita’",
+    "Frequenze",
+    "Località dipendenti"
+   ],
+   "righe": [
+    [
+     "Agrigento",
+     "78.325",
+     "Canicattì, Sciacca"
+    ],
+    [
+     "Alessandria",
+     "77.275  77.500",
+     "Acqui Terme, Casale Monferrato, Ovada, Serravalle Scrivia, Tortona, Valenza"
+    ],
+    [
+     "Ancona",
+     "76.875  78.025",
+     "Fabriano, Jesi, Senigallia"
+    ],
+    [
+     "Aosta",
+     "78.575",
+     "Courmayeur, Entreves, Poni Saint Martin"
+    ],
+    [
+     "Arezzo",
+     "77.400  77.425  78.700  78.775",
+     "Poppi, San Giovanni Valdarno"
+    ],
+    [
+     "Ascoli Piceno",
+     "76.875  77.625",
+     "Amandola, Fermo, Porto San Giorgio, San Benedetto deI Tronto"
+    ],
+    [
+     "Asti",
+     "77.275  78.000",
+     "Nizza Monferrato"
+    ],
+    [
+     "Avellino",
+     "77.500 (da verificare)",
+     "Grottaminarda, Mercogliano"
+    ],
+    [
+     "Bari",
+     "78.075",
+     "Barletta, Castellana Grotte, Gioia del Colle, Ruvo di Puglia, Spinazzola, Trani"
+    ],
+    [
+     "Belluno",
+     "77.600  78.000",
+     "Cortina d'Ampezzo (località Maion), Feltre"
+    ],
+    [
+     "Benevento",
+     "77.500 (da verificare)"
+    ],
+    [
+     "Bergamo",
+     "78.075  79.025",
+     "Seriate (casello autostradale), Treviglio"
+    ],
+    [
+     "Biella",
+     "77.275  79.150"
+    ],
+    [
+     "Bologna",
+     "77.800",
+     "Bologna (casello autostradale — Bologna centro), Borgo Panigale, Casalecchio di Reno, Imola, Malalbergo (caselle autostradale — Altedo), Piano del Voglio, San Benedetto Val di Sambro (casella autostradale — Pian del Voglio)"
+    ],
+    [
+     "Bolzano",
+     "77.600  78.000",
+     "Bressanone, Brunico, Merano, San Candido, Vipiteno"
+    ],
+    [
+     "Brescia",
+     "77.150  79.025",
+     "Darfo — Boario Terme, Chiari, Desenzano, Iseo, Montichiari, Salò"
+    ],
+    [
+     "Brindisi",
+     "78.075",
+     "Fasano"
+    ],
+    [
+     "Cagliari",
+     "77.775  78.600",
+     "Muravera, Sanluri"
+    ],
+    [
+     "Caltanissetta",
+     "77.725  78.325",
+     "Gela"
+    ],
+    [
+     "Campobasso",
+     "77.125  77.150",
+     "Termoli"
+    ],
+    [
+     "Caserta",
+     "77.500",
+     "(da verificare), Caserta (caselle autostradale — Caserta nord), Capua, Mondragone"
+    ],
+    [
+     "Catania",
+     "77.350  77.875  78.525",
+     "Caltagirone, Randazzo"
+    ],
+    [
+     "Catanzaro",
+     "77.400",
+     "Catanzaro (località Viadotto Fiumarella-Gagliano), Lamezia Terme (località SantEufemia Lamezia), Soverato"
+    ],
+    [
+     "Chieti",
+     "77.125  77.150",
+     "Lanciano, Ortona, San Salvo (casella autostradale — Vasto sud), Vasto"
+    ],
+    [
+     "Como",
+     "78.550  79.025"
+    ],
+    [
+     "Cosenza",
+     "77.400",
+     "Frascineto (svincolo autostradale), Paola, Rende (frazione Quattromiglia), Rossano (contrada Frasso), Scalea, Trebisacce"
+    ],
+    [
+     "Cremona",
+     "77.300  77.600  79.025",
+     "Crema, Casalmaggiore, Pizzighettone"
+    ],
+    [
+     "Crotone",
+     "77.400"
+    ],
+    [
+     "Cuneo",
+     "76.775  77.275",
+     "Ceva, Cherasco, Saluzzo"
+    ],
+    [
+     "Enna",
+     "77.875  78.525",
+     "Catenanuova (svincolo autostrada), Nicosia"
+    ],
+    [
+     "Ferrara",
+     "77.800  78.200",
+     "Argenta, Codigoro"
+    ],
+    [
+     "Firenze",
+     "77.400  77.425  78.700  78.775",
+     "Empoli, Sesto Fiorentino (casello autostradale — Firenze nord)"
+    ],
+    [
+     "Foggia",
+     "78.075",
+     "Foggia (casello autostradale — Foggia), Cerignola, San Severo, Vieste"
+    ],
+    [
+     "Forlì",
+     "77.800.",
+     "Forlì (casello autostradale Forlì), Bagno di Romagna (località San Pietro in Bagno), Cesena, Rocca San Casciano"
+    ],
+    [
+     "Frosinone",
+     "78.125",
+     "Frosinone (casello autostradale — Frosinone), Cassino, Sora"
+    ],
+    [
+     "Genova",
+     "78.625  78.925",
+     "Chiavari — Lavagna, Sampierdarena"
+    ],
+    [
+     "Gorizia",
+     "77.300",
+     "Monfalcone"
+    ],
+    [
+     "Grosseto",
+     "77.400  77.425  78.700  76.775",
+     "Arcidosso, Massa Marittima, Orbetello"
+    ],
+    [
+     "Imperia",
+     "78.825  78.850  78.925",
+     "Imperia (casello autostradale — imperia ovest), San Remo, Ventimiglia"
+    ],
+    [
+     "Isernia",
+     "77.125",
+     "Agnone"
+    ],
+    [
+     "La Spezia",
+     "78.625  78.925",
+     "Brugnato"
+    ],
+    [
+     "Latina",
+     "78.125  78.300",
+     "Aprilia, Formia, Terracina"
+    ],
+    [
+     "Lecce",
+     "78.075",
+     "Maglie"
+    ],
+    [
+     "Lecco",
+     "78.550  79.025",
+     "Colico"
+    ],
+    [
+     "Livorno",
+     "77.400  77.425  78.700  78.775  79.025",
+     "(isola d’Elba), Campiglia Marittima (località Venturina), Cecina, Portoferraio, Rosignano Marittimo (casello autostradale Vada)"
+    ],
+    [
+     "Lodi",
+     "79.025  79.100",
+     "Guardamiglio (casello autostradale — Piacenza nord)"
+    ],
+    [
+     "Lucca",
+     "77.400  77.425  77.525  78.700  78.775",
+     "Bagni di Lucca (località Debbio-Fornoli), Viareggio"
+    ],
+    [
+     "L’Aquila",
+     "77.125",
+     "Avezzano, Carsoti, Castel di Sangro, Pratola Patigna, Sulmona"
+    ],
+    [
+     "Macerata",
+     "76.875",
+     "Camerino, Civitanova Marche, Porto Recanati"
+    ],
+    [
+     "Mantova",
+     "77.200  79.025",
+     "Ostiglia"
+    ],
+    [
+     "Massa",
+     "77.400  77.425  78.700  78.775",
+     "Aulla (locatità Barcara)"
+    ],
+    [
+     "Matera",
+     "77.175",
+     "(da verificare), Poticoro, Scanzano Jonico"
+    ],
+    [
+     "Messina",
+     "77.875  78.525",
+     "Barcellona Pozzo di Gotta, Giardini Naxos (svincolo autostradale — Taormina sud), SantAgata di Militello"
+    ],
+    [
+     "Milano",
+     "79.025  79.100",
+     "Arcore, Assago (tangenziale Milano ovest), Magenta, San Donato Milanese, Seregno"
+    ],
+    [
+     "Modena",
+     "77.800",
+     "Mirandota, Pavullo nel Fngnano"
+    ],
+    [
+     "Napoli",
+     "77.500 77.575",
+     "Nota, Pozzuoli, Sorrento"
+    ],
+    [
+     "Novara",
+     "77.275  78.950",
+     "Arona, Borgomanera, Domodossola, Romagnano Sesia (casello autostradale)"
+    ],
+    [
+     "Nuoro",
+     "78.600",
+     "Bitti, Fonni, Laconi, Lanusei, Macomer, Orosei, Ottona, Siniscola"
+    ],
+    [
+     "Oristano",
+     "78.600"
+    ],
+    [
+     "Padova",
+     "77.700  78.525  78.575",
+     "Piove di Sacco"
+    ],
+    [
+     "Palermo",
+     "77.725  78.325",
+     "Campofelice di Roccella (svincolo Bonfornello), Cefalù (contrada Sante Lucia), Corleone, Lercara Fnddi, Termini Imerese"
+    ],
+    [
+     "Parma",
+     "77.800",
+     "Bercato, Fidenza, Fornovo di Taro"
+    ],
+    [
+     "Pavia",
+     "78.175  79.025",
+     "Stradella, Vigevano, Voghera"
+    ],
+    [
+     "Perugia",
+     "77.250  78.300",
+     "Castiglione deI Lago, Città di Castello, Foligno, Todi"
+    ],
+    [
+     "Pesaro",
+     "76.875",
+     "Cagli, Fano, Novafeltria, Urbino"
+    ],
+    [
+     "Pescara",
+     "77.125",
+     "Bolognano, Città SantAngelo (località Marina di Città Sant'Angelo), Penne"
+    ],
+    [
+     "Piacenza",
+     "77.800"
+    ],
+    [
+     "Pisa",
+     "77.400  77.425  78.700  78.775",
+     "Volterrra"
+    ],
+    [
+     "Pistoia",
+     "77.400  77.425  78.700  78.775",
+     "Piave a Nievole (casello autostradale — Montecatini Terme), San Marcello Pistoiese"
+    ],
+    [
+     "Pordenone",
+     "77.300",
+     "Spilimbergo"
+    ],
+    [
+     "Potenza",
+     "77.175",
+     "(da verificare), Lagonegro, Melfi (località Valleverde), Moliterno"
+    ],
+    [
+     "Prato",
+     "77.400  77.425  78.700  78.775"
+    ],
+    [
+     "Ragusa",
+     "77.875  78.525",
+     "Vittoria"
+    ],
+    [
+     "Ravenna",
+     "77.800",
+     "Faenza, Lugo"
+    ],
+    [
+     "Reggio Calabria",
+     "77.400  77.900",
+     "Brancaleone, Palmi (contrada San Gaetano), Siderno, Villa San Giovanni"
+    ],
+    [
+     "Reggio Emilia",
+     "77.800",
+     "Casteinovo nè Monti, Guastalla"
+    ],
+    [
+     "Rieti",
+     "77.800  78.125",
+     "Amatrice, Fara in Sabina (località Passo Corese)"
+    ],
+    [
+     "Rimini",
+     "77.800",
+     "Riccione"
+    ],
+    [
+     "Roma",
+     "77.950  78.025  78.075  78.125  79.175",
+     "Albano Laziale, Cerveteri, Civitavecchia, Colleferro, Fiano Romano (caselle autostradale Roma nord), Settabagni, Tivoli, Velletri"
+    ],
+    [
+     "Rovigo",
+     "77.700  78.525  78.575",
+     "Adria, Badia Polesine, Roverdicrè (caselle autostradale)"
+    ],
+    [
+     "Salerno",
+     "77.500",
+     "(da verificare), Angri, Eboli, Sala Consilina, Sapri, Vallo della Lucania, Vecite Santa Caterina"
+    ],
+    [
+     "Sassari",
+     "77.775  78.600",
+     "Olbia, Ozieri, Tempio Pausania"
+    ],
+    [
+     "Savona",
+     "78.825  78.925",
+     "Albenga, Carcare, Finale Ligure"
+    ],
+    [
+     "Siena",
+     "77.400  77.425  78.700  78.775",
+     "Montepulciano"
+    ],
+    [
+     "Siracusa",
+     "77.875  78.525  78.575",
+     "Lentini, Noto"
+    ],
+    [
+     "Sondrio",
+     "77.450",
+     "(da verificare)",
+     "78.275  79.025, Chiavenna, Tirano"
+    ],
+    [
+     "Taranto",
+     "78.075",
+     "Manduria, Palagiano (caselle aulostradale — Grottaglie)"
+    ],
+    [
+     "Teramo",
+     "77.125",
+     "Giulianova, Pineto"
+    ],
+    [
+     "Terni",
+     "77.250  78.300",
+     "Orvieto, Orvieto scalo"
+    ],
+    [
+     "Torino",
+     "77.275  77.925  78.525",
+     "Chivasso, Pinerolo, Susa"
+    ],
+    [
+     "Trapani",
+     "78.325",
+     "Alcamo, Castelvetrano, Marsala"
+    ],
+    [
+     "Trento",
+     "77.600",
+     "Cavalese, Male, Riva del Garda"
+    ],
+    [
+     "Treviso",
+     "77.700  78.525  78.575",
+     "Castelfranco Veneto, Villorba, Vittorio Veneto"
+    ],
+    [
+     "Trieste",
+     "77.300"
+    ],
+    [
+     "Udine",
+     "77.300",
+     "Amaro, Cervignano del Friuli, Pontebba, Tolmezzo"
+    ],
+    [
+     "Varese",
+     "78.900  79.025",
+     "Busto Arsizio, Luino"
+    ],
+    [
+     "Venezia",
+     "77.700  78.525  78.575"
+    ],
+    [
+     "Venezia — Mestre",
+     "77.725 (Mestre)",
+     "77.750",
+     "(San Donà di Piave), Portogruaro, San Donà di Piave"
+    ],
+    [
+     "Verbania",
+     "77.275  78.950",
+     "Verbania (località Pallanza)"
+    ],
+    [
+     "Vercelli",
+     "77.275  79.150",
+     "Varallo Sesia, Villarboit (autostrada Serenissima)"
+    ],
+    [
+     "Verona",
+     "77.700  78.525  78.575",
+     "Bardolino, Legnago"
+    ],
+    [
+     "Vibo Valentia",
+     "77.400"
+    ],
+    [
+     "Vicenza",
+     "77.700  78.525  78.575",
+     "Bassano del Grappa, Schio"
+    ],
+    [
+     "Viterbo",
+     "78.125  79.125",
+     "Olvita Castellana, Monterosi, Tarquinia"
+    ]
+   ]
+  }
+ ]
+}

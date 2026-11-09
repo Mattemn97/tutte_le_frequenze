@@ -1,0 +1,1240 @@
+{
+ "sezione": "Sanità · ambulanze, croci e pubbliche assistenze",
+ "fonte": "Tutte le frequenze segrete V2.0, pag. 78–82",
+ "blocchi": [
+  {
+   "nota": "SERVIZI SANITA’"
+  },
+  {
+   "nota": "AMBULANZE"
+  },
+  {
+   "nota": "CROCI ROSSA - PUBBLICHE ASSISTENZE - PRIVATE"
+  },
+  {
+   "nota": "BANDE 156 – 175 440 - 470 MHz (servizi compresi nelle gamme civili VHF- UHF)"
+  },
+  {
+   "nota": "LINK MASTER UHF - LIMITI DI BANDA 436 - 440 446 - 449 MHz"
+  },
+  {
+   "nota": "(compresi nella gamma civile UHF)"
+  },
+  {
+   "nota": "CROCI ROSSA PUBBLICHE ASSISTENZE"
+  },
+  {
+   "nota": "L’ASSEGNAZIONE E UTILIZZO DEI CANALI DI LAVORO AVVIENE A LIVELLO PROVINCIALE"
+  },
+  {
+   "nota": "PER OGNI BACINO DI UTENZA"
+  },
+  {
+   "nota": "CROCE ROSSA ITALIANA"
+  },
+  {
+   "nota": "ALCUNE PROVINCIE UTILIZZANO LA FREQUENZA A LORO ASSEGNATA"
+  },
+  {
+   "nota": "COME EMERGENZA SANITARIA 118"
+  },
+  {
+   "colonne": [
+    "Assegnazione",
+    "Canali",
+    "Frequenze"
+   ],
+   "righe": [
+    [
+     "Provinciale",
+     "1",
+     "171.975"
+    ],
+    [
+     "Provinciale",
+     "13 (verificare)",
+     "171.987,5"
+    ],
+    [
+     "Provinciale",
+     "2",
+     "172.000"
+    ],
+    [
+     "Provinciale",
+     "3",
+     "173.250"
+    ],
+    [
+     "Provinciale",
+     "4",
+     "173.275"
+    ],
+    [
+     "Provinciale",
+     "5",
+     "173.300"
+    ],
+    [
+     "Provinciale",
+     "17",
+     "173.312,5"
+    ],
+    [
+     "Provinciale",
+     "6",
+     "173.325"
+    ]
+   ]
+  },
+  {
+   "nota": "CROCI PUBBLICHE ASSISTENZE"
+  },
+  {
+   "nota": "COOPERATIVE PUBBLICHE ASSISTENZE"
+  },
+  {
+   "colonne": [
+    "Assegnazione",
+    "Canali",
+    "Frequenze"
+   ],
+   "righe": [
+    [
+     "Provinciale",
+     "1",
+     "173.175"
+    ],
+    [
+     "Provinciale",
+     "2",
+     "173.187,5"
+    ],
+    [
+     "Provinciale",
+     "3",
+     "173.200"
+    ],
+    [
+     "Provinciale",
+     "4",
+     "173.212,5"
+    ],
+    [
+     "Provinciale",
+     "5",
+     "173.225"
+    ],
+    [
+     "Nazionale",
+     "6",
+     "172.775"
+    ]
+   ]
+  },
+  {
+   "nota": "CROCI PRIVATE"
+  },
+  {
+   "nota": "VENGONO ANCHE RIPORTATE CROCI PUBBLICHE ASSISTENZE CHE UTILIZZANO FREQUENZE"
+  },
+  {
+   "nota": "NON INSERITE NELLA CANALIZZAZIONE NAZIONALE ASSEGNATA"
+  },
+  {
+   "colonne": [
+    "Localita’",
+    "Ente",
+    "Frequenze"
+   ],
+   "righe": [
+    [
+     "Acqui Terme (AL)",
+     "Bianca",
+     "173.187,5"
+    ],
+    [
+     "Agrate Brianza (Ml)",
+     "Ambrosiana",
+     "460.012,5"
+    ],
+    [
+     "Alassio (SV)",
+     "Bianca",
+     "173.100"
+    ],
+    [
+     "Albenga (SV)",
+     "Bianca",
+     "173.100"
+    ],
+    [
+     "Albenga (SV)",
+     "Rossa",
+     "173.100"
+    ],
+    [
+     "Albisola Superiore (SV)",
+     "Verde",
+     "173.100"
+    ],
+    [
+     "Andora (SV)",
+     "Bianca",
+     "173.100"
+    ],
+    [
+     "Arcola (SP)",
+     "Verde",
+     "173.525"
+    ],
+    [
+     "Arese (MI)",
+     "Misericordia",
+     "160.525"
+    ],
+    [
+     "Arluno (Ml)",
+     "Volontari",
+     "165.100"
+    ],
+    [
+     "Arma di Taggia (IM)",
+     "Verde",
+     "173.125"
+    ],
+    [
+     "Badalucco (IM)",
+     "Verde",
+     "173.125"
+    ],
+    [
+     "Baveri (GE)",
+     "Azzurra",
+     "173.125  173.550"
+    ],
+    [
+     "Bergamo e prov.",
+     "non disponibile",
+     "160.925"
+    ],
+    [
+     "Besana Brianza (MI)",
+     "Bianca",
+     "162.475  460.012.5"
+    ],
+    [
+     "Beverino (SP)",
+     "Bianca",
+     "173.525"
+    ],
+    [
+     "Biassono (Ml)",
+     "Bianca",
+     "162.475  460.012,5"
+    ],
+    [
+     "Binasco (Ml)",
+     "Bianca",
+     "162.475  460.012,5"
+    ],
+    [
+     "Bogliasco (GE)",
+     "Verde",
+     "173.125  173.550"
+    ],
+    [
+     "Bolano (SP)",
+     "Pubblica Ass. Ceparana",
+     "173.525"
+    ],
+    [
+     "Bolzaneto (GE)",
+     "Bianca",
+     "173.125 173.550"
+    ],
+    [
+     "Bonassola (SP)",
+     "Azzurra",
+     "173.525"
+    ],
+    [
+     "Bordighera (IM)",
+     "Rossa",
+     "173.125  173.275"
+    ],
+    [
+     "Borghetto di Vera (SP)",
+     "Verde",
+     "173.525"
+    ],
+    [
+     "Borghetto Santo Spirito (SV)",
+     "Bianca",
+     "173.100"
+    ],
+    [
+     "Borgio Verezzi (SV)",
+     "Bianca",
+     "173.100"
+    ],
+    [
+     "Borzoli (GE)",
+     "Azzurra",
+     "173.125  173.550"
+    ],
+    [
+     "Borzonasca (GE)",
+     "Verde",
+     "173.500"
+    ],
+    [
+     "Bovisio Masciago (MI)",
+     "Rossa",
+     "173.275  460.012,5"
+    ],
+    [
+     "Brescia",
+     "Bianca",
+     "466.487,5  468.012,5"
+    ],
+    [
+     "Brasso (MI)",
+     "Rossa",
+     "173.275  460.012,5"
+    ],
+    [
+     "Brugherio (MI)",
+     "Bianca",
+     "162.475 460.012,5"
+    ],
+    [
+     "Brugherio (MI)",
+     "Rossa",
+     "173.275  460.012,5"
+    ],
+    [
+     "Busalla (GE)",
+     "Verde",
+     "173.125  173.550"
+    ],
+    [
+     "Cairo Montenotte (SV)",
+     "Bianca",
+     "173.100"
+    ],
+    [
+     "Calizzano (SV)",
+     "Azzurra",
+     "173.100"
+    ],
+    [
+     "Camogli (GE)",
+     "Verde Camogliese",
+     "173.500"
+    ],
+    [
+     "Carasco (GE)",
+     "Verde",
+     "173.500"
+    ],
+    [
+     "Carate Bnanza (MI)",
+     "Bianca",
+     "162.475"
+    ],
+    [
+     "Cercare (SV)",
+     "Bianca",
+     "173.100"
+    ],
+    [
+     "Carrara (MS)",
+     "Misericordia",
+     "162.425 (da verificare)"
+    ],
+    [
+     "Carrara (MS)",
+     "non disponibile",
+     "161.375"
+    ],
+    [
+     "Cerugate (MI)",
+     "Bianca",
+     "162.475"
+    ],
+    [
+     "Caseina dè Pecchi (MI)",
+     "Bianca",
+     "162.475"
+    ],
+    [
+     "Castelnuovo Magra (SP)",
+     "Bianca",
+     "173.525"
+    ],
+    [
+     "Castiglione Chiavarese (GE)",
+     "Verde",
+     "173.500"
+    ],
+    [
+     "Celle Ligun (SV)",
+     "Rosa",
+     "173.100"
+    ],
+    [
+     "Cangio Bormida (SV)",
+     "Rossa",
+     "173.100"
+    ],
+    [
+     "Ceriale (SV)",
+     "Rossa",
+     "173.100"
+    ],
+    [
+     "Cernusco sul Naviglio (Ml)",
+     "Bianca",
+     "162.475"
+    ],
+    [
+     "Cervo (IM)",
+     "D’Oro",
+     "173.125"
+    ],
+    [
+     "Cesena Maderno (Ml)",
+     "Bianca",
+     "162.475  460.012,5"
+    ],
+    [
+     "Champorcher (AO)",
+     "non disponibile",
+     "151.365"
+    ],
+    [
+     "Chiavari (GE)",
+     "Verde Chiavarese",
+     "173.500"
+    ],
+    [
+     "Cinisello Balsamo (MI)",
+     "Rossa",
+     "173.275  460.012,5"
+    ],
+    [
+     "Cologno Monzese (MI)",
+     "Avis",
+     "161.250"
+    ],
+    [
+     "Cornigliano Ligure (GE)",
+     "Bianca",
+     "173.125  173.550"
+    ],
+    [
+     "Corsica (MI)",
+     "Blu",
+     "161.225"
+    ],
+    [
+     "Corsico (MI)",
+     "Verde A.P.M.",
+     "173.775"
+    ],
+    [
+     "Cosio di Arroscia (IM)",
+     "Rossa",
+     "173.125  173.275"
+    ],
+    [
+     "Deiva Marina (SP)",
+     "D’Oro",
+     "173.525"
+    ],
+    [
+     "Desenzano del Garda (BS)",
+     "non disponibile",
+     "162.787,5"
+    ],
+    [
+     "Desio (MI)",
+     "Rossa",
+     "173.275  460.012.5"
+    ],
+    [
+     "Diano Marina (IM)",
+     "Rossa",
+     "173.125  173.275"
+    ],
+    [
+     "Dolceacqua (IM)",
+     "Verde Intemelia",
+     "173.125  173.525"
+    ],
+    [
+     "Finale Ligure (SV)",
+     "Bianca",
+     "173.100"
+    ],
+    [
+     "Finale Ligure (SV)",
+     "Verde",
+     "173.100"
+    ],
+    [
+     "Firenze",
+     "Azzurra",
+     "165.450"
+    ],
+    [
+     "Firenze",
+     "Misericordia",
+     "161.675  171.650"
+    ],
+    [
+     "Foligno (PG)",
+     "Croce Bianca",
+     "465.400"
+    ],
+    [
+     "Follo (SP)",
+     "Rossa",
+     "171.975  173.525"
+    ],
+    [
+     "Fossola (MS)",
+     "non disponibile",
+     "157.830"
+    ],
+    [
+     "Premura (SP)",
+     "Pubblica Ass. Framurese",
+     "173.525"
+    ],
+    [
+     "Garlasco (PV)",
+     "Garlaschese",
+     "165.200"
+    ],
+    [
+     "Genova",
+     "Azzurra Cà Nove",
+     "173.125  173.550"
+    ],
+    [
+     "Genova",
+     "Bianca del Soccorso",
+     "173.125  173.550"
+    ],
+    [
+     "Genova",
+     "Bianca Genovese",
+     "173.125  173.550"
+    ],
+    [
+     "Genova",
+     "Blu Castelletto",
+     "173.125  173.550"
+    ],
+    [
+     "Genova",
+     "Celeste San Benigno",
+     "173.125  173.550"
+    ],
+    [
+     "Genova",
+     "d’Oro",
+     "173.125  173.550"
+    ],
+    [
+     "Genova",
+     "Verde (Forte Quezzi)",
+     "173.125  173.550"
+    ],
+    [
+     "Genova",
+     "Verde (Genovese)",
+     "173.125  173.550"
+    ],
+    [
+     "Genova",
+     "Vol. del Socc. (V.Fenice)",
+     "173.125  173.550"
+    ],
+    [
+     "Genova",
+     "Vol. del Socc. (S. Anna)",
+     "173.125  173.550"
+    ],
+    [
+     "Genova",
+     "Vol. del Socc. (S. Tecla)",
+     "173.125  173.550"
+    ],
+    [
+     "Genova",
+     "Volontari (via Vesuvio)",
+     "173.125  173.550"
+    ],
+    [
+     "Genova",
+     "Volontari San Giorgio",
+     "173.125  173.550"
+    ],
+    [
+     "Giussano (Ml)",
+     "Bianca",
+     "162.475"
+    ],
+    [
+     "Imperia",
+     "Bianca",
+     "173.125"
+    ],
+    [
+     "Imperia",
+     "Rossa",
+     "173.125  173.275"
+    ],
+    [
+     "Isoverde (GE)",
+     "Verde",
+     "173.125  173.550"
+    ],
+    [
+     "La Spezia",
+     "Bianca",
+     "173.525"
+    ],
+    [
+     "Le Spezia",
+     "Rossa",
+     "171.975  173.525"
+    ],
+    [
+     "Legnano (MI)",
+     "Bianca",
+     "162.475"
+    ],
+    [
+     "Lerici (SP)",
+     "Rosso-Bianca",
+     "173.525"
+    ],
+    [
+     "Limbiate (Ml)",
+     "Argento",
+     "164.950"
+    ],
+    [
+     "Lissone (MI)",
+     "Verde Lissonese",
+     "460.012,5"
+    ],
+    [
+     "Livorno",
+     "non disponibile",
+     "171.825"
+    ],
+    [
+     "Livorno",
+     "non disponibile",
+     "172,762,5"
+    ],
+    [
+     "Livorno",
+     "non disponibile",
+     "173.775"
+    ],
+    [
+     "Lodi (provincia)",
+     "non disponibile",
+     "160.575"
+    ],
+    [
+     "Loeno (SV)",
+     "Rossa",
+     "173.100"
+    ],
+    [
+     "Lucca",
+     "Misericordia",
+     "171.875  172.025"
+    ],
+    [
+     "Lumarzo (GE)",
+     "Verde",
+     "173.125  173.550"
+    ],
+    [
+     "Magenta (MI)",
+     "Bianca",
+     "162.475"
+    ],
+    [
+     "Menano Comense (CO)",
+     "Bianca",
+     "162,475"
+    ],
+    [
+     "Massa",
+     "Misericordia",
+     "161.025"
+    ],
+    [
+     "Melegnano (MI)",
+     "Bianca",
+     "162.475"
+    ],
+    [
+     "Melzo (Ml)",
+     "Bianca",
+     "162.475"
+    ],
+    [
+     "Mignanego (GE)",
+     "Bianca",
+     "173.125  173.550"
+    ],
+    [
+     "Milano",
+     "Ambrosiana",
+     "161.075"
+    ],
+    [
+     "Milano",
+     "Bianca",
+     "162.475"
+    ],
+    [
+     "Milano",
+     "Intervol",
+     "161.262,5"
+    ],
+    [
+     "Milano",
+     "Maria Bambina",
+     "161.250"
+    ],
+    [
+     "Milano",
+     "Misericordia",
+     "161.025"
+    ],
+    [
+     "Milano",
+     "D’Oro",
+     "160.362,5  162.537,5  163.075 (parla-ascolta)"
+    ],
+    [
+     "Milano",
+     "Rosa Celeste",
+     "161.050"
+    ],
+    [
+     "Milano",
+     "Samaritana",
+     "160.375"
+    ],
+    [
+     "Milano",
+     "San Carlo",
+     "160.212,5"
+    ],
+    [
+     "Milano",
+     "Santa Rita",
+     "161.375"
+    ],
+    [
+     "Milano",
+     "Sos",
+     "164.775"
+    ],
+    [
+     "Milano",
+     "Sos Lambrate",
+     "173.775"
+    ],
+    [
+     "Milano",
+     "Verde A.P.M.",
+     "173.775"
+    ],
+    [
+     "Milano",
+     "Viola",
+     "173.775"
+    ],
+    [
+     "Milano",
+     "non disponibile",
+     "160.137,5"
+    ],
+    [
+     "Milano",
+     "non disponibile",
+     "160.525"
+    ],
+    [
+     "Milano",
+     "non disponibile",
+     "165.287,5"
+    ],
+    [
+     "Molassana Alta (GE)",
+     "Pubblica Assistenza",
+     "173.125  173.550"
+    ],
+    [
+     "Moneglia (GE)",
+     "Azzurra Monegliese",
+     "173.500"
+    ],
+    [
+     "Monterosso al Mare (SP)",
+     "Bianca",
+     "173.525"
+    ],
+    [
+     "Monza (MI)",
+     "Rossa",
+     "173.275  460.012,5"
+    ],
+    [
+     "Muggiò (MI)",
+     "Rossa",
+     "173.275  460.012,5"
+    ],
+    [
+     "Ne (GE)",
+     "Verde",
+     "173.500"
+    ],
+    [
+     "Nervi (GE)",
+     "Pubblica Assistenza",
+     "173.125  173.550"
+    ],
+    [
+     "Nizza Monferrato (AT)",
+     "Verde",
+     "165.050"
+    ],
+    [
+     "Noli (SV)",
+     "Bianca",
+     "173.100"
+    ],
+    [
+     "Nova Milanese (MI)",
+     "Rossa",
+     "173.275  460.012,5"
+    ],
+    [
+     "Novara",
+     "non disponibile",
+     "161.675"
+    ],
+    [
+     "Novara",
+     "non disponibile",
+     "173.775"
+    ],
+    [
+     "Ospedaletti (IM)",
+     "Bianca",
+     "173.125  173.525"
+    ],
+    [
+     "Ovada (AL)",
+     "Verde Ovadese",
+     "160.837,5"
+    ],
+    [
+     "Paderno Dugnano (MI)",
+     "Rossa",
+     "173.275  460.012.5"
+    ],
+    [
+     "Padova",
+     "Verde",
+     "161.125"
+    ],
+    [
+     "Paullo (MI)",
+     "Bianca",
+     "162.475"
+    ],
+    [
+     "Pegli (GE)",
+     "Verde",
+     "173.125  173.550"
+    ],
+    [
+     "Pero (Ml)",
+     "Astra Radio Soccorso",
+     "161.075"
+    ],
+    [
+     "Peschiera Borromeo (Ml)",
+     "Bianca",
+     "162.475"
+    ],
+    [
+     "Pietre Ligure (SV)",
+     "Rossa",
+     "173.100"
+    ],
+    [
+     "Pieve di Teco (IM)",
+     "Rossa",
+     "173.125  173.275"
+    ],
+    [
+     "Pieve Emanuele (MI)",
+     "Bianca",
+     "162.475"
+    ],
+    [
+     "Pinerolo (TO)",
+     "Verde",
+     "173.162,5"
+    ],
+    [
+     "Pino (GE)",
+     "Bianca",
+     "173,125  173.550"
+    ],
+    [
+     "Piombino (LI)",
+     "non disponibile",
+     "163.475"
+    ],
+    [
+     "Pisa",
+     "Misericordia",
+     "163.575"
+    ],
+    [
+     "Pisa",
+     "non disponibile",
+     "171.600"
+    ],
+    [
+     "Pisa",
+     "non disponibile",
+     "172.762,5"
+    ],
+    [
+     "Pisa e prov.",
+     "non disponibile",
+     "173.125"
+    ],
+    [
+     "Pisa e prov.",
+     "non disponibile",
+     "173.550"
+    ],
+    [
+     "Pistoia",
+     "Misericordia",
+     "161.875  171.675"
+    ],
+    [
+     "Pontedassio (IM) ,",
+     "Rossa",
+     "173.125  173.275"
+    ],
+    [
+     "Pornassio (IM)",
+     "Bianca",
+     "173.125"
+    ],
+    [
+     "Portofino al Mare (GE)",
+     "Pubblica Assistenza",
+     "173.500"
+    ],
+    [
+     "Prà (GE)",
+     "Verde",
+     "173.125  173.550"
+    ],
+    [
+     "Prato",
+     "Misericordia",
+     "161.875  171.875"
+    ],
+    [
+     "Quarto dei Mille (GE)",
+     "Verde",
+     "173.125  173.550"
+    ],
+    [
+     "Quinto al Mare (GE)",
+     "Verde",
+     "173.125  173.550"
+    ],
+    [
+     "Repallo (GE)",
+     "Bianca Rapallese",
+     "173.500"
+    ],
+    [
+     "Recco (GE)",
+     "Verde",
+     "173.125  173.550"
+    ],
+    [
+     "Reggio Emilia",
+     "Verde",
+     "161.125"
+    ],
+    [
+     "Riccò del Golfo (SP)",
+     "Rossa",
+     "171.975  173.525"
+    ],
+    [
+     "Riverolo (GE)",
+     "Rosa Rivarolese",
+     "173.125  173.550"
+    ],
+    [
+     "Rozzano (Ml)",
+     "Viola",
+     "173.775"
+    ],
+    [
+     "Sampierdarena (GE)",
+     "d’Oro",
+     "173,125  173.550"
+    ],
+    [
+     "San Remo (IM)",
+     "Bianca",
+     "173.125  173.525"
+    ],
+    [
+     "San Remo (IM)",
+     "Pubblica Ass. Volontari",
+     "173.125  173.525"
+    ],
+    [
+     "San Desiderio (GE)",
+     "Bianca",
+     "173.125  173.550"
+    ],
+    [
+     "San Donato Milanese (MI)",
+     "Gialla",
+     "165.267,5"
+    ],
+    [
+     "San Giuliano Milanese (MI)",
+     "Bianca",
+     "162.475"
+    ],
+    [
+     "San Pietro all’Olmo (MI)",
+     "Verde",
+     "161.050"
+    ],
+    [
+     "San Quirico (GE)",
+     "Rosa",
+     "173.125  173.550"
+    ],
+    [
+     "San Valentino Multa (BZ)",
+     "Bianca Val Venosta",
+     "163.350"
+    ],
+    [
+     "SantAngelo Lodigiano (LO)",
+     "Bianca",
+     "162.475"
+    ],
+    [
+     "Santa Margherita Ligure (GE)",
+     "Verde Sanmargheritese",
+     "173.500"
+    ],
+    [
+     "Santo Stefano al Mare (IM)",
+     "Rossa",
+     "173.125  173.275"
+    ],
+    [
+     "Santo Stefano di Magra (SP)",
+     "Rossa",
+     "171.975  173.525"
+    ],
+    [
+     "Saronno (VA)",
+     "Argento",
+     "164.950"
+    ],
+    [
+     "Sarzana (SP)",
+     "Rossa",
+     "171.975  173.525"
+    ],
+    [
+     "Sassello (SV)",
+     "Rossa",
+     "173.100"
+    ],
+    [
+     "Savona",
+     "Bianca",
+     "173.100"
+    ],
+    [
+     "Savona",
+     "Rossa",
+     "173.100"
+    ],
+    [
+     "Sciarborasca (GE)",
+     "d’Oro",
+     "173.125  173.550"
+    ],
+    [
+     "Senago (MI)",
+     "P.a.s.",
+     "163.525"
+    ],
+    [
+     "Senigallia (AN)",
+     "Misa Soccorso",
+     "163.550"
+    ],
+    [
+     "Seregno (MI)",
+     "Volontari",
+     "160.425"
+    ],
+    [
+     "Sesta Godano (SP)",
+     "Rossa",
+     "171.975  173.525"
+    ],
+    [
+     "Sesto San Giovanni (MI)",
+     "S.os.",
+     "173.775"
+    ],
+    [
+     "Sestri Levante (GE)",
+     "Verde",
+     "173.500"
+    ],
+    [
+     "Sestri Ponente (GE)",
+     "Verde",
+     "173.125  173.550"
+    ],
+    [
+     "Seveso (MI)",
+     "Bianca",
+     "162.475"
+    ],
+    [
+     "Siena",
+     "Misericordia",
+     "165.700",
+     "o 166.700"
+    ],
+    [
+     "Spotorno (SV)",
+     "Bianca",
+     "173.100"
+    ],
+    [
+     "Struppa (GE)",
+     "Bianca",
+     "173.125  173.550"
+    ],
+    [
+     "Taggia (IM)",
+     "Rossa",
+     "173.125  173.275"
+    ],
+    [
+     "Torino",
+     "Bianca",
+     "163.475"
+    ],
+    [
+     "Torrazza (GE)",
+     "Bianca",
+     "173.125  173.550"
+    ],
+    [
+     "Trezzo sull’Adda (MI)",
+     "Azzurra",
+     "460.012.5"
+    ],
+    [
+     "Vado Ligure (SV)",
+     "Rossa",
+     "173.100"
+    ],
+    [
+     "Vallecrosia (IM)",
+     "Azzurra",
+     "173.125  173.525"
+    ],
+    [
+     "Vallecrosia (IM)",
+     "Verde Intemelia",
+     "173.125  173.525"
+    ],
+    [
+     "Vallecrosia (IM)",
+     "Rossa",
+     "173.125  173.275  173.525"
+    ],
+    [
+     "Valsecca (GE)",
+     "Bianca",
+     "173.125  173.550"
+    ],
+    [
+     "Varazze (SV)",
+     "Rossa",
+     "173.100"
+    ],
+    [
+     "Varedo (MI)",
+     "Rossa",
+     "173.275  480.012,5"
+    ],
+    [
+     "Varese Ligure (SP)",
+     "Rossa",
+     "171.975  173.525"
+    ],
+    [
+     "Ventimiglia (IM)",
+     "Rossa",
+     "173.125  173.275"
+    ],
+    [
+     "Vernazza (SP)",
+     "Verde",
+     "173.525"
+    ],
+    [
+     "Viareggio (LU)",
+     "Misericordia",
+     "163.400"
+    ]
+   ]
+  }
+ ]
+}

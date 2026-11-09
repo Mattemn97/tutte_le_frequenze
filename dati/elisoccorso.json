@@ -1,0 +1,223 @@
+{
+ "sezione": "Elisoccorso ed eliambulanze",
+ "fonte": "Tutte le frequenze segrete V2.0, pag. 86–87",
+ "blocchi": [
+  {
+   "nota": "ELISOCCORSO - ELIAMBULANZE"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "BANDE 156- 175.440 - 470 MHz (servizi compresi nella gamme civili VHF- UHF)"
+    ]
+   ]
+  },
+  {
+   "nota": "L’ASSEGNAZIONE E UTILIZZO DELLE FREQUENZE DI LAVORO AVVIENE A LIVELLO"
+  },
+  {
+   "nota": "PROVINCIALE"
+  },
+  {
+   "nota": "PER OGNI BACINO DI UTENZA"
+  },
+  {
+   "colonne": [
+    "Localita'",
+    "Frequenze"
+   ],
+   "righe": [
+    [
+     "Alessandria",
+     "173.493,75"
+    ],
+    [
+     "Alta Val Venosta (BZ)",
+     "163.100"
+    ],
+    [
+     "Ancona",
+     "173.225"
+    ],
+    [
+     "Aosta",
+     "165.875  171.500  171.550"
+    ],
+    [
+     "Ascoli Piceno",
+     "173.225"
+    ],
+    [
+     "Asti",
+     "173.493,75"
+    ],
+    [
+     "Bergamo",
+     "173.300"
+    ],
+    [
+     "Biella",
+     "173.493,75"
+    ],
+    [
+     "Bologna",
+     "165.725"
+    ],
+    [
+     "Bologna (Reno)",
+     "185.650"
+    ],
+    [
+     "Bolzano",
+     "163.450  164.575",
+     "(Soccorso Alpino)",
+     "160.500",
+     "(Catores Val Gardena)"
+    ],
+    [
+     "Bressanone (BZ)",
+     "165.250"
+    ],
+    [
+     "Como",
+     "172.775",
+     "(Lario Soccorso)"
+    ],
+    [
+     "Cuneo",
+     "173.493,75"
+    ],
+    [
+     "Ferrara",
+     "165.675"
+    ],
+    [
+     "Forli",
+     "165.900"
+    ],
+    [
+     "Genova",
+     "73.675",
+     "(Vigili deI Fuoco)",
+     "173.125  173.550"
+    ],
+    [
+     "Gorizia",
+     "173.126"
+    ],
+    [
+     "Imola (BO)",
+     "165.775"
+    ],
+    [
+     "Imperia",
+     "173.125"
+    ],
+    [
+     "La Spezia",
+     "173.525"
+    ],
+    [
+     "Lecco",
+     "172.775",
+     "(Lario Soccorso)"
+    ],
+    [
+     "Macerata",
+     "173.225"
+    ],
+    [
+     "Mantova",
+     "165.300"
+    ],
+    [
+     "Milano",
+     "165.300"
+    ],
+    [
+     "Modena",
+     "165.650"
+    ],
+    [
+     "Novara",
+     "173.493,75"
+    ],
+    [
+     "Parma",
+     "165.725  172.800"
+    ],
+    [
+     "Pesaro",
+     "173.225"
+    ],
+    [
+     "Piacenza",
+     "165.675"
+    ],
+    [
+     "Pieve di Cadore (BL)",
+     "161.212,5  161.750"
+    ],
+    [
+     "Ravenna",
+     "165.625"
+    ],
+    [
+     "Reggio Emilia",
+     "165.625"
+    ],
+    [
+     "Rimini",
+     "165.675"
+    ],
+    [
+     "Roma",
+     "135.250",
+     "(freq. aeronautica)"
+    ],
+    [
+     "Savona",
+     "173.100"
+    ],
+    [
+     "Solda (BZ)",
+     "164.000"
+    ],
+    [
+     "Sondrio",
+     "173.250"
+    ],
+    [
+     "Torino",
+     "173.493,75"
+    ],
+    [
+     "Trento",
+     "161.600  161.825  161.850"
+    ],
+    [
+     "Treviso",
+     "165.675"
+    ],
+    [
+     "Trieste",
+     "173.500",
+     "(sede Udine)"
+    ],
+    [
+     "Udine",
+     "173.737,5"
+    ],
+    [
+     "Venezia",
+     "155.675"
+    ],
+    [
+     "Verbania",
+     "173.493,75"
+    ]
+   ]
+  }
+ ]
+}

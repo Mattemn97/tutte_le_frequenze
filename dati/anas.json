@@ -1,0 +1,88 @@
+{
+ "sezione": "ANAS · strade statali",
+ "fonte": "Tutte le frequenze segrete V2.0, pag. 92",
+ "blocchi": [
+  {
+   "nota": "AZIENDA NAZIONALE AUTONOMA STRADE STATALI"
+  },
+  {
+   "nota": "A.N.A.S."
+  },
+  {
+   "nota": "BANDA 465 - 470 MHz (servizi compresi nella gamma civile UHF)"
+  },
+  {
+   "nota": "L’ASSEGNAZIONE E UTILIZZO DEI CANALI DI LAVORO AVVIENE A LEVELLO PROVINCIALE"
+  },
+  {
+   "nota": "PER OGNI BACINO D’UTENZA"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "465.175"
+    ],
+    [
+     "465.250"
+    ],
+    [
+     "465.275"
+    ],
+    [
+     "465.300"
+    ],
+    [
+     "465.350"
+    ],
+    [
+     "465.450"
+    ],
+    [
+     "465.550"
+    ],
+    [
+     "465.625"
+    ],
+    [
+     "465.675"
+    ],
+    [
+     "466.900"
+    ]
+   ]
+  },
+  {
+   "nota": "NELLA REGIONE LOMBARDIA IL SERVIZIO VIENE ATTUATO SULLE SEGUENTI FREQUENZE"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "Bergamo",
+     "438.600 Brescia non disponibile"
+    ],
+    [
+     "Como",
+     "437.600"
+    ],
+    [
+     "Cremona",
+     "437.875"
+    ],
+    [
+     "Lecco",
+     "437.600 Lodi non disponibile"
+    ],
+    [
+     "Mantova",
+     "437.875"
+    ],
+    [
+     "Milano",
+     "465.550 Pavia non disponibile Sondrio non disponibile Varese non disponibile"
+    ]
+   ]
+  }
+ ]
+}

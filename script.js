@@ -1,182 +1,304 @@
-// Variabili globali dello stato dell'applicazione
-let databaseAttivo = null;
+// Tutte le frequenze · consultazione dell'archivio radio VHF/UHF
+(function () {
+  'use strict';
 
-// Funzioni di gestione dell'interfaccia mobile (Sidebar)
-function w3_open() {
-    document.getElementById("mySidebar").style.setProperty("width", "70%", "important");
-    document.getElementById("mySidebar").style.display = "block";
-    document.getElementById("myOverlay").style.display = "block";
-}
-function w3_close() {
-    document.getElementById("mySidebar").style.display = "none";
-    document.getElementById("myOverlay").style.display = "none";
-}
+  const $ = (s, r = document) => r.querySelector(s);
+  const $$ = (s, r = document) => Array.from(r.querySelectorAll(s));
 
-// Inizializzazione: Legge l'indice config.json e monta il menu
-document.addEventListener("DOMContentLoaded", () => {
-    fetch('config.json')
-        .then(response => {
-            if (!response.ok) throw new Error("Impossibile trovare il file config.json");
-            return response.json();
-        })
-        .then(config => {
-            costruisciMenu(config.moduli);
-        })
-        .catch(err => {
-            document.getElementById("menu-voci").innerHTML = `<div class="w3-padding w3-text-red"><i class="fa fa-exclamation-triangle"></i> Errore indice dati</div>`;
-            console.error(err);
-        });
-});
+  const CAT_ICONS = {
+    "Forze dell'ordine": 'fa-shield-halved',
+    'Soccorso ed emergenza': 'fa-truck-medical',
+    'Viabilità e trasporti': 'fa-road',
+    'Aeronautica e marina': 'fa-plane',
+    'Servizi e aziende': 'fa-industry',
+    'Civili, satelliti e TV': 'fa-satellite-dish'
+  };
+  // sigle da tenere maiuscole quando un testo TUTTO MAIUSCOLO viene reso leggibile
+  const ACRONYMS = ['MHz', 'VHF', 'UHF', 'VV.FF', 'CRI', 'ANAS', 'A.N.A.S.', 'ENEL', 'RAI', 'SNAM', 'AGIP', 'LPD', 'V.O.R.', 'VOR',
+    'NATO', 'S.A.R.', 'F.I.S.', 'VOLMET', 'CAI', 'A.I.B.', 'UHF-VHF', 'VHF-UHF', 'F.S.', 'G.d.F', 'T/B/T', 'UTC', 'FM', 'TV', 'COMPAMARE', 'CIRCOMARE', 'LOCAMARE', 'CTCSS', 'PS', 'CC'];
 
-// Genera dinamicamente i pulsanti nella sidebar
-function costruisciMenu(moduli) {
-    const menuContainer = document.getElementById("menu-voci");
-    menuContainer.innerHTML = ""; // Svuota il caricamento
+  const state = { modules: [], cache: new Map(), current: null, scope: 'section', q: '' };
 
-    moduli.forEach((modulo, index) => {
-        const btn = document.createElement("button");
-        btn.className = "w3-bar-item w3-button w3-padding w3-hover-blue-grey w3-border-bottom w3-border-dark-grey";
-        btn.innerHTML = modulo.label;
-        btn.onclick = () => {
-            // Gestione classi attive sul menu
-            const activeButtons = menuContainer.getElementsByClassName("w3-blue-grey");
-            for (let b of activeButtons) b.classList.remove("w3-blue-grey");
-            btn.classList.add("w3-blue-grey");
-            
-            // Carica il file JSON corrispondente
-            caricaModuloDati(modulo.file);
-            w3_close(); // Chiude la sidebar su mobile
-        };
-        menuContainer.appendChild(btn);
-        
-        // Carica il primo modulo di default all'avvio
-        if (index === 0) btn.click();
+  /* ---------------- Utilità ---------------- */
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const norm = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/,/g, '.');
+
+  function readable(text) {
+    const t = String(text).trim();
+    const letters = t.replace(/[^A-Za-zÀ-ÿ]/g, '');
+    if (letters.length < 4 || letters !== letters.toUpperCase()) return t;
+    let out = t.toLowerCase().replace(/(^|[.:!?]\s+)(\p{L})/gu, (m, a, b) => a + b.toUpperCase());
+    ACRONYMS.forEach(a => {
+      const re = new RegExp('(^|[^\\p{L}])' + a.replace(/[.*+?^${}()|[\]\\/]/g, '\\$&') + '(?=$|[^\\p{L}])', 'giu');
+      out = out.replace(re, (m, p) => p + a);
     });
-}
+    return out;
+  }
 
-// Carica ed elabora il file JSON selezionato
-function caricaModuloDati(fileName) {
-    const loader = `<div class="w3-container w3-center w3-padding-64"><i class="fa fa-spinner fa-spin w3-jumbo w3-text-grey"></i><p>Elaborazione record...</p></div>`;
-    document.getElementById("contenuto-dati").innerHTML = loader;
+  const humanKey = k => k.replace(/_/g, ' ').replace(/\bcc\b/g, 'CC').replace(/\bgdf\b/g, 'GdF').replace(/\buhf\b/g, 'UHF')
+    .replace(/\baib\b/g, 'AIB').replace(/^./, c => c.toUpperCase());
 
-    fetch(fileName)
-        .then(response => response.json())
-        .then(json => {
-            databaseAttivo = json;
-            document.getElementById("inputRicerca").value = ""; // Svuota vecchia ricerca
-            document.getElementById("inputRicerca").disabled = false;
-            
-            // Aggiorna l'Header della sezione
-            document.getElementById("titolo-sezione").innerText = json.sezione;
-            document.getElementById("info-sezione").innerHTML = `Banda Principale: <b>${json.banda_principale || 'N/D'}</b> | Ultimo Aggiornamento: ${json.ultimo_aggiornamento || 'N/D'}`;
-            
-            renderizzaTabelle(json);
-        })
-        .catch(err => {
-            document.getElementById("contenuto-dati").innerHTML = `<div class="w3-panel w3-red w3-padding w3-round"><h4>Errore!</h4><p>Impossibile caricare il file dati/${fileName}</p></div>`;
-            console.error(err);
-        });
-}
+  // evidenzia le frequenze (>= 26 MHz) come badge copiabili ed eventualmente la ricerca
+  const FREQ_RE = /(^|[^\d.,])(\d{2,4}(?:[.,]\d{1,4}){1,2})(?![\d])/g;
+  function fmtCell(text, q) {
+    let html = esc(readable(text));
+    html = html.replace(FREQ_RE, (m, pre, f) => {
+      const v = parseFloat(f.replace(',', '.'));
+      if (!(v >= 26 && v <= 3000)) return m;
+      return pre + '<span class="mf-freq" data-f="' + f + '" title="Clic per copiare">' + f + '</span>';
+    });
+    if (q) {
+      const words = q.split(/\s+/).filter(w => w.length > 1);
+      words.forEach(w => {
+        const re = new RegExp('(' + w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')(?![^<]*>)', 'gi');
+        html = html.replace(re, '<mark>$1</mark>');
+      });
+    }
+    return html;
+  }
 
-// Rende i dati JSON in tabelle HTML pulite e scannabili
-function renderizzaTabelle(json) {
-    const container = document.getElementById("contenuto-dati");
-    container.innerHTML = ""; // Svuota il loader
+  function toast(msg) {
+    const t = $('#toast');
+    t.textContent = msg;
+    t.classList.add('show');
+    clearTimeout(toast._t);
+    toast._t = setTimeout(() => t.classList.remove('show'), 1600);
+  }
 
-    if (!json.dati_provinciali || json.dati_provinciali.length === 0) {
-        container.innerHTML = "<p class='w3-text-grey'>Nessun dato provinciale presente in questa sezione.</p>";
+  async function loadModule(m) {
+    if (!state.cache.has(m.id)) {
+      state.cache.set(m.id, fetch(m.file).then(r => {
+        if (!r.ok) throw new Error(m.file);
+        return r.json();
+      }));
+    }
+    return state.cache.get(m.id);
+  }
+
+  /* ---------------- Normalizzazione in tabelle ---------------- */
+  // Ogni modulo diventa una lista di "parti": note, tabelle e schede informative
+  function toParts(data) {
+    const parts = [];
+    if (data.dati_provinciali && data.dati_provinciali.length) {
+      const rows = [];
+      data.dati_provinciali.forEach(p => p.localita.forEach((l, i) => {
+        rows.push([i === 0 ? p.provincia : '', l.nome, (l.frequenze || []).join('  '), l.note || '']);
+      }));
+      parts.push({ type: 'table', title: 'Province e presidi', icon: 'fa-location-dot', cols: ['Provincia', 'Località / presidio', 'Frequenze (MHz)', 'Note'], rows });
+    }
+    Object.keys(data).forEach(k => {
+      const v = data[k];
+      if (['dati_provinciali', 'blocchi', 'blocchi_pdf'].includes(k)) return;
+      if (Array.isArray(v) && v.length && typeof v[0] === 'object') {
+        const cols = Object.keys(v[0]);
+        parts.push({ type: 'table', title: humanKey(k), icon: 'fa-tower-cell', cols: cols.map(humanKey), rows: v.map(o => cols.map(c => o[c] ?? '')) });
+      } else if (v && typeof v === 'object' && !Array.isArray(v)) {
+        parts.push({ type: 'info', title: humanKey(k), entries: Object.entries(v).map(([a, b]) => [humanKey(a), b]) });
+      }
+    });
+    if (data.blocchi) parts.push(...blocksToParts(data.blocchi, true));
+    if (data.blocchi_pdf) {
+      parts.push({ type: 'heading', title: 'Elenco completo dal PDF', icon: 'fa-file-pdf', note: data.blocchi_pdf.fonte });
+      parts.push(...blocksToParts(data.blocchi_pdf.blocchi, false));
+    }
+    return parts;
+  }
+
+  function blocksToParts(blocks, skipTitle) {
+    const parts = [];
+    let notes = [];
+    const flush = () => { if (notes.length) parts.push({ type: 'notes', lines: notes }); notes = []; };
+    blocks.forEach((b, i) => {
+      if (b.nota !== undefined) {
+        if (!(skipTitle && i === 0)) notes.push(b.nota);
         return;
+      }
+      flush();
+      const width = Math.max(b.colonne.length, ...b.righe.filter(Array.isArray).map(r => r.length));
+      const cols = b.colonne.length ? b.colonne.map(c => readable(c).replace(/^./, x => x.toUpperCase())) : [];
+      while (cols.length && cols.length < width) cols.push('');
+      parts.push({ type: 'table', cols, rows: b.righe.map(r => Array.isArray(r) ? r : { g: r.g }), width });
+    });
+    flush();
+    return parts;
+  }
+
+  /* ---------------- Render ---------------- */
+  function renderTable(part, q, filter) {
+    const width = part.width || part.cols.length;
+    const groups = [];
+    part.rows.forEach(r => {
+      if (!Array.isArray(r)) { groups.push({ sub: r.g, rows: [] }); return; }
+      if (r[0] === '' && groups.length && !groups[groups.length - 1].sub) groups[groups.length - 1].rows.push(r);
+      else groups.push({ rows: [r] });
+    });
+    let shown = 0, html = '';
+    groups.forEach(g => {
+      if (g.sub) { html += '<tbody><tr class="subhead"><td colspan="' + width + '">' + esc(readable(g.sub)) + '</td></tr></tbody>'; return; }
+      if (filter && !g.rows.some(r => norm(r.join(' ')).includes(filter))) return;
+      shown += g.rows.length;
+      html += '<tbody class="grp">' + g.rows.map((r, i) => {
+        const cells = [];
+        for (let c = 0; c < width; c++) {
+          const isDep = part.cols[c] === 'Località dipendenti';
+          cells.push('<td class="' + (c === 0 ? 'first' : '') + (isDep ? ' dep' : '') + '">' + fmtCell(r[c] ?? '', q) + '</td>');
+        }
+        return '<tr class="' + (i ? 'cont' : '') + '">' + cells.join('') + '</tr>';
+      }).join('') + '</tbody>';
+    });
+    if (filter && !shown) return { html: '', shown: 0 };
+    const head = part.cols.some(Boolean) ? '<thead><tr>' + part.cols.map(c => '<th>' + esc(c) + '</th>').join('') + '</tr></thead>' : '';
+    const title = part.title ? '<h3 class="block-title"><i class="fa-solid ' + part.icon + '"></i>' + esc(part.title) + '<span class="count">' + shown + ' righe</span></h3>' : '';
+    return { html: '<div class="block">' + title + '<div class="mf-table-wrap"><table class="mf-table">' + head + html + '</table></div></div>', shown };
+  }
+
+  function renderParts(parts, q) {
+    const filter = q ? norm(q) : '';
+    let total = 0;
+    const html = parts.map(p => {
+      if (p.type === 'notes') return filter ? '' : '<div class="notes">' + p.lines.map((l, i) => '<p class="' + (i === 0 ? 'strong' : '') + '">' + fmtCell(l) + '</p>').join('') + '</div>';
+      if (p.type === 'heading') return '<h3 class="block-title"><i class="fa-solid ' + p.icon + '"></i>' + esc(p.title) + '<span class="count">' + esc(p.note) + '</span></h3>';
+      if (p.type === 'info') {
+        if (filter) return '';
+        return '<div class="info-grid"><div class="mf-card"><h2><i class="fa-solid fa-circle-info"></i>' + esc(p.title) + '</h2><dl>' +
+          p.entries.map(([k, v]) => '<dt>' + esc(k) + '</dt><dd>' + fmtCell(v) + '</dd>').join('') + '</dl></div></div>';
+      }
+      const r = renderTable(p, q, filter);
+      total += r.shown;
+      return r.html;
+    }).join('');
+    return { html, total };
+  }
+
+  function sectionHead(m, data) {
+    const facts = [];
+    if (data.banda_principale) facts.push('<span class="mf-pill"><i class="fa-solid fa-wave-square"></i> Banda ' + esc(data.banda_principale) + '</span>');
+    if (data.link_master_uhf) facts.push('<span class="mf-pill"><i class="fa-solid fa-link"></i> Link UHF ' + esc(data.link_master_uhf) + '</span>');
+    if (data.ultimo_aggiornamento) facts.push('<span class="mf-pill"><i class="fa-regular fa-calendar"></i> Agg. ' + esc(data.ultimo_aggiornamento) + '</span>');
+    const fonte = data.fonte || (data.blocchi_pdf && data.blocchi_pdf.fonte);
+    if (fonte) facts.push('<span class="mf-pill"><i class="fa-solid fa-file-pdf"></i> ' + esc(fonte) + '</span>');
+    return '<header class="sec-head"><div class="crumb">' + esc(m.categoria) + '</div>' +
+      '<h2><span class="ic"><i class="fa-solid ' + m.icon + '"></i></span>' + esc(m.label) + '</h2>' +
+      (data.sezione && data.sezione !== m.label ? '<p class="sub">' + esc(data.sezione) + '</p>' : '') +
+      '<div class="facts">' + facts.join('') + '</div></header>';
+  }
+
+  async function showSection(id) {
+    const m = state.modules.find(x => x.id === id) || state.modules[0];
+    state.current = m;
+    $$('.nav-item').forEach(b => b.classList.toggle('active', b.dataset.id === m.id));
+    closeDrawer();
+    if (state.scope === 'all' && state.q) { renderGlobal(); return; }
+    const view = $('#view');
+    view.innerHTML = '<div class="empty"><span class="mf-spinner lg"></span></div>';
+    try {
+      const data = await loadModule(m);
+      if (state.current !== m) return;
+      if (!m.parts) m.parts = toParts(data);
+      const r = renderParts(m.parts, state.q);
+      view.innerHTML = sectionHead(m, data) + (r.html || empty('Nessun risultato in questa sezione', 'Prova a cercare "Ovunque".'));
+      $('#searchInfo').textContent = state.q ? r.total + ' righe trovate in ' + m.label : '';
+      document.title = m.label + ' · Tutte le frequenze';
+    } catch (e) {
+      view.innerHTML = '<div class="mf-alert err"><i class="fa-solid fa-triangle-exclamation"></i> Impossibile caricare ' + esc(m.file) + '</div>';
     }
+  }
 
-    // Tabella Principale
-    let html = `
-        <div class="w3-responsive w3-card w3-white w3-round">
-            <table class="w3-table-all w3-hoverable" id="tabella-frequenze">
-                <thead>
-                    <tr class="w3-blue-grey">
-                        <th style="width:15%">Provincia</th>
-                        <th style="width:35%">Località / Presidio</th>
-                        <th style="width:25%">Frequenze (MHz)</th>
-                        <th style="width:25%">Note operative</th>
-                    </tr>
-                </thead>
-                <tbody>
-    `;
+  async function renderGlobal() {
+    const q = state.q;
+    const view = $('#view');
+    view.innerHTML = '<div class="empty"><span class="mf-spinner lg"></span><p>Cerco in tutte le sezioni…</p></div>';
+    await Promise.all(state.modules.map(m => loadModule(m).then(d => { if (!m.parts) m.parts = toParts(d); }).catch(() => {})));
+    if (q !== state.q || state.scope !== 'all') return;
+    let total = 0, sections = 0;
+    const html = state.modules.map(m => {
+      if (!m.parts) return '';
+      const r = renderParts(m.parts.filter(p => p.type === 'table'), q);
+      if (!r.total) return '';
+      total += r.total; sections++;
+      return '<section class="result-group"><h3><i class="fa-solid ' + m.icon + '"></i>' + esc(m.label) +
+        '<button class="mf-btn mf-btn-sm" data-goto="' + m.id + '">Apri sezione <i class="fa-solid fa-arrow-right"></i></button></h3>' + r.html + '</section>';
+    }).join('');
+    $('#searchInfo').textContent = total + ' righe trovate in ' + sections + ' sezioni';
+    view.innerHTML = '<header class="sec-head"><div class="crumb">ricerca globale</div><h2><span class="ic"><i class="fa-solid fa-globe"></i></span>«' + esc(q) + '»</h2></header>' +
+      (html || empty('Nessun risultato', 'Controlla l\'ortografia o cerca solo una parte della frequenza.'));
+  }
 
-    json.dati_provinciali.forEach(prov => {
-        prov.localita.forEach(loc => {
-            // Crea i badge rossi per le frequenze
-            let badges = loc.frequenze.map(f => `<span class="badge-freq">${f}</span>`).join(" ");
-            
-            html += `
-                <tr class="riga-frequenza">
-                    <td class="col-prov"><b>${prov.provincia}</b></td>
-                    <td class="col-loc">${loc.nome}</td>
-                    <td class="col-freq">${badges}</td>
-                    <td class="col-note w3-small w3-text-grey">${loc.note || '-'}</td>
-                </tr>
-            `;
-        });
+  const empty = (t, s) => '<div class="empty"><i class="fa-regular fa-face-meh"></i><strong>' + esc(t) + '</strong><p>' + esc(s) + '</p></div>';
+
+  function buildMenu() {
+    const cats = [];
+    state.modules.forEach(m => { if (!cats.includes(m.categoria)) cats.push(m.categoria); });
+    $('#menu').innerHTML = cats.map(c => '<div class="cat"><div class="cat-title"><i class="fa-solid ' + (CAT_ICONS[c] || 'fa-folder') + '"></i>' + esc(c) + '</div>' +
+      state.modules.filter(m => m.categoria === c).map(m =>
+        '<button class="nav-item" data-id="' + m.id + '"><i class="fa-solid ' + m.icon + '"></i>' + esc(m.label) + '</button>').join('') + '</div>').join('');
+  }
+
+  /* ---------------- Drawer mobile ---------------- */
+  function openDrawer() { document.body.classList.add('drawer-open'); $('#btnDrawer').setAttribute('aria-expanded', 'true'); }
+  function closeDrawer() { document.body.classList.remove('drawer-open'); $('#btnDrawer').setAttribute('aria-expanded', 'false'); }
+
+  /* ---------------- Eventi ---------------- */
+  function bind() {
+    $('#menu').addEventListener('click', e => {
+      const b = e.target.closest('.nav-item');
+      if (!b) return;
+      if (state.scope === 'all') setScope('section');
+      location.hash = b.dataset.id;
+    });
+    window.addEventListener('hashchange', () => showSection(location.hash.slice(1)));
+    $('#btnDrawer').addEventListener('click', openDrawer);
+    $('#backdrop').addEventListener('click', closeDrawer);
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape') closeDrawer();
+      if (e.key === '/' && document.activeElement !== $('#q')) { e.preventDefault(); $('#q').focus(); }
     });
 
-    html += `</tbody></table></div>`;
+    let t;
+    $('#q').addEventListener('input', e => {
+      clearTimeout(t);
+      t = setTimeout(() => {
+        state.q = e.target.value.trim();
+        if (state.scope === 'all' && state.q) renderGlobal(); else showSection(state.current.id);
+      }, 180);
+    });
+    $$('.scope .mf-chip').forEach(c => c.addEventListener('click', () => {
+      setScope(c.dataset.scope);
+      if (state.scope === 'all' && state.q) renderGlobal(); else showSection(state.current.id);
+    }));
 
-    // Aggiunge sotto-tabelle per Canali Comuni / Nazionali se presenti nel JSON
-    if (json.canali_comuni_nazionali_regionali) {
-        html += `
-            <div class="w3-card w3-white w3-round w3-margin-top w3-padding">
-                <h3 class="w3-text-red" style="margin-top:10px;"><i class="fa-solid fa-tower-cell w3-margin-right"></i>Canali d'Interconnessione Nazionali e Regionali</h3>
-                <div class="w3-responsive">
-                    <table class="w3-table w3-striped w3-bordered">
-                        <tr class="w3-light-grey"><th>Ambito</th><th>Nome Canale</th><th>Frequenza</th></tr>
-                        ${json.canali_comuni_nazionali_regionali.map(c => `
-                            <tr><td><b>${c.ambito}</b></td><td>${c.nome}</td><td><span class="badge-freq">${c.frequenza}</span></td></tr>
-                        `).join("")}
-                    </table>
-                </div>
-            </div>
-        `;
-    }
+    $('#view').addEventListener('click', e => {
+      const f = e.target.closest('.mf-freq');
+      if (f) {
+        const v = f.dataset.f;
+        (navigator.clipboard ? navigator.clipboard.writeText(v) : Promise.reject()).then(
+          () => toast('Frequenza ' + v + ' MHz copiata'), () => toast(v + ' MHz'));
+        return;
+      }
+      const g = e.target.closest('[data-goto]');
+      if (g) { setScope('section'); location.hash = g.dataset.goto; showSection(g.dataset.goto); }
+    });
+  }
 
-    // Aggiunge sotto-tabelle per Riserve di Stato speciali se presenti (es. Polizia/Carabinieri)
-    if (json.canali_nella_riserva_di_stato) {
-        html += `
-            <div class="w3-card w3-white w3-round w3-margin-top w3-padding">
-                <h3 class="w3-text-orange" style="margin-top:10px;"><i class="fa-solid fa-vault w3-margin-right"></i>Canali Speciali e Riserve di Stato (Alpha/Bravo)</h3>
-                <div class="w3-responsive">
-                    <table class="w3-table w3-striped w3-bordered">
-                        <tr class="w3-light-grey"><th>Codice</th><th>Frequenza</th><th>Note D'uso</th></tr>
-                        ${json.canali_nella_riserva_di_stato.map(r => `
-                            <tr><td><b class="w3-text-dark-grey">${r.codice}</b></td><td><span class="badge-freq">${r.frequenza}</span></td><td class="w3-small w3-text-grey">${r.note}</td></tr>
-                        `).join("")}
-                    </table>
-                </div>
-            </div>
-        `;
-    }
+  function setScope(s) {
+    state.scope = s;
+    $$('.scope .mf-chip').forEach(c => {
+      const on = c.dataset.scope === s;
+      c.classList.toggle('active', on);
+      c.setAttribute('aria-checked', on);
+    });
+  }
 
-    container.innerHTML = html;
-}
-
-// Funzione di filtraggio in tempo reale (Motore di ricerca Vanilla JS)
-function filtraTabella() {
-    const input = document.getElementById("inputRicerca");
-    const filter = input.value.toUpperCase();
-    const rows = document.getElementsByClassName("riga-frequenza");
-
-    for (let i = 0; i < rows.length; i++) {
-        const provText = rows[i].querySelector(".col-prov").textContent || "";
-        const locText = rows[i].querySelector(".col-loc").textContent || "";
-        const freqText = rows[i].querySelector(".col-freq").textContent || "";
-        const noteText = rows[i].querySelector(".col-note").textContent || "";
-        
-        // Unisce i testi per fare una ricerca globale sulla riga
-        const stringaCompleta_riga = `${provText} ${locText} ${freqText} ${noteText}`.toUpperCase();
-
-        if (stringaCompleta_riga.indexOf(filter) > -1) {
-            rows[i].style.display = "";
-        } else {
-            rows[i].style.display = "none";
-        }
-    }
-}
+  /* ---------------- Avvio ---------------- */
+  fetch('config.json')
+    .then(r => { if (!r.ok) throw new Error('config.json'); return r.json(); })
+    .then(cfg => {
+      state.modules = cfg.moduli;
+      buildMenu();
+      bind();
+      showSection(location.hash.slice(1));
+    })
+    .catch(() => {
+      $('#menu').innerHTML = '<div class="mf-alert err"><i class="fa-solid fa-triangle-exclamation"></i> Errore nel caricamento dell\'indice</div>';
+    });
+})();

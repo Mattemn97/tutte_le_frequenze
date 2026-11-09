@@ -1,0 +1,968 @@
+{
+ "sezione": "Corpo Forestale e Antincendio Boschivo (A.I.B.)",
+ "banda_principale": "VHF (79-81 MHz / 156-160 MHz)",
+ "ultimo_aggiornamento": "2026-06",
+ "dati_provinciali": [
+  {
+   "provincia": "Ancona",
+   "localita": [
+    {
+     "nome": "Ancona (Comando Regionale CFS)",
+     "frequenze": [
+      "79.925",
+      "81.425"
+     ]
+    },
+    {
+     "nome": "Fabriano (Stazione Forestale)",
+     "frequenze": [
+      "79.925"
+     ]
+    },
+    {
+     "nome": "Parco del Conero (Vigilanza)",
+     "frequenze": [
+      "156.150"
+     ],
+     "note": "Canale civile VHF Guardaparco"
+    }
+   ]
+  },
+  {
+   "provincia": "Bari",
+   "localita": [
+    {
+     "nome": "Bari (Comando Provinciale CFS)",
+     "frequenze": [
+      "79.800",
+      "81.300"
+     ]
+    },
+    {
+     "nome": "Altamura (Parco Alta Murgia)",
+     "frequenze": [
+      "79.800"
+     ]
+    },
+    {
+     "nome": "Gioia del Colle (Servizio A.I.B.)",
+     "frequenze": [
+      "158.800"
+     ],
+     "note": "Canale radio per lo spegnimento dei fuochi estivi"
+    }
+   ]
+  },
+  {
+   "provincia": "Bologna",
+   "localita": [
+    {
+     "nome": "Bologna (Centrale Operativa Regionale CFS)",
+     "frequenze": [
+      "79.850",
+      "81.350"
+     ],
+     "note": "Identificativo radio \"Quadrifoglio Bologna\""
+    },
+    {
+     "nome": "Imola (Stazione Forestale Appennino)",
+     "frequenze": [
+      "79.850"
+     ]
+    },
+    {
+     "nome": "Porretta Terme (Presidio Montano)",
+     "frequenze": [
+      "79.850",
+      "159.225"
+     ],
+     "note": "159.225 Raccordo con Protezione Civile Volontari"
+    }
+   ]
+  },
+  {
+   "provincia": "L'Aquila",
+   "localita": [
+    {
+     "nome": "L'Aquila (Comando Regionale \"Sila\")",
+     "frequenze": [
+      "79.900",
+      "81.400"
+     ]
+    },
+    {
+     "nome": "Parco Nazionale d'Abruzzo (Sede Pescasseroli)",
+     "frequenze": [
+      "79.900",
+      "156.100"
+     ],
+     "note": "Canale interno dei Guardaparco anti-bracconaggio"
+    },
+    {
+     "nome": "Sulmona (Stazione CFS)",
+     "frequenze": [
+      "79.900"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Roma",
+   "localita": [
+    {
+     "nome": "Roma (Direzione Generale / CO Nazionale Viminale)",
+     "frequenze": [
+      "79.775",
+      "79.975",
+      "81.275",
+      "81.475"
+     ],
+     "note": "Centrale Nazionale \"Quadrifoglio Roma\""
+    },
+    {
+     "nome": "Roma (Centro Elicotteri Rieti/Urbe)",
+     "frequenze": [
+      "79.775",
+      "159.950"
+     ],
+     "note": "Frequenza volo elicotteri antincendio \"Canarini\""
+    },
+    {
+     "nome": "Civitavecchia (Vigilanza Costiera CFS)",
+     "frequenze": [
+      "79.975"
+     ]
+    },
+    {
+     "nome": "Velletri (Stazione Forestale Parco Castelli)",
+     "frequenze": [
+      "79.975"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Torino",
+   "localita": [
+    {
+     "nome": "Torino (Comando Provinciale CFS)",
+     "frequenze": [
+      "79.950",
+      "81.450"
+     ]
+    },
+    {
+     "nome": "Pinerolo (Sede Valli Chisone e Germanasca)",
+     "frequenze": [
+      "79.950"
+     ]
+    },
+    {
+     "nome": "Susa (Vigilanza Alpina CFS)",
+     "frequenze": [
+      "79.950",
+      "158.425"
+     ],
+     "note": "158.425 Frequenza coordinamento A.I.B. Piemonte"
+    }
+   ]
+  }
+ ],
+ "canali_comuni_canadair_aib": [
+  {
+   "ambito": "Nazionale",
+   "nome": "Emergenza Ambientale 1515",
+   "frequenza": "79.750"
+  },
+  {
+   "ambito": "Nazionale",
+   "nome": "Canale Canale 1 A.I.B. (Coordinamento Terra)",
+   "frequenza": "156.025"
+  },
+  {
+   "ambito": "Nazionale",
+   "nome": "Canale Canale 2 A.I.B. (Coordinamento Terra)",
+   "frequenza": "156.175"
+  },
+  {
+   "ambito": "Aeronautico",
+   "nome": "Raccordo elicotteri flotta Stato (Canadair)",
+   "frequenza": "122.925",
+   "note": "Frequenza AM banda aerea per velivoli protezione civile"
+  }
+ ],
+ "blocchi_pdf": {
+  "fonte": "Tutte le frequenze segrete V2.0, pag. 59–77",
+  "blocchi": [
+   {
+    "nota": "ANTINCENDI BOSCHIVI FORESTALE"
+   },
+   {
+    "nota": "VIGILANZA PARCHI E FORESTE"
+   },
+   {
+    "colonne": [],
+    "righe": [
+     [
+      "BANDA 172.5 - 174 MHz (servizi compresi nella gamma civile VHF)"
+     ]
+    ]
+   },
+   {
+    "nota": "LINK MASTER UHF - LIMITI DI BANDA 436- 440.445- 449 MHz"
+   },
+   {
+    "nota": "(compresi nella gamma civile UHF)"
+   },
+   {
+    "nota": "DISLOCAZIONE MEZZI AEREI ANTINCENDI"
+   },
+   {
+    "colonne": [
+     "Aeroporti",
+     "Aeromobili"
+    ],
+    "righe": [
+     [
+      "Alghero",
+      "1 Aereo CL 215"
+     ],
+     [
+      "Bari",
+      "1 Aereo CL 415"
+     ],
+     [
+      "Cagliari",
+      "1 Elicottero CL 215"
+     ],
+     [
+      "Catania",
+      "1 Elicottero AB 212"
+     ],
+     [
+      "Cecina",
+      "1 Elicottero NH 500"
+     ],
+     [
+      "Ciampino",
+      "3 Aerei 1 CL 215 2",
+      "CL 415"
+     ],
+     [
+      "Genova",
+      "1 Aereo CL 215"
+     ],
+     [
+      "Grottaglie",
+      "1 Elicottero AB 212"
+     ],
+     [
+      "Lamezia Terme",
+      "1 Aereo CL 415 1",
+      "Elicottero CH 47"
+     ],
+     [
+      "Luni",
+      "1 Elicottero AB 212"
+     ],
+     [
+      "Palermo",
+      "1 Aereo CL 415"
+     ],
+     [
+      "Pescara",
+      "1 Elicottero AB 412"
+     ],
+     [
+      "Pisa",
+      "1 Aereo G222"
+     ],
+     [
+      "Pontecagnano",
+      "2 Elicotteri 1 AB 212",
+      "1 NH 500"
+     ],
+     [
+      "Reggio Calabria",
+      "1 Aereo CL 415"
+     ],
+     [
+      "Urbe",
+      "2 Elicotteri 1 AB 412",
+      "1 NH 500"
+     ],
+     [
+      "Viterbo",
+      "3 Elicotteri 2 CH 47",
+      "1 AB 412, Frequenze in uso ai mezzi aerei antincendi"
+     ],
+     [
+      "131.550",
+      "Nazionale"
+     ],
+     [
+      "141.100",
+      "Nazionale"
+     ],
+     [
+      "122.150",
+      "Regione Liguria"
+     ]
+    ]
+   },
+   {
+    "nota": "DISTACCAMENTI STAZIONI"
+   },
+   {
+    "nota": "PER OGNI PROVINCIA VENGONO RIPORTATI I DISTACCAMENTI E LE STAZIONI"
+   },
+   {
+    "nota": "DIPENDENTI"
+   },
+   {
+    "nota": "POTREBBE VERIFICARSI L’UTILIZZO DI FREQUENZE DIVERSE DA QUELLE ASSEGNATE A"
+   },
+   {
+    "nota": "LIVELLO"
+   },
+   {
+    "nota": "PROVINCIALE INSERITE IN QUESTA TABELLA NAZIONALE VERRA’ PERTANTO RIPORTATO AL"
+   },
+   {
+    "nota": "TERMINE L’INTERO ELENCO DELLE FREQUENZE UTILIZZATE PER POTER EFFETTUARE UN"
+   },
+   {
+    "nota": "EVENTUALE VERIFICA NEGLI ASCOLTI A LIVELLO DI OGNI SINGOLA PROVINCIA DI"
+   },
+   {
+    "nota": "APPARTENZA"
+   },
+   {
+    "colonne": [
+     "Provincie E Localita'",
+     "Frequenze",
+     "Località dipendenti"
+    ],
+    "righe": [
+     [
+      "Agrigento",
+      "172.925  173.025",
+      "Burgio, Ribera, Sambuca di Sicilia, San Giovanni Gemini (località Camrnarata)"
+     ],
+     [
+      "Alessandria",
+      "172.950  173.050",
+      "Acqui Terme, Cabella Ligure, Ovada, San Sebastiano Curone, Stazzano"
+     ],
+     [
+      "Ancona",
+      "172.925  172.975  173.037,5  173.075",
+      "Arcevia, Fabriano, Genga, Sassoferrato"
+     ],
+     [
+      "Aosta",
+      "162.025  163.750  166.050  166.350  172.975  173.075",
+      "Aymavilles (località Frazione Cheriette), Antey — Saint Andrè (località Champagne), Arvier, Brusson, Chatillon, Etroubles, Gaby, Morgex, Nus, Pontboset, Pont — Saint Martin, Prè—Saint Didier, Saint Christophe (località Grande Charriere), Valpelline (località Capoluogo), Verres, Villeneuve"
+     ],
+     [
+      "Arezzo",
+      "172.925  173.025  173.575",
+      "Montecchio, Piave Santo Stefano, Poppi (Località Camaldoli), Pratovecchio, Sansepolcro"
+     ],
+     [
+      "Ascoli Piceno",
+      "172.925  172.937,5  172.987,5  173.025  173.062,5",
+      "Acquasanta Terme, Amendola, Arquata del Tronto, Castignano, Comunanza, Fermo, Montefortino (località Madonna del Fonte), Montegallo, Montemonaco"
+     ],
+     [
+      "Asti",
+      "172.987,5",
+      "Bubbio"
+     ],
+     [
+      "Avellino",
+      "172.975  173.075",
+      "Torre le Nocelle"
+     ],
+     [
+      "Bari",
+      "172.900<>172.937,5<>173.012,5 (parla-ascolta) 172.975"
+     ],
+     [
+      "173.075",
+      "",
+      "Acquaviva delle Fonti, Alberobello, Altamura, Cassano delle Murge, Corato, Gioia del Colle, Gravina in Puglia, Noci, Spinazzola"
+     ],
+     [
+      "Belluno",
+      "172.925  173.025  172.800",
+      "(regionale), Agordo, Alleghe, Auronzo di Cadore, Barca di Cadore, Canale d'Agordo, Comelico Superiore, Cortina d’Ampezzo, Feltre, Fanzaso, Fregona, Livinallongo del Col di Lana, Longarone, Lazzo di Cadore, Mei, Puos d'Alpago, Santa Stefano di Cadore, Sappada, Sadico"
+     ],
+     [
+      "Benevento",
+      "172.900  173.000",
+      "Ceppaloni"
+     ],
+     [
+      "Bergamo",
+      "172.900  173.000  173.520  173.532,5",
+      "Caprina Bergamasco, Clusone, Curno, Gromo, Piazza Brembana, Sernico, Spinone al Lago, Trascore Balneario, Vertova, Villa d'Almè, Vilminore di Scalve"
+     ],
+     [
+      "Biella",
+      "172.925  172.950  173.025",
+      "Trivero"
+     ],
+     [
+      "Bologna",
+      "165.925  166.350  172.975  173.075",
+      "Camugnano, Costei del Rio, Costei di Casio, Castiglione dei Pepoli, Gaggio Montano, Lizzano in Belvedere, Monghidoro, Monterenzio, Monzuno, Porretta Terme, San Benedetto Val di Sambra, Savigno, Vergato"
+     ],
+     [
+      "Bolzano",
+      "162.425  163.475  172.900  173.000"
+     ],
+     {
+      "g": "DISTACCAMENTI E STAZIONI NON DISPONIBILI"
+     },
+     [
+      "Brescia",
+      "172.937.5",
+      "173. 037.5",
+      "173.520, Bagolino (località Valle Sabbia>, Sarno, Bovegno (località Predando), Breno, Capo di Ponte, Capavalle, Cedagolo, Concesio, Corteno Golgi, Darfo — Boario Terme, Edolo, Gardone Val Trompia, Gargnano, Gavardo, Idro, Iseo, Pisogne, Ponte di Legno, Sabbio Chiese, Salò, Tremosine, Vestone, Vezza d'Oglio"
+     ],
+     [
+      "Brindisi",
+      "172.937,5<>1 73.000 (parla-ascolta) 172.950",
+      "173.050"
+     ],
+     {
+      "g": "DISTACCAMENTI E STAZIONI NON DISPONIBILI"
+     },
+     [
+      "Cagliari",
+      "172.962,5  173.025"
+     ],
+     {
+      "g": "DISTACCAMENTI E STAZIONI NON DISPONIBILI"
+     },
+     [
+      "Caltanissetta",
+      "172.937,5  173.037,5",
+      "Mazzarino, Mussomeli (località Contrada Polizzello), Niscemi, Sutera"
+     ],
+     [
+      "Campobasso",
+      "172.925<> 1 73.025<>173.087,5",
+      "(parla-ascolta), Bojano, Casacalenda (località Contrada Monte), Civitacampomarano, Montagano, Montefalcone nel Sannio, Petacciato (località Petacciato Scalo), Riccia, San Giuliano del Sannio, SantElia a Pianisi, Sepino, Torella del Sannio, Trivento"
+     ],
+     [
+      "Caserta",
+      "172.962,5  173.012,5  173.062,5",
+      "Caiazzo, Calvi Risorta, Castel Volturno, Letino, Piedimonte Matese, Pietramelara, Prata Sannita, Roccamonfina, San Gregorio Matese, Sessa Aurunca (località Adrianea), Vairano Petenora"
+     ],
+     [
+      "Catania",
+      "172.975  173.050  173.075",
+      "Adrano, Bronte, Giarre, Linguaglossa, Nicolosi, Randazzo, Vizzini"
+     ],
+     [
+      "Catanzaro",
+      "172.937.5  173.037,5",
+      "173. 125, Caraffa di Catanzaro, Cardinale (località Novalba), Davoli, Decollatura, Girifalco, Lamezia Terme, Maida, Nocera Tirinese, Petrizzi, San Vito sullo Ionio, Santa Caterina dello lonio, Savelli, Serrastretta, Sersale, Tiriolo, Zagarise"
+     ],
+     [
+      "Chieti",
+      "172.900  173.000",
+      "Casoli, Castglione Messer Marino, Gissi, Fara San Martino, Guardiagrele, Lanciano, Montazzoli, Palena, Palmoli, Palombaro, Pretoro, Rosello, Santa Maria Imbaro, Torrebruna, Torricella Peligna, Vasto, Villa Santa Maria"
+     ],
+     [
+      "Como",
+      "172.795  172.950  172.975  173.050",
+      "Appiano Gentile, Asso, Carlazzo, Gera Lario, Menaggio (Frazione Loveno), Pellio tntelvi (località Selva), Ponte Chiasso"
+     ],
+     [
+      "Cosenza",
+      "172.962,5  173.062,5  173.100",
+      "Acri, Aprigliano, Bocchigliero, Campana, Castrovillari, Cerchiara di Calabria, Cerzeto, Civita, Corigliano Calabro, Cropalati, Dipignano, Domanico, Fagnano Castello, Fuscaldo, Grimaldi, Grisolia, Laino Borgo, Longobardi, Longobucco, Lungro, Mendicino, Montalto Uffugo, Morano Calabra, Mormanno, Oriolo, Orsomarso, Paola, Rogliano, Rose, Rossano, Rota Greca, San Demetrio Corone, San Donato di Ninea, San Fili, San Giovanni in Fiore, San Marco Argentano, San Pietro in Guarano (Frazione Redipiano), San Sosti, Sant'Agata di Esaro, Saracena, Scigliano, Spezzano della Sua, Tortona, Trebisacce, Verbicaro"
+     ],
+     [
+      "Cremona",
+      "172962,5",
+      "173.012,5",
+      "173062,5"
+     ],
+     {
+      "g": "DISTACCAMENTI E STAZIONI NON DISPONIBILI"
+     },
+     [
+      "Crotone",
+      "172.937,5  173.037,5",
+      "Cotronei, San Nicola dell'Alto"
+     ],
+     [
+      "Cuneo",
+      "172.925  172.937.5  173.025",
+      "Alba, Barge, Borgo San Dalmazzo, Caraglio, Ceva, Chiusa di Pesio, Cortemitia, Demonte, Dronero, Garessio, Mondovì, Ormea, Saluzzo, Sampeyre, Villanova Mondovi"
+     ],
+     [
+      "Enna",
+      "163.750  165.575",
+      "172.9125",
+      "173.000  173.012,5, Nicosia (localilà Contrada Magnana), Piazza Armerina, Troina"
+     ],
+     [
+      "Ferrara166.050 166.075 172.900 173.000",
+      "",
+      "Comacchio (località Volano), Mesola (località Bosco Mesola)"
+     ],
+     [
+      "Firenze",
+      "172.900  172.912,5",
+      "173.000<>173.750",
+      "(parla-ascolta)"
+     ],
+     [
+      "173.012.5",
+      "",
+      "Barberino di Mugello, Borgo San Lorenzo, Dicamana, Empoli, Firenzuola (località Covigliaio), Greve in Chianti, Marradi, Montaione, Palazzuolo sul Senio (località PalazzuoIo dei Capitani), Reggello, Rufina, San Casciano in Val di Pesa, San Pietro a Sieve (località Fortuna), Sesto Fiorentino, Tevernelle Val di Pesa"
+     ],
+     [
+      "Foggia",
+      "172.912.5<>172.950",
+      "(parla-ascolta)",
+      "173.050, Accadia, Ascoli Satriano, Biccari, Cagnano Varano, Deliceto, Lesina, Manfredonia, Margherita di Savoia, Mattinata, Monte Sant’Angelo (località Foresta Umbra), Orsora di Puglia, Roseto Valfortore, San Giovanni Rotondo, Sennicandro Garganico, Serracapriola, Vico dei Gargano, Vieste (località Mandrione), Volturara Appula"
+     ],
+     [
+      "Forlì",
+      "165.925  166.250  172.962,5",
+      "172.975<>173.062,5",
+      "(parla-, ascolta), Bagno di Romagna (località San Pietro in Bagno), Civitella di Romagna, Mercato Saraceno, Portico di Romagna (località Acquacheta), Predappio, Premilcuore, Rocca San Casciano, Santa Sofia (località Campigna), Sarsina, Sogliano al Rubicone, Tredozio, Verghereto"
+     ],
+     [
+      "Frosinone",
+      "172.937,5  173.037,5",
+      "Alatri, Anagli, Atina, Cassino, Castro dei Volsci, Ceccano, Ceprano, Filettino, Fiuggi, Guarcino, Picinisco, Pontecorvo, San Donato Val di Comino, Sora, Vallerotonda"
+     ],
+     [
+      "Genova",
+      "172.775  172.925  173.050",
+      "(regionale)",
+      "173.575",
+      "(regionale) (da, verif. ), Arenzano, Borzonasca, Busalla (località Sorrisola), Casarza Ligure, Cicagna, Lavagna, Masone, Maconesi (località Gattorna), Montoggio (località Taverna), Rezzoaglio, Rovegno, Santo Stefano dAveto"
+     ],
+     [
+      "Gorizia",
+      "172.962,5  173.062,5"
+     ],
+     {
+      "g": "DISTACCAMENTI E STAZIONI NON DISPONIBILI"
+     },
+     [
+      "Grosseto",
+      "172.787.5  172.912,5  173.012.5  173.500  173.575",
+      "Castei del Piano, Castell'Azzara, Castiglione della Pescaia, Civitella Paganico, Manciano, Massa Marittima, Monte Argentario, Monterotondo Marittimo, Montieri, Orbetello, Roccastrada, Santa Fiora, Scansano"
+     ],
+     [
+      "Imperia",
+      "172.950  172.975  173.050",
+      "(regionale)",
+      "173.575",
+      "(regionale), (da verif.), Badalucco, Baiardo, Pieve di Teco, Pigna, Pontedassio, Rocchetta Nervina, San Remo, Triora, Ventimiglia"
+     ],
+     [
+      "Isernia",
+      "172.987,5",
+      "Agnone, Carovilli, Carpinone, Colli a Volturno, Porti del Sannio, Frosolone, Monteroduni, Pescopennataro, Pizzone, Roccamandolfi i, San Pietro Avellana, Venafro"
+     ],
+     [
+      "La Spezia",
+      "172.750  172.950  173.050",
+      "(regionale)",
+      "173.575",
+      "(regionale), (da verif.), Borghetto Vara, Brugnato, Carrodano di Mattarana, Pollo, Levanto, Sarzana, Sesta Godano, Varese Ligure"
+     ],
+     [
+      "Latina",
+      "172.900  172.962,5  173.000",
+      "Cori (località Contrada Chiusa), Fondi, Itri, Priverno, Sabaudia, Sezze, Spigno Saturnia, Terracina"
+     ],
+     [
+      "Lecce",
+      "172.975  173.075"
+     ],
+     {
+      "g": "DISTACCAMENTI E STAZIONI NON DISPONIBILI"
+     },
+     [
+      "Lecco",
+      "172.795  172.950  172.975  173.050",
+      "Barzio, Dervio, Margno"
+     ],
+     [
+      "Livorno",
+      "162.650  165.250",
+      "172.962,5<>173.050",
+      "(parla-ascolta)"
+     ],
+     [
+      "173.062,5"
+     ],
+     [
+      "Cecina (località Cecinella Marina)",
+      "172.762,5<>173.537,5 (parla-ascolta) (Isole Elba — Capraia)",
+      "Marciena Marina, Portoferraio (località Antiche Saline)"
+     ],
+     [
+      "Lodi",
+      "172.925  173.025"
+     ],
+     {
+      "g": "DISTACCAMENTI E STAZIONI NON DISPONIBILI"
+     },
+     [
+      "Lucca",
+      "164.812,5  172.787,5  172.912,5  173.012.5  173.125",
+      "Barga, Borgo a Mozzano, Camporgiano, Capannori (località Vorno), Castelnuovo di Garfagnana (località Orto Murato), Piazza al Serchio, Pietrasanta, Pieve Santo Stefano, Stazzema (località Molino Gìusti), Viareggio (località Pontemazzori)"
+     ],
+     [
+      "L’Aquila",
+      "172.912,5  173.012,5",
+      "Alfedena, Barisciano, Barrea, Bisegna, Cansano, Cepestrano, Capistrello, Cappadocia, Carsoti, Castel del Monte, Castel di Sangro, Celano, Civitella Roveto, Fontecchio, Gioia dei Marsi, Lecce nei Marsi, Lucoli, Magliano dè Marsi (località Pascolano), Montereale, Opi, Pacentro, Pereto, Pescocostanzo, Pettorano sul Gizio, Pizzoli, Raiano, Rocca di Mezzo, Roccaraso, Sante Marie, Scanno, Scoppito, Secinaro, Tornimparte (localìtà Villagrande), Trasacco, Villavallelonga"
+     ],
+     [
+      "Macerata",
+      "172.900  172.937.5  172.962,5  173.000",
+      "Apiro, Bolognola, Caldarola, Camerino, Castelsantangelo sul Nera, Cingoli, Civitanova Marche, Fiastra, Fiuminata, Matelica, Pieve Torina, Recanati, San Severino Marche, Sarnano, Serravalle di Chienti, Ussita, Visso"
+     ],
+     [
+      "Mantova",
+      "172.987,5"
+     ],
+     {
+      "g": "DISTACCAMENTI E STAZIONI NON DISPONIBILI"
+     },
+     [
+      "Massa",
+      "162.825  172.975  173.075  173.562,5",
+      "Bagnone (località Grottò), Comano, Fivizzano, Pontremoli, Zeri (località Coloretta)"
+     ],
+     [
+      "Matera",
+      "172.900 173.000"
+     ],
+     {
+      "g": "DISTACCAMENTI E STAZIONI NON DISPONIBILI"
+     },
+     [
+      "Messina",
+      "172.925",
+      "(terra ferma + Isole Lipari)",
+      "173.025  173.050, Barcellona Pozzo di Gotto, Capizzi, Caronia, Floresta, Francavilla di Sicilia, Lipari, Patti, Rometta, San Fratello, Santa Teresa di Riva, SantAngelo di Brolo (località Naso), Tortorici"
+     ],
+     [
+      "Milano",
+      "172.925  173.025",
+      "Carate Brianza"
+     ],
+     [
+      "Modena",
+      "166.050  172.950  173.050",
+      "Fanano, Fiumalbo, Lama Mocogno, Montefiorino, Montese, Pavullo nel Frignano, Pievepelago, Riolunato, Serramazzoni, Sestola, Zocca"
+     ],
+     [
+      "Napoli",
+      "172.937.5  173.037.5",
+      "Casamicciola Terme, Castellammare di Stabia, Ottaviano, Palma Campania, Pozzuoli (località Monterusciello), Roccarainola, Sorrento, Torre del Greco"
+     ],
+     [
+      "Novara",
+      "172.937.5  172.962,5  173.062.5",
+      "Gozzano"
+     ],
+     [
+      "Nuoro",
+      "172.925  172.975  173.025"
+     ],
+     {
+      "g": "DISTACCAMENTI E STAZIONI NON DISPONIBILI"
+     },
+     [
+      "Oristano",
+      "172.987,5"
+     ],
+     {
+      "g": "DISTACCAMENTI E STAZIONI NON DISPONIBILI"
+     },
+     [
+      "Padova",
+      "172.950  172.975  173.075  172.800 (regionale)",
+      "Monselice"
+     ],
+     [
+      "Palermo",
+      "172. 950",
+      "(terra ferma + Isola Ustica)",
+      "172.975  173.075, Bisacquino, Caccano (località Contrada Calabrone), Carini, Castalbuono, Castronovo di Sicilia, Collesano, Corlaona (località Ficuzza), Lascari (località Contrada Sante Maria), Monreale, Montemaggiora Belsito, Patralia Sottana, Piana degli Albanesi, Polizzi Generosa"
+     ],
+     [
+      "Parma",
+      "165.975  166.350  172.960  172.962,5  173.000",
+      "Bedonia, Berceto, Borgo Val di Taro, Calastano, Corniglio (località Lagdei), Langhirano, Monchio delle Corti, Neviano dagli Arduini, Pallagnno Parmense, Solignano"
+     ],
+     [
+      "Pavia",
+      "172.967,5"
+     ],
+     {
+      "g": "DISTACCAMENTI E STAZIONI NON DISPONIBILI"
+     },
+     [
+      "Perugia (località Ponte Felcino)",
+      "160.675  172.950  173.050",
+      "Assisi (località Monte Subasio), Cascia (località Padule), Cerreto di Spoleto, Città dalla Pieve, Città di Castello (località Bocca Serriola), Foligno, Gualdo Cattaneo, Gualdo Tadino, Gubbio, Magione, Marsciano, Monteleone di Spoleto, Nocera Umbra, Norcia, Passignano sul Trasimeno, Pietralunga (località Candeleto), Preci, Sant'Anatolia di Narco, Scheggia e Pascelupo, Sellano, Spoleto, Todi, Travi, Umbertide, Valfabbrica"
+     ],
+     [
+      "Pesaro",
+      "172.912,5  173.012,5",
+      "Cagli, Cantiano, Carpegna, Fano, Fossombrone, Macerata Feltria, Mercatello sul Metauro, Novafeltria, Pennabilli, Pergola, Piobbico, SantAgata Feltria, Sant'Angelo in Vado, Serra Sant'Abbondio, Urbino"
+     ],
+     [
+      "Pescara",
+      "172.900<>173.000 (parla-ascolta)",
+      "172.975  173.075, Caramanico Terme, Carpineto della Nora, Collecorvino, Farindola, Lettomanoppello, Montebello di Bertona, Penne, Popoli (località Impianezza), Roccamorice, SantEufemia a Maialla, Torre dè Passeri"
+     ],
+     [
+      "Piacenza",
+      "165.925  166.050  166.075",
+      "172.962, 5",
+      "173.062,5, Bettola, Bobbio Piacentino, Castell’Arquato, Ferriere, Ottone, Pianello Val Tidone, Travo"
+     ],
+     [
+      "Pisa",
+      "172.937,5  173.037,5",
+      "173.512.5<> 173.550 (parla-ascolta), Calci, Montecatini Val di Cecina, Palaia, Pomarance, Pontedera, Santa Croce sull’Arno, Volterra"
+     ],
+     [
+      "Pistoia",
+      "172.987,5<>173.050",
+      "(parla-ascolta)",
+      "172.800, Abetone (località Pian degli Ontani), Cutigliano, Monsummano Terme, Pescia, Piteglio, Sambuca Pistoiese (località Acquerino), San Marcello Pistoiese"
+     ],
+     [
+      "Pordenone",
+      "172.975  173.075"
+     ],
+     {
+      "g": "DISTACCAMENTI E STAZIONI NON DISPONIBILI"
+     },
+     [
+      "Potenza",
+      "172.937.5  173.037,5",
+      "Lagonegro, Marsicovetere (località Contrada Galdo), Rionero in Vulture, Tolve"
+     ],
+     [
+      "Prato",
+      "172.900",
+      "173. 000",
+      "173.582,5  173.750, Vernio"
+     ],
+     [
+      "Ragusa",
+      "172.900  173.000",
+      "Chiaramonte Gulfi, Mistretta, Vittoria (località Contrada Gaspanella)"
+     ],
+     [
+      "Ravenna",
+      "166.050  172.937,5  173.037.5",
+      "Brisighella, Casale Valsenio, Cervia"
+     ],
+     [
+      "Reggio Calabria",
+      "172.750<>172.800",
+      "(parla-ascolta)",
+      "172.900  173.000, Giffone, Gioia Tauro (località Contrada Cicerna), Locri, Mammola, Oppido Mamertina, Platì, San Giorgio Morgeto, San Luca, Santo Stefano Aspromonte (località Gambarie), Scilla, Staiti, Stilo"
+     ],
+     [
+      "Reggio Emilia",
+      "165.925  168.250  172.925  173.025  173.525",
+      "Busana, Carpineti, Casina, Castelnuovo né Monti, Ligonchio, Marmiroto (località Bosco Fontana), Ramiseto, Viano, Villa Minozzo"
+     ],
+     [
+      "Rieti",
+      "172.987,5",
+      "Antrodoco"
+     ],
+     [
+      "Rimini",
+      "172.962,5  173.062,5",
+      "Misano Adriatico"
+     ],
+     [
+      "Roma",
+      "172.962,5  173.062.5",
+      "Arsoli, Bracciano, Rignano Flaminio, Subiaco, Tivoli, Velletri, Vicovaro"
+     ],
+     [
+      "Rovigo",
+      "172.750",
+      "172. 925",
+      "173.025  172.800 (regionale), Adria"
+     ],
+     [
+      "Salerno",
+      "172.912.5  172.950  173.012,5",
+      "Padula, Pontecagnano Faiano (località SantAntonio)"
+     ],
+     [
+      "Sassari",
+      "172.950  173.050"
+     ],
+     {
+      "g": "DISTACCAMENTI E STAZIONI NON DISPONIBILI"
+     },
+     [
+      "Savona",
+      "172.780",
+      "172.800<>173.000 (parla-ascolta) 173.050 (regionale)"
+     ],
+     [
+      "Albenga (località Leca)",
+      "173.575 (regionale) (da verificare)",
+      "Andora, Cairo Montenotte, Calice Ligure, Calizzano, Loano, Sassello, Spotorno"
+     ],
+     [
+      "Siena",
+      "172.750<>173.537,5 (parla-ascolta) 172.975",
+      "173.075, Asciano, Castiglione d’Orcia, Colle di Val d’Elsa, Gaiole in Chianti, Montalcino, Monticiano, Piancastagnaio, Racida in Chianti, San Gimignano, Sarteano, Sinalunga"
+     ],
+     [
+      "Siracusa",
+      "172.950  173.050",
+      "Buccheri, Noto, Sortino"
+     ],
+     [
+      "Sondrio",
+      "172.975  173.075  173.532,5",
+      "Ardenno, Barbenno di Valtellina, Bormio, Campodolcino, Chiavenna, Chiese in Valmalanco, Delebio, Grosotto, Morbegno, Ponte In Valtellina, Sondalo, Teglio, Tirano, Valdidentro"
+     ],
+     [
+      "Taranto",
+      "172.925  173.025  173.050"
+     ],
+     {
+      "g": "DISTACCAMENTI E STAZIONI NON DISPONIBILI"
+     },
+     [
+      "Teramo",
+      "172.950<>173.012,5<>173.050 (parla-ascolta)",
+      "Atri, Campli, Castelli, Civitella del Tronto, Cortino, Crognaleto (Località Nerito), Pietracamela, Rocca Santa Maria, Torricella Sicura, Tossicia (località Contrada Piane San Liberatore)"
+     ],
+     [
+      "Terni",
+      "172.900  173.000",
+      "Acquasparta, Allerona, Amelia, Arrone, Avigliano Umbro, Calvi dell’Umbria, Castei Viscardo, Ferentillo, Ficulle, Lugnano in Teverina, Nami, Orvieto (località Polleggione Morrano), San Venanzo, Stroncone"
+     ],
+     [
+      "Torino",
+      "172.900  172.925  173.000",
+      "Almese, Bardonecchia, Beinasco (località Torino Fornaci), Bussoleno, Ceres, Chivasso, Fenestrelle, Giaveno, Lanzo torinese, Locana, Montalto Dora, Noasca, Oulx, Pinasca, Pinerolo, Pont Canavese, Pragelato (località Frazione Ruà), Ronco Canavese, Torre Pellice, Vico Canavese"
+     ],
+     [
+      "Trapani",
+      "172.950 (terra ferma + Isola Favignana) 173.050 Erice"
+     ],
+     [
+      "Trento",
+      "172.962,5  173.062,5",
+      "Mione"
+     ],
+     [
+      "Treviso",
+      "172.912,5  173.012.5  173.075",
+      "172. 800 (regionale), Borso del Grappa, Cavaso deI Tomba, Creapano del Grappa, Cornuda, Valdobbiadene, Vittorio Veneto, Volpago del Mantello"
+     ],
+     [
+      "Trieste",
+      "172.962,5  173.062.5"
+     ],
+     {
+      "g": "DISTACCAMENTI E STAZIONI NON DISPONIBILI"
+     },
+     [
+      "Udine",
+      "172.900  173.000  173.567,5 (verificare)",
+      "Malborghetto Valbruna (località Ugovizza), Tarvisio (località Camporosso)"
+     ],
+     [
+      "Varese",
+      "172.795  172.912,5  173.012,5",
+      "Arcisate, Cunardo, Lavano Mombello, Luino, Tradate, Vergiate"
+     ],
+     [
+      "Venezia (località Mestre)",
+      "172.937,5  173.037,5  173.125 (verificare) 172.800 (regionale)",
+      "Bibione (località San Michele al Tagliamento), Chioggia (località Cavanella d’Adige), Portogruaro"
+     ],
+     [
+      "Verbania (località Pallanza)",
+      "172.937,5  172.962,5  173.062,5",
+      "Baceno, Beura Cardezza (località Domo Due), Cannobio, Ceppo Morelli, Domodossola, Gignese, Omegna, Piedimulera, Santa Maria Maggiore, Varzo"
+     ],
+     [
+      "Vercelli",
+      "172.925  172.950  173.025",
+      "Gattinara, Scopa (Frazione Valletto), Varallo"
+     ],
+     [
+      "Verona",
+      "172.912,5  173.012,5  172.800 (regionale)",
+      "Brenzone (località Magugnano), Caprino Veronese, Cavaian Veronese, Fumane, Grezzana, Montecchia di Crosara, Roverè Veronese, San Zeno di Montagna, SantAnna d’Alf aedo, Tregnano"
+     ],
+     [
+      "ViboValentia",
+      "172.937,5  173.037,5",
+      "Arena, Mongiana, Serra San Bruno, Soriano Calabro, Vallelonga"
+     ],
+     [
+      "Vicenza",
+      "172.950  173.050  172.800 (regionale)",
+      "Arzignano, Asiago, Bassano del Grappa, Conco, Enego, Gallio, Lonigo, Lusiana, Roana, Rotzo, San Nazario, Schio"
+     ],
+     [
+      "Viterbo",
+      "172.937.5  173.037,5",
+      "Acquapendente, Bagnoregio, Bolsena, Civita Castellana, Montefiascone, Oriolo Romano, Ronciglione, Soriano nel Cimino, Tarquinia, Tuscania, Valentano, Vasanello, Vetralla"
+     ],
+     {
+      "g": "INTERO ELENCO FREQUENZE UTILIZZATE NELLA BANDA"
+     },
+     [
+      "172.5 – 174",
+      "MHz"
+     ],
+     [
+      "",
+      "172.750  172.762,5  172.787,5  172.800  172.900  172.912,5"
+     ],
+     [
+      "",
+      "172.925  172.937.5  172.950  172.962,5  172.975  172.987,5"
+     ],
+     [
+      "",
+      "173.000  173.012,5  173.025  173.037,5  173.050  173.062.5"
+     ],
+     [
+      "",
+      "173.075  173.087,5  173.100  173.125  173.512,5  173.525"
+     ],
+     [
+      "",
+      "173.537,5  173.550  173.562.5  173.575  173.750"
+     ]
+    ]
+   }
+  ]
+ }
+}

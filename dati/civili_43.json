@@ -1,0 +1,194 @@
+{
+ "sezione": "Civili 43 MHz",
+ "fonte": "Tutte le frequenze segrete V2.0, pag. 98–99",
+ "blocchi": [
+  {
+   "nota": "CIVILI 43MHz"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "BANDA",
+     "43.300  43.587,5",
+     "MHz"
+    ]
+   ]
+  },
+  {
+   "nota": "L’ASSEGNAZIONE E UTILIZZO DEI CANALI DI LAVORO AWIENE A LIVELLO PROVINCIALE"
+  },
+  {
+   "nota": "PER OGNI BACINO DI UTENZA"
+  },
+  {
+   "nota": "PUNTO 1"
+  },
+  {
+   "nota": "In ausilio degli addetti alla sicurezza a al soccorso sulle strade, alla vigilanza del traffico, dei trasporti a fune"
+  },
+  {
+   "nota": "delle foreste, della disciplina della caccia, della pesca, della sicurezza notturna."
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "canale 01",
+     "43.300,0"
+    ],
+    [
+     "canale 02",
+     "43.312,5"
+    ],
+    [
+     "canale 03",
+     "43.325,0"
+    ],
+    [
+     "canale 04",
+     "43.337,5"
+    ],
+    [
+     "canale 05",
+     "43.350,0"
+    ],
+    [
+     "canale 06",
+     "43.362,5"
+    ]
+   ]
+  },
+  {
+   "nota": "PUNTO 2"
+  },
+  {
+   "nota": "In ausilio alle imprese industriali,artigiane,commerciali ed agricole. Nel campo dell’edilizia, costruzioni o"
+  },
+  {
+   "nota": "nell’ambito di aziende di ogni tipo."
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "canale 07",
+     "43.375.0"
+    ],
+    [
+     "canale 08",
+     "43.387,5"
+    ],
+    [
+     "canale 09",
+     "43.400,0"
+    ],
+    [
+     "canale 10",
+     "43.412,5"
+    ],
+    [
+     "canale 11",
+     "43.425,0"
+    ],
+    [
+     "canale 12",
+     "43.437,5"
+    ]
+   ]
+  },
+  {
+   "nota": "PUNTO 3"
+  },
+  {
+   "nota": "Per la sicurezza della vita umana in mare, per emergenze fra piccole imbarcazioni e stazioni di base collocale"
+  },
+  {
+   "nota": "esclusivamente presso sedi di organizzazioni nautiche, nonché per effettuare collegamenti"
+  },
+  {
+   "nota": "di servizio fra diversi punti di una stessa nave,"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "canale 13",
+     "43.450,0"
+    ],
+    [
+     "canale 14",
+     "43,462,5"
+    ],
+    [
+     "canale 15",
+     "43.475,0"
+    ],
+    [
+     "canale 16",
+     "43.487,5"
+    ]
+   ]
+  },
+  {
+   "nota": "PUNTO 4"
+  },
+  {
+   "nota": "In ausilio ad attività sportive ed agonistiche, apparati idonei all’impiego nel volo diporto sportivo,"
+  },
+  {
+   "nota": "deltapleno, parapandio, voto a vela."
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "canale 17",
+     "43.500,0"
+    ],
+    [
+     "canale 18",
+     "43.512,5"
+    ],
+    [
+     "canale 19",
+     "43.525,0"
+    ],
+    [
+     "canale 20",
+     "43.537,5"
+    ]
+   ]
+  },
+  {
+   "nota": "PUNTO 7"
+  },
+  {
+   "nota": "In ausilio ad attività professionali, sanitarie ed alte attività ad esse direttamente collegate."
+  },
+  {
+   "nota": "ospedali, unità sanitarie locali, emergenza sanitaria ecc."
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "canale 21",
+     "43.550,0"
+    ],
+    [
+     "canale 22",
+     "43.562,5"
+    ],
+    [
+     "canale 23",
+     "43.575,0"
+    ],
+    [
+     "canale 24",
+     "43.587,5"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,675 @@
+{
+ "sezione": "Aeronautica militare",
+ "fonte": "Tutte le frequenze segrete V2.0, pag. 116–118",
+ "blocchi": [
+  {
+   "nota": "AERONAUTICA MILITARE"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "BANDA",
+     "225.000  399.950",
+     "MHz"
+    ]
+   ]
+  },
+  {
+   "nota": "VENGONO RIPORTATE LE FREQUENZE ADIBITE AL TRAFFICO INTERNAZIONALE “NATO”"
+  },
+  {
+   "nota": "I PRINCIPALI AEROPORTI ITALIANI CON TRAFFICO MILITARE VHF-UHF"
+  },
+  {
+   "nota": "FREQUENZE IN USO ALL’AERONAUTICA LEGGERA DELL’ESERCITO"
+  },
+  {
+   "nota": "LIMITI DI BANDA PER SERVIZI OPERATIVI DI TERRA"
+  },
+  {
+   "nota": "SONO INOLTRE INSERITE FREQUENZE IN USO ALLA MARINA MILITARE"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "CON SERVIZI ASSEGNATI IN BANDA 225.399 950 MHz"
+    ]
+   ]
+  },
+  {
+   "nota": "CON L'ESCLUSIONE DEI CANALI DI LAVORO E SERVIZI IN ESSI ATTUATI"
+  },
+  {
+   "nota": "AEROPORTI"
+  },
+  {
+   "colonne": [
+    "Aeroporti",
+    "Banda",
+    "Frequenze"
+   ],
+   "righe": [
+    [
+     "Tutti Traffico “Nato\"",
+     "UHF",
+     "243.000 243400",
+     "244600",
+     "252.500  252.600",
+     "253800",
+     "257.800"
+    ],
+    [
+     "256.450 259.150",
+     "259400",
+     "262.600",
+     "273900",
+     "277200",
+     "285.350"
+    ],
+    [
+     "292.100 299600",
+     "300.800  316.350",
+     "317500",
+     "340.300  344.000"
+    ],
+    [
+     "",
+     "",
+     "344.350 360.400  362.300  364.200  383.550  385.400"
+    ],
+    [
+     "Aviano",
+     "UHF",
+     "243.000 252.525  257.750",
+     "257800 259.050",
+     "260.925  300.600"
+    ],
+    [
+     "",
+     "",
+     "312.650 319.400  337.825  338.825 344.000  360.775  362.300"
+    ],
+    [
+     "",
+     "",
+     "376.550 379.425  385.400  386.675"
+    ],
+    [
+     "VHF",
+     "120.125 122.100  123.300",
+     "129.300134.100",
+     "138.150  138.350"
+    ],
+    [
+     "",
+     "",
+     "140.425 142.050"
+    ],
+    [
+     "Bari",
+     "VHF",
+     "122.100 123.300 130.650 141.300"
+    ],
+    [
+     "Brindisi",
+     "UHF",
+     "243.000 257.800  259.000  261.000  312.550 338.750 344.000"
+    ],
+    [
+     "",
+     "",
+     "362.150 358.600  362.300  369.950  376.800 383.200 385.400"
+    ],
+    [
+     "",
+     "",
+     "365.400"
+    ],
+    [
+     "",
+     "VHF",
+     "122.100 122.400  123.300  129.775  142.350"
+    ],
+    [
+     "Cagliari",
+     "VHF",
+     "122.100 123.300 142.400"
+    ],
+    [
+     "Cameri",
+     "UHF",
+     "243.000 257.800",
+     "261350",
+     "300.250 300.950 309.050 340150"
+    ],
+    [
+     "",
+     "",
+     "344.000 364.200  370.100  385.400"
+    ],
+    [
+     "",
+     "VHF",
+     "121.700 122.100  123.300  142.300"
+    ],
+    [
+     "Catania",
+     "UHF",
+     "243.000 257.800  256.450  344.000  344.300  362.300  364.200"
+    ],
+    [
+     "",
+     "",
+     "381.200 365.400"
+    ],
+    [
+     "Cervia",
+     "UHF",
+     "243.000 257.800  258.450  258.950  292.750  312.850  336.000"
+    ],
+    [
+     "",
+     "",
+     "338.260 338.900  344.000  362.300  364.200  379.750  385.400"
+    ],
+    [
+     "Decimomannu",
+     "UHF",
+     "243.000 257.600  259.850  299.400  315.550  344.000  351.000"
+    ],
+    [
+     "",
+     "",
+     "358.600 362.300  385.400"
+    ],
+    [
+     "",
+     "VHF",
+     "122.100 123.300  140.400  142.400"
+    ],
+    [
+     "Foggia",
+     "UHF",
+     "243.000 257.800  258.450  259.800  209.400  337.600  344.000"
+    ],
+    [
+     "",
+     "",
+     "360.550  362.300  364.200  381.200  385.400"
+    ],
+    [
+     "Forlì",
+     "UHF",
+     "243.000  257.800  338.650  344.000  362.300  379.650  385.400"
+    ],
+    [
+     "Ghedi",
+     "UHF",
+     "243.000  257.800  292.700 311.350 338.000 362.000 344.000"
+    ],
+    [
+     "",
+     "",
+     "362.300  385.400  386.500"
+    ],
+    [
+     "",
+     "VHF",
+     "122.100  123.300  123.500"
+    ],
+    [
+     "Gioia del Colle",
+     "UHF",
+     "243.000  257.800  258.450  338.000  340.000 344.000 362.300"
+    ],
+    [
+     "",
+     "",
+     "364.200  380.050  383.450  385.400  386.650"
+    ],
+    [
+     "",
+     "VHF",
+     "122.100  122.450  123.300  130.650  141.300"
+    ],
+    [
+     "Grazzanise",
+     "UHF",
+     "243.000  257.800  258.450  338.000 344.000 358.600 362.000"
+    ],
+    [
+     "",
+     "",
+     "362.300  364.200  369.900  385.400"
+    ],
+    [
+     "",
+     "VHF",
+     "122.100  123.300  139.850  140.400"
+    ],
+    [
+     "Guidonia",
+     "VHF",
+     "122.100 123.300 142.350"
+    ],
+    [
+     "Istrana",
+     "UHF",
+     "243.000  257.800  284.850 337.950 338.550 340.300 348.850"
+    ],
+    [
+     "",
+     "",
+     "356.800  364.200  388.000"
+    ],
+    [
+     "",
+     "VHF",
+     "118.350  121.725  122.100 123.300 123.800"
+    ],
+    [
+     "Latina",
+     "VHF",
+     "122.100 123.300 142.400"
+    ],
+    [
+     "Milano",
+     "VHF",
+     "122.100 122.400 123.300 129.820"
+    ],
+    [
+     "Napoli",
+     "UHF",
+     "243.000 257.800 340.200 341.000 344.000 358.550 362.300"
+    ],
+    [
+     "",
+     "",
+     "377.800 379.000 383.800 384.250 385.400"
+    ],
+    [
+     "Padova",
+     "UHF",
+     "235.150  243.000  252.450  257.800  291.150 344.700 373.450"
+    ],
+    [
+     "",
+     "",
+     "379.600  384.200"
+    ],
+    [
+     "",
+     "VHF",
+     "122.100  123.175  123.300  129.375"
+    ],
+    [
+     "Pisa",
+     "UHF",
+     "243.000  257.800  258.450  338.550  344.000 344.600 362.000"
+    ],
+    [
+     "",
+     "",
+     "362.300  384.200  385.400"
+    ],
+    [
+     "",
+     "VHF",
+     "122.100  123.300  138.250  139.400  146.500"
+    ],
+    [
+     "Pratica di Mare",
+     "VHF",
+     "122.100  123.300  139.450"
+    ],
+    [
+     "Rimini",
+     "VHF",
+     "121.600  122.100  123.300"
+    ],
+    [
+     "Rivolto",
+     "UHF",
+     "243.000 257.800 261.000 307.800 315.700"
+    ],
+    [
+     "",
+     "VHF",
+     "122.100 123.300 139.250 142.750"
+    ],
+    [
+     "Roma",
+     "UHF",
+     "232.600  243.000  258.200 257.800 296.650 314.350 340.300"
+    ],
+    [
+     "",
+     "",
+     "344.450  362.300  379.400"
+    ],
+    [
+     "",
+     "VHF",
+     "122.100  123.225  123.300"
+    ],
+    [
+     "San Damiano",
+     "VHF",
+     "122.100  123.300  123.920 129.820 132.250 134.250"
+    ],
+    [
+     "Sigonella",
+     "VHF",
+     "118.050  118.200  122.100 123.300"
+    ],
+    [
+     "Trapani",
+     "VHF",
+     "122.100  123.300  141.150"
+    ],
+    {
+     "g": "SERVIZI UHF-VHF VARI"
+    },
+    [
+     "Nato — USAF Awacs”",
+     "UHF",
+     "233.600"
+    ],
+    [
+     "Comp. Grp. Elicotteri Sarzana",
+     "UHF",
+     "242.300"
+    ],
+    [
+     "SAR Nato",
+     "UHF",
+     "252.800"
+    ],
+    [
+     "Italia Navy (Maritele Roma)",
+     "UHF",
+     "253.950"
+    ],
+    [
+     "USAF (Usareur) Vicenza",
+     "UHF",
+     "255.500"
+    ],
+    [
+     "Nato — USAF ‘Awacs",
+     "UHF",
+     "259.300"
+    ],
+    [
+     "Nato",
+     "UHF",
+     "264.400"
+    ],
+    [
+     "Monte Venda",
+     "UHF",
+     "265.200"
+    ],
+    [
+     "Sarzana Luni (Maristaeli)",
+     "UHF",
+     "267.600"
+    ],
+    [
+     "Nato — USAF Awacs’",
+     "UHF",
+     "270.050"
+    ],
+    [
+     "Aeronautica Leggera Esercito",
+     "UHF",
+     "277.200"
+    ],
+    [
+     "Marina Militare Italia",
+     "UHF",
+     "278.300"
+    ],
+    [
+     "Marina Militare Italia",
+     "UHF",
+     "279.400"
+    ],
+    [
+     "Padova SAR (da verificare)",
+     "UHF",
+     "282.200"
+    ],
+    [
+     "Coord Capitanerie Porto SAR",
+     "UHF",
+     "282.800"
+    ],
+    [
+     "Monte Venda",
+     "UHF",
+     "282.800"
+    ],
+    [
+     "Monte Corna",
+     "UHF",
+     "290.700"
+    ],
+    [
+     "Monte Limbara",
+     "UHF",
+     "290.700"
+    ],
+    [
+     "Monte Nardello",
+     "UHF",
+     "290.700"
+    ],
+    [
+     "Marina Militare Italia",
+     "UHF",
+     "291.500"
+    ],
+    [
+     "Marina Militare Italia",
+     "UHF",
+     "294.950"
+    ],
+    [
+     "Pattuglia Acrobatica Italia",
+     "UHF",
+     "307.800"
+    ],
+    [
+     "Nato — USAF Awacs’",
+     "UHF",
+     "311.000"
+    ],
+    [
+     "Coord. Aviolanci Paracad. Pisa",
+     "UHF",
+     "337.700"
+    ],
+    [
+     "Coord. Tecnici Telecomunicaz.",
+     "UHF",
+     "345.675"
+    ],
+    [
+     "Monte Venda",
+     "UHF",
+     "355.600"
+    ],
+    [
+     "Aeronautica Leggera Esercito",
+     "UHF",
+     "357.150"
+    ],
+    [
+     "AMI nazionale",
+     "VHF",
+     "130.450"
+    ],
+    [
+     "USAF (Località imprecisata)",
+     "VHF",
+     "136.200"
+    ],
+    [
+     "Località imprecisata",
+     "VHF",
+     "136.500"
+    ],
+    [
+     "Località imprecisata",
+     "VHF",
+     "137.000"
+    ],
+    [
+     "AMI nord-est (località non prec.)",
+     "VHF",
+     "138.150"
+    ],
+    [
+     "AMI (località imprecisata)",
+     "VHF",
+     "138.500"
+    ],
+    [
+     "AMI (test motori)",
+     "VHF",
+     "138.950"
+    ],
+    [
+     "Località imprecisata",
+     "VHF",
+     "139.100"
+    ],
+    [
+     "USAF (Usaraur) Vicenza",
+     "VHF",
+     "139.600"
+    ],
+    [
+     "USAF (regioni nord-est)",
+     "VHF",
+     "140.250"
+    ],
+    [
+     "Località imprecisata nord-est",
+     "VHF",
+     "141.900"
+    ],
+    [
+     "Località imprecisata",
+     "VHF",
+     "142.450"
+    ],
+    [
+     "AMI",
+     "VHF",
+     "142.500"
+    ],
+    [
+     "USAF Air-to-air",
+     "VHF",
+     "142.725"
+    ],
+    [
+     "USAF Air.to-air",
+     "VHF",
+     "142.825"
+    ],
+    [
+     "USAF (Usareur) Vicenza",
+     "VHF",
+     "174.000"
+    ],
+    {
+     "g": "AERONAUTICA LEGGERA ESERCITO"
+    },
+    [
+     "Casarsa",
+     "VHF",
+     "37.300"
+    ],
+    [
+     "Italia",
+     "VHF",
+     "34.550"
+    ],
+    [
+     "USA",
+     "VHF",
+     "34.550"
+    ],
+    [
+     "Italia (vigilanza aeroporti)",
+     "VHF",
+     "37.000"
+    ],
+    [
+     "Italia soccorso esercito",
+     "VHF",
+     "40.050"
+    ],
+    [
+     "Freq. Internazionale di guardia",
+     "VHF",
+     "40.500"
+    ],
+    [
+     "USA",
+     "VHF",
+     "42.300"
+    ],
+    [
+     "USA Vicenza",
+     "VHF",
+     "43.850"
+    ],
+    [
+     "Italia",
+     "VHF",
+     "49.000"
+    ],
+    [
+     "Italia",
+     "VHF",
+     "50.000"
+    ],
+    [
+     "Italia (da verificare)",
+     "VHF",
+     "50.100"
+    ],
+    [
+     "Italia (da verificare)",
+     "VHF",
+     "50.200"
+    ],
+    [
+     "Italia elicotteri",
+     "VHF",
+     "51.000"
+    ],
+    [
+     "USA elicotteri (regione Veneto)",
+     "VHF",
+     "75.100"
+    ]
+   ]
+  },
+  {
+   "nota": "SERVIZI DI TERRA"
+  },
+  {
+   "nota": "I servizi sono operativi negli aeroporti militari"
+  },
+  {
+   "nota": "417 419 MHz (limiti di banda assegnati)"
+  }
+ ]
+}

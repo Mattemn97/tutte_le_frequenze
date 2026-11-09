@@ -1,0 +1,139 @@
+{
+ "sezione": "Satelliti",
+ "fonte": "Tutte le frequenze segrete V2.0, pag. 101",
+ "blocchi": [
+  {
+   "nota": "SATELLITI"
+  },
+  {
+   "colonne": [
+    "Bande Di Frequenza",
+    "Servizi Attuati"
+   ],
+   "righe": [
+    [
+     "137.000 -  138.000",
+     "MHz",
+     "Satelliti in orbita fissa"
+    ],
+    [
+     "149.900 -  150.050",
+     "MHz",
+     "Satelliti per radionavigazione"
+    ],
+    [
+     "267.000 -  273.000",
+     "MHz",
+     "Satelliti militari"
+    ],
+    [
+     "328.600 -  355.400",
+     "MHz",
+     "Satelliti per navigazione aeronautica"
+    ],
+    [
+     "399.900 -  400.000",
+     "MHz",
+     "Satelliti di navigazione"
+    ],
+    [
+     "400.000 -  400.150",
+     "MHz",
+     "Satelliti per segnale di tempo campione"
+    ],
+    [
+     "400.150 -  402.000",
+     "MHz",
+     "Satelliti di ricerca a meteorologici"
+    ],
+    [
+     "403.000 -  405.000",
+     "MHz",
+     "Radiosonde su palloni stratosferici"
+    ],
+    [
+     "1.215.000- 1.240.000",
+     "MHz",
+     "Satelliti di navigazione"
+    ],
+    [
+     "1.525.000- 1.545.000",
+     "MHz",
+     "Satelliti per comunicazioni mobili marittime"
+    ],
+    [
+     "1.545.000- 1.555.000",
+     "MHz",
+     "Satelliti per comunicazioni mobili aeronautiche"
+    ],
+    [
+     "1.670 000- 1.710.000",
+     "MHz",
+     "Satelliti meteorologici su orbita geostezionaria"
+    ],
+    [
+     "2.200.000- 2.300.000",
+     "MHz",
+     "Comunicazioni intersatellite"
+    ],
+    [
+     "2 483.500- 2.500.000",
+     "MHz",
+     "Satelliti di radiolocalizzazione"
+    ]
+   ]
+  },
+  {
+   "colonne": [
+    "Satellite",
+    "Frequenze",
+    "Nazione"
+   ],
+   "righe": [
+    [
+     "Meteor",
+     "137.300",
+     "Russia"
+    ],
+    [
+     "",
+     "",
+     "137.400"
+    ],
+    [
+     "",
+     "",
+     "137.850"
+    ],
+    [
+     "Meteosat 5",
+     "1.691.000"
+    ],
+    [
+     "",
+     "",
+     "1.694 500"
+    ],
+    [
+     "Nooa",
+     "1.698.000"
+    ],
+    [
+     "",
+     "",
+     "1.707.000"
+    ],
+    [
+     "Nooa 9",
+     "137.620",
+     "USA"
+    ],
+    [
+     "Nooa 10",
+     "137.500",
+     "USA"
+    ]
+   ]
+  }
+ ]
+}

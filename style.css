@@ -1,0 +1,114 @@
+/* Tutte le frequenze · stili specifici (il resto è in mf-theme.css) */
+
+.layout { display: grid; grid-template-columns: 290px minmax(0, 1fr); gap: 1.4rem; max-width: 1400px; margin: 0 auto; padding: 1.2rem clamp(12px, 3vw, 28px) 2rem; }
+
+/* ---------- Menu laterale ---------- */
+.sidebar {
+  position: sticky; top: 76px; align-self: start; max-height: calc(100vh - 92px); overflow-y: auto;
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  box-shadow: var(--shadow); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+  padding: .6rem; scrollbar-width: thin;
+}
+.pad { padding: .8rem; }
+.cat { margin-bottom: .4rem; }
+.cat-title {
+  display: flex; align-items: center; gap: .5rem; padding: .7rem .7rem .35rem;
+  font: 600 .72rem var(--font); text-transform: uppercase; letter-spacing: .08em; color: var(--muted);
+}
+.nav-item {
+  display: flex; align-items: center; gap: .65rem; width: 100%; padding: .55rem .7rem; border: 0; border-radius: 10px;
+  background: none; color: var(--text); font: 500 .9rem var(--font); text-align: left; cursor: pointer;
+  transition: background .2s, color .2s;
+}
+.nav-item i { width: 18px; text-align: center; color: var(--primary); transition: transform .2s; }
+.nav-item:hover { background: color-mix(in srgb, var(--primary) 9%, transparent); }
+.nav-item:hover i { transform: scale(1.15); }
+.nav-item.active { background: var(--gradient); color: var(--on-primary); }
+.nav-item.active i { color: var(--on-primary); }
+.drawer-btn { display: none; }
+.backdrop { display: none; }
+
+/* ---------- Ricerca ---------- */
+.search-card { padding: 1rem 1.1rem; margin-bottom: 1.2rem; position: sticky; top: 70px; z-index: 5; }
+.search-row { display: flex; flex-wrap: wrap; gap: .8rem; align-items: center; }
+.grow { flex: 1 1 320px; }
+.search-info { margin: .55rem .2rem 0; min-height: 1em; }
+.search-info:empty { display: none; }
+
+/* ---------- Intestazione sezione ---------- */
+.sec-head { margin-bottom: 1.2rem; animation: mf-in .4s ease both; }
+.sec-head .crumb { font-family: var(--font-mono); font-size: .82rem; color: var(--primary); margin-bottom: .3rem; }
+.sec-head h2 { font-size: clamp(1.5rem, 3.5vw, 2.2rem); margin-bottom: .2rem; display: flex; gap: .7rem; align-items: center; }
+.sec-head h2 .ic {
+  display: inline-grid; place-items: center; width: 46px; height: 46px; border-radius: 14px; flex: none;
+  background: var(--gradient); color: var(--on-primary); font-size: 1.15rem;
+}
+.sec-head .sub { color: var(--muted); margin: 0 0 .8rem; }
+.facts { display: flex; flex-wrap: wrap; gap: .5rem; }
+
+.block { margin-bottom: 1.2rem; }
+.block-title { display: flex; align-items: center; gap: .55rem; font-size: 1.05rem; margin: 1.6rem 0 .7rem; }
+.block-title i { color: var(--primary); }
+.block-title .count { margin-left: auto; font: 500 .8rem var(--font); color: var(--muted); }
+.notes {
+  border-left: 3px solid var(--primary); background: color-mix(in srgb, var(--primary) 6%, transparent);
+  border-radius: 0 12px 12px 0; padding: .7rem 1rem; margin: .9rem 0; font-size: .9rem; color: var(--muted);
+}
+.notes p { margin: .15rem 0; }
+.notes p.strong { color: var(--text); font-weight: 600; }
+
+.info-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: .8rem; margin: .8rem 0; }
+.info-grid .mf-card { padding: 1rem 1.1rem; font-size: .9rem; }
+.info-grid dt { font-weight: 600; font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+.info-grid dd { margin: 0 0 .5rem; }
+
+/* tabelle: gruppo (provincia + righe di continuazione) */
+.mf-table-wrap { max-height: 75vh; }
+.mf-table tbody.grp + tbody.grp tr:first-child td { border-top: 1px solid var(--border); }
+.mf-table tbody.grp tr.cont td { border-top: 1px dashed color-mix(in srgb, var(--border) 60%, transparent); }
+.mf-table td.first { font-weight: 600; white-space: nowrap; }
+.mf-table tr.subhead td {
+  background: color-mix(in srgb, var(--primary) 8%, transparent); color: var(--primary);
+  font: 600 .78rem var(--font); text-transform: uppercase; letter-spacing: .05em;
+}
+.mf-table td.dep { color: var(--muted); font-size: .84rem; min-width: 220px; }
+.mf-freq { cursor: copy; }
+.mf-freq:hover { background: color-mix(in srgb, var(--primary-2) 26%, transparent); }
+mark { background: color-mix(in srgb, var(--accent) 35%, transparent); color: inherit; border-radius: 3px; padding: 0 1px; }
+
+/* risultati ricerca globale */
+.result-group { margin-bottom: 1rem; }
+.result-group h3 { font-size: .98rem; display: flex; align-items: center; gap: .5rem; margin: 1.2rem 0 .5rem; }
+.result-group h3 button { margin-left: auto; }
+.empty { text-align: center; padding: 3rem 1rem; color: var(--muted); }
+.empty i { font-size: 2rem; margin-bottom: .6rem; display: block; color: var(--primary); }
+
+.disclaimer { font-size: .8rem; color: var(--muted); margin: 2rem .2rem 0; line-height: 1.5; }
+.disclaimer i { color: var(--primary); margin-right: .3rem; }
+
+.toast {
+  position: fixed; left: 50%; bottom: 24px; transform: translate(-50%, 20px); opacity: 0; pointer-events: none;
+  background: var(--text); color: var(--bg); padding: .6rem 1rem; border-radius: 999px; font-size: .88rem; font-weight: 600;
+  transition: opacity .25s, transform .25s; z-index: 100;
+}
+.toast.show { opacity: 1; transform: translate(-50%, 0); }
+
+/* ---------- Mobile ---------- */
+@media (max-width: 900px) {
+  .layout { grid-template-columns: minmax(0, 1fr); }
+  .drawer-btn { display: inline-flex; }
+  .sidebar {
+    position: fixed; top: 0; left: 0; bottom: 0; width: min(310px, 86vw); max-height: none; z-index: 60;
+    border-radius: 0 var(--radius) var(--radius) 0; background: var(--surface-solid);
+    transform: translateX(-105%); transition: transform .3s ease;
+  }
+  body.drawer-open .sidebar { transform: none; }
+  body.drawer-open .backdrop { display: block; position: fixed; inset: 0; z-index: 55; background: rgba(0, 0, 0, .4); }
+  .search-card { top: 62px; }
+  .mf-table td.first { white-space: normal; }
+}
+@media (max-width: 560px) {
+  .mf-app-title { font-size: .92rem; }
+  .scope { width: 100%; }
+  .scope .mf-chip { flex: 1; justify-content: center; }
+}

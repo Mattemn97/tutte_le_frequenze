@@ -1,0 +1,140 @@
+{
+ "sezione": "Ferrovie dello Stato",
+ "fonte": "Tutte le frequenze segrete V2.0, pag. 93",
+ "blocchi": [
+  {
+   "nota": "FERROVIE DELLO STATO"
+  },
+  {
+   "nota": "F.S."
+  },
+  {
+   "nota": "BANDA 440- 444 MHz (servizi compresi nella gamma civile UHF)"
+  },
+  {
+   "nota": "SONO OPERATIVI INOLTRE NEl PRINCIPALI SCALI FERROVIARI CON ASSEGNAZIONE"
+  },
+  {
+   "nota": "PER ZONA TERRITORIALE SERVIZI OPERANTI IN GAMMA CIVILE VHF"
+  },
+  {
+   "nota": "COORDINAZIONE MOVIMENTO - COMPOSIZIONE CONVOGLI - SMISTAMENTO CARROZZE"
+  },
+  {
+   "nota": "ASSEGNAZIONE NAZIONALE PER SERVIZI OPERANTI IN GAMMA CIVILE UHF"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "440.025"
+    ],
+    [
+     "440.100"
+    ],
+    [
+     "440.125"
+    ],
+    [
+     "440.175"
+    ],
+    [
+     "440.200"
+    ],
+    [
+     "440.225"
+    ],
+    [
+     "440.250"
+    ],
+    [
+     "440.425"
+    ],
+    [
+     "440.475"
+    ],
+    [
+     "440.575"
+    ],
+    [
+     "440.675"
+    ],
+    [
+     "440.775"
+    ],
+    [
+     "440.825"
+    ],
+    [
+     "440.875"
+    ],
+    [
+     "440.900"
+    ],
+    [
+     "440.975"
+    ],
+    [
+     "441.075"
+    ],
+    [
+     "441.175"
+    ],
+    [
+     "441.200"
+    ],
+    [
+     "441.250"
+    ],
+    [
+     "441.325"
+    ],
+    [
+     "441.350"
+    ],
+    [
+     "441.425"
+    ],
+    [
+     "441.525"
+    ],
+    [
+     "441.675"
+    ],
+    [
+     "441.850"
+    ],
+    [
+     "441.900"
+    ],
+    [
+     "441.950"
+    ],
+    [
+     "442.000"
+    ],
+    [
+     "442.025"
+    ],
+    [
+     "442.150"
+    ],
+    [
+     "442.200"
+    ],
+    [
+     "442.225"
+    ],
+    [
+     "442.850"
+    ],
+    [
+     "442.900"
+    ],
+    [
+     "444.000"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3129 @@
+{
+ "sezione": "Pronto Intervento Polizia di Stato",
+ "banda_principale": "VHF (75-77 MHz / 85-87 MHz)",
+ "ultimo_aggiornamento": "2026-06",
+ "dati_provinciali": [
+  {
+   "provincia": "Agrigento",
+   "localita": [
+    {
+     "nome": "Agrigento (Questura - CO)",
+     "frequenze": [
+      "75.250",
+      "75.400",
+      "85.250"
+     ]
+    },
+    {
+     "nome": "Canicattì (Commissariato)",
+     "frequenze": [
+      "75.250",
+      "85.250"
+     ]
+    },
+    {
+     "nome": "Lampedusa (Posto Polizia)",
+     "frequenze": [
+      "75.400",
+      "85.400"
+     ]
+    },
+    {
+     "nome": "Licata (Commissariato)",
+     "frequenze": [
+      "75.250",
+      "85.250"
+     ]
+    },
+    {
+     "nome": "Porto Empedocle",
+     "frequenze": [
+      "75.250",
+      "85.250"
+     ]
+    },
+    {
+     "nome": "Sciacca (Commissariato)",
+     "frequenze": [
+      "75.300",
+      "85.300"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Alessandria",
+   "localita": [
+    {
+     "nome": "Alessandria (Questura)",
+     "frequenze": [
+      "76.125",
+      "76.500",
+      "86.125"
+     ]
+    },
+    {
+     "nome": "Acqui Terme (Commissariato)",
+     "frequenze": [
+      "76.125",
+      "86.125"
+     ]
+    },
+    {
+     "nome": "Casale Monferrato",
+     "frequenze": [
+      "76.125",
+      "86.125"
+     ]
+    },
+    {
+     "nome": "Novi Ligure (Polfer / Stradale)",
+     "frequenze": [
+      "76.500",
+      "86.500"
+     ]
+    },
+    {
+     "nome": "Serravalle Scrivia",
+     "frequenze": [
+      "76.500",
+      "86.500"
+     ]
+    },
+    {
+     "nome": "Tortona (Polstrada)",
+     "frequenze": [
+      "76.500",
+      "86.500"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Ancona",
+   "localita": [
+    {
+     "nome": "Ancona (Questura / CO)",
+     "frequenze": [
+      "75.600",
+      "75.925",
+      "85.600"
+     ],
+     "note": "parla-ascolta"
+    },
+    {
+     "nome": "Fabriano (Commissariato)",
+     "frequenze": [
+      "75.600",
+      "85.600"
+     ]
+    },
+    {
+     "nome": "Falconara Marittima",
+     "frequenze": [
+      "75.925",
+      "85.925"
+     ]
+    },
+    {
+     "nome": "Jesi (Commissariato)",
+     "frequenze": [
+      "75.600",
+      "85.600"
+     ]
+    },
+    {
+     "nome": "Loreto (Posto Polizia)",
+     "frequenze": [
+      "75.600",
+      "85.600"
+     ]
+    },
+    {
+     "nome": "Senigallia (Commissariato)",
+     "frequenze": [
+      "75.600",
+      "85.600"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Aosta",
+   "localita": [
+    {
+     "nome": "Aosta (Questura)",
+     "frequenze": [
+      "75.450",
+      "75.800",
+      "85.450"
+     ]
+    },
+    {
+     "nome": "Courmayeur (Traforo Monte Bianco)",
+     "frequenze": [
+      "75.800",
+      "85.800",
+      "76.925"
+     ]
+    },
+    {
+     "nome": "Pont Saint Martin (Polstrada)",
+     "frequenze": [
+      "75.450",
+      "85.450"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Arezzo",
+   "localita": [
+    {
+     "nome": "Arezzo (Questura)",
+     "frequenze": [
+      "75.325",
+      "75.750",
+      "85.325"
+     ]
+    },
+    {
+     "nome": "Battifolle (Polstrada A1)",
+     "frequenze": [
+      "75.750",
+      "85.750"
+     ],
+     "note": "Canale Autostradale CO"
+    },
+    {
+     "nome": "San Sepolcro (Posto Polizia)",
+     "frequenze": [
+      "75.325",
+      "85.325"
+     ]
+    },
+    {
+     "nome": "Valdarno (Polstrada)",
+     "frequenze": [
+      "75.750",
+      "85.750"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Ascoli Piceno",
+   "localita": [
+    {
+     "nome": "Ascoli Piceno (Questura)",
+     "frequenze": [
+      "75.525",
+      "85.525"
+     ]
+    },
+    {
+     "nome": "Fermo (Commissariato)",
+     "frequenze": [
+      "75.525",
+      "85.525"
+     ]
+    },
+    {
+     "nome": "Porto San Giorgio (Polstrada)",
+     "frequenze": [
+      "75.525",
+      "85.525"
+     ]
+    },
+    {
+     "nome": "San Benedetto del Tronto",
+     "frequenze": [
+      "75.525",
+      "75.900",
+      "85.525"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Asti",
+   "localita": [
+    {
+     "nome": "Asti (Questura / CO)",
+     "frequenze": [
+      "76.025",
+      "76.450",
+      "86.025"
+     ]
+    },
+    {
+     "nome": "Nizza Monferrato (Polstrada)",
+     "frequenze": [
+      "76.450",
+      "86.450"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Avellino",
+   "localita": [
+    {
+     "nome": "Avellino (Questura)",
+     "frequenze": [
+      "75.225",
+      "75.650",
+      "85.225"
+     ]
+    },
+    {
+     "nome": "Ariano Irpino (Commissariato)",
+     "frequenze": [
+      "75.225",
+      "85.225"
+     ]
+    },
+    {
+     "nome": "Cervinara (Commissariato)",
+     "frequenze": [
+      "75.225",
+      "85.225"
+     ]
+    },
+    {
+     "nome": "Grottaminarda (Polstrada)",
+     "frequenze": [
+      "75.650",
+      "85.650"
+     ]
+    },
+    {
+     "nome": "Lauro (Commissariato)",
+     "frequenze": [
+      "75.225",
+      "85.225"
+     ]
+    },
+    {
+     "nome": "Sant'Angelo dei Lombardi",
+     "frequenze": [
+      "75.225",
+      "85.225"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Bari",
+   "localita": [
+    {
+     "nome": "Bari (Questura / CO)",
+     "frequenze": [
+      "75.500",
+      "75.900",
+      "76.225",
+      "85.500"
+     ],
+     "note": "parla-ascolta Volanti"
+    },
+    {
+     "nome": "Bari (Aeroporto Palese)",
+     "frequenze": [
+      "75.500",
+      "76.350",
+      "85.500"
+     ]
+    },
+    {
+     "nome": "Bari (Polfer / Nautica)",
+     "frequenze": [
+      "75.900",
+      "85.900"
+     ]
+    },
+    {
+     "nome": "Altamura (Polstrada)",
+     "frequenze": [
+      "75.500",
+      "85.500"
+     ]
+    },
+    {
+     "nome": "Andria (Commissariato)",
+     "frequenze": [
+      "75.525",
+      "85.525"
+     ]
+    },
+    {
+     "nome": "Barletta (Commissariato)",
+     "frequenze": [
+      "75.525",
+      "85.525"
+     ]
+    },
+    {
+     "nome": "Canosa di Puglia (Commissariato)",
+     "frequenze": [
+      "75.525",
+      "85.525"
+     ]
+    },
+    {
+     "nome": "Castellana Grotte",
+     "frequenze": [
+      "75.500",
+      "85.500"
+     ]
+    },
+    {
+     "nome": "Corato (Commissariato)",
+     "frequenze": [
+      "75.525",
+      "85.525"
+     ]
+    },
+    {
+     "nome": "Gioia del Colle (Polstrada)",
+     "frequenze": [
+      "75.900",
+      "85.900"
+     ]
+    },
+    {
+     "nome": "Monopoli (Commissariato)",
+     "frequenze": [
+      "75.500",
+      "85.500"
+     ]
+    },
+    {
+     "nome": "Ruvo di Puglia (Polstrada)",
+     "frequenze": [
+      "75.525",
+      "85.525"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Belluno",
+   "localita": [
+    {
+     "nome": "Belluno (Questura)",
+     "frequenze": [
+      "75.350",
+      "75.825",
+      "85.350"
+     ]
+    },
+    {
+     "nome": "Cortina d'Ampezzo (Commissariato)",
+     "frequenze": [
+      "75.350",
+      "85.350",
+      "76.125"
+     ]
+    },
+    {
+     "nome": "Feltre (Polstrada)",
+     "frequenze": [
+      "75.350",
+      "85.350"
+     ]
+    },
+    {
+     "nome": "Pieve di Cadore (Polstrada)",
+     "frequenze": [
+      "75.825",
+      "85.825"
+     ]
+    },
+    {
+     "nome": "Valle di Cadore (Posto Polizia)",
+     "frequenze": [
+      "75.350",
+      "85.350"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Benevento",
+   "localita": [
+    {
+     "nome": "Benevento (Questura)",
+     "frequenze": [
+      "75.470",
+      "75.725",
+      "85.470"
+     ]
+    },
+    {
+     "nome": "San Salvatore Telesino",
+     "frequenze": [
+      "75.470",
+      "85.470"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Bergamo",
+   "localita": [
+    {
+     "nome": "Bergamo (Questura / CO)",
+     "frequenze": [
+      "75.625",
+      "76.150",
+      "85.625"
+     ],
+     "note": "parla-ascolta Co.Re."
+    },
+    {
+     "nome": "Bergamo (Aeroporto Orio)",
+     "frequenze": [
+      "75.625",
+      "85.625",
+      "76.950"
+     ]
+    },
+    {
+     "nome": "Seriate (Polstrada A4)",
+     "frequenze": [
+      "76.150",
+      "86.150"
+     ]
+    },
+    {
+     "nome": "Treviglio (Commissariato)",
+     "frequenze": [
+      "75.625",
+      "85.625"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Bologna",
+   "localita": [
+    {
+     "nome": "Bologna (Questura / CO)",
+     "frequenze": [
+      "75.275",
+      "75.700",
+      "76.325",
+      "85.275"
+     ],
+     "note": "75.275 Canale Volanti principale"
+    },
+    {
+     "nome": "Bologna (Aeroporto Borgo Panigale)",
+     "frequenze": [
+      "75.275",
+      "85.275",
+      "76.875"
+     ]
+    },
+    {
+     "nome": "Bologna (Polstrada Casalecchio)",
+     "frequenze": [
+      "75.700",
+      "85.700"
+     ]
+    },
+    {
+     "nome": "Bologna (Reparto Mobile)",
+     "frequenze": [
+      "76.100",
+      "86.100"
+     ]
+    },
+    {
+     "nome": "Imola (Commissariato)",
+     "frequenze": [
+      "75.275",
+      "85.275"
+     ]
+    },
+    {
+     "nome": "San Giovanni in Persiceto",
+     "frequenze": [
+      "75.275",
+      "85.275"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Bolzano",
+   "localita": [
+    {
+     "nome": "Bolzano (Questura / CO)",
+     "frequenze": [
+      "75.550",
+      "75.925",
+      "85.550"
+     ],
+     "note": "bilingue Italiano/Tedesco"
+    },
+    {
+     "nome": "Brennero (Polizia di Frontiera)",
+     "frequenze": [
+      "75.925",
+      "85.925",
+      "76.400"
+     ]
+    },
+    {
+     "nome": "Bressanone (Commissariato)",
+     "frequenze": [
+      "75.550",
+      "85.550"
+     ]
+    },
+    {
+     "nome": "Brunico (Commissariato)",
+     "frequenze": [
+      "75.550",
+      "85.550"
+     ]
+    },
+    {
+     "nome": "Merano (Commissariato)",
+     "frequenze": [
+      "75.550",
+      "85.550"
+     ]
+    },
+    {
+     "nome": "San Candido (Commissariato)",
+     "frequenze": [
+      "75.550",
+      "85.550"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Brescia",
+   "localita": [
+    {
+     "nome": "Brescia (Questura / CO)",
+     "frequenze": [
+      "75.300",
+      "75.800",
+      "85.300"
+     ]
+    },
+    {
+     "nome": "Desenzano del Garda",
+     "frequenze": [
+      "75.300",
+      "85.300"
+     ]
+    },
+    {
+     "nome": "Darfo Boario Terme (Polstrada)",
+     "frequenze": [
+      "75.800",
+      "85.800"
+     ]
+    },
+    {
+     "nome": "Montichiari (Polstrada)",
+     "frequenze": [
+      "75.300",
+      "85.300"
+     ]
+    },
+    {
+     "nome": "Salò (Polstrada)",
+     "frequenze": [
+      "75.300",
+      "85.300"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Cagliari",
+   "localita": [
+    {
+     "nome": "Cagliari (Questura)",
+     "frequenze": [
+      "75.650",
+      "75.950",
+      "85.650"
+     ]
+    },
+    {
+     "nome": "Cagliari (Aeroporto Elmas)",
+     "frequenze": [
+      "75.650",
+      "85.650"
+     ]
+    },
+    {
+     "nome": "Carbonia (Commissariato)",
+     "frequenze": [
+      "75.650",
+      "85.650"
+     ]
+    },
+    {
+     "nome": "Iglesias (Commissariato)",
+     "frequenze": [
+      "75.650",
+      "85.650"
+     ]
+    },
+    {
+     "nome": "Quartu Sant'Elena",
+     "frequenze": [
+      "75.650",
+      "85.650"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Catania",
+   "localita": [
+    {
+     "nome": "Catania (Questura / CO)",
+     "frequenze": [
+      "75.450",
+      "75.850",
+      "76.150",
+      "85.450"
+     ],
+     "note": "75.450 Volanti / 75.850 Polstrada-Polfer"
+    },
+    {
+     "nome": "Catania (Aeroporto Fontanarossa)",
+     "frequenze": [
+      "75.450",
+      "85.450",
+      "76.900"
+     ]
+    },
+    {
+     "nome": "Caltagirone (Commissariato)",
+     "frequenze": [
+      "75.450",
+      "85.450"
+     ]
+    },
+    {
+     "nome": "Adrano (Commissariato)",
+     "frequenze": [
+      "75.450",
+      "85.450"
+     ]
+    },
+    {
+     "nome": "Acireale (Commissariato)",
+     "frequenze": [
+      "75.450",
+      "85.450"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Como",
+   "localita": [
+    {
+     "nome": "Como (Questura)",
+     "frequenze": [
+      "75.250",
+      "75.725",
+      "85.250"
+     ]
+    },
+    {
+     "nome": "Chiasso (Polizia di Frontiera)",
+     "frequenze": [
+      "75.725",
+      "85.725",
+      "76.300"
+     ]
+    },
+    {
+     "nome": "Bellano (Polstrada)",
+     "frequenze": [
+      "75.250",
+      "85.250"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Cuneo",
+   "localita": [
+    {
+     "nome": "Cuneo (Questura)",
+     "frequenze": [
+      "75.625",
+      "75.950",
+      "85.625"
+     ]
+    },
+    {
+     "nome": "Alba (Posto Polizia)",
+     "frequenze": [
+      "75.625",
+      "85.625"
+     ]
+    },
+    {
+     "nome": "Bra (Polstrada)",
+     "frequenze": [
+      "75.625",
+      "85.625"
+     ]
+    },
+    {
+     "nome": "Bra (Posto Polizia)",
+     "frequenze": [
+      "75.625",
+      "85.625"
+     ]
+    },
+    {
+     "nome": "Mondovì (Polstrada)",
+     "frequenze": [
+      "75.950",
+      "85.950"
+     ]
+    },
+    {
+     "nome": "Saluzzo (Posto Polizia)",
+     "frequenze": [
+      "75.625",
+      "85.625"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Firenze",
+   "localita": [
+    {
+     "nome": "Firenze (Questura / CO)",
+     "frequenze": [
+      "75.225",
+      "75.650",
+      "76.250",
+      "85.225"
+     ],
+     "note": "75.225 Volanti principale"
+    },
+    {
+     "nome": "Firenze (Aeroporto Peretola)",
+     "frequenze": [
+      "75.225",
+      "85.225"
+     ]
+    },
+    {
+     "nome": "Firenze (Polstrada A1 Nord)",
+     "frequenze": [
+      "75.650",
+      "85.650"
+     ]
+    },
+    {
+     "nome": "Empoli (Commissariato)",
+     "frequenze": [
+      "75.225",
+      "85.225"
+     ]
+    },
+    {
+     "nome": "Sesto Fiorentino",
+     "frequenze": [
+      "75.225",
+      "85.225"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Genova",
+   "localita": [
+    {
+     "nome": "Genova (Questura / CO)",
+     "frequenze": [
+      "75.325",
+      "75.750",
+      "76.050",
+      "85.325"
+     ],
+     "note": "75.325 Volanti / 75.750 Polstrada e Nautica"
+    },
+    {
+     "nome": "Genova (Aeroporto C. Colombo)",
+     "frequenze": [
+      "75.325",
+      "85.325",
+      "76.925"
+     ]
+    },
+    {
+     "nome": "Chiavari (Commissariato)",
+     "frequenze": [
+      "75.325",
+      "85.325"
+     ]
+    },
+    {
+     "nome": "Sampierdarena (Polfer)",
+     "frequenze": [
+      "75.750",
+      "85.750"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Milano",
+   "localita": [
+    {
+     "nome": "Milano (Questura - CO Centrale)",
+     "frequenze": [
+      "75.400",
+      "75.425",
+      "75.450",
+      "75.850",
+      "75.875",
+      "85.400"
+     ],
+     "note": "75.400 Ch 1 Volanti / 75.450 Ch 2 / 75.850 Polstrada CO Milano Ovest"
+    },
+    {
+     "nome": "Milano (Aeroporto Linate)",
+     "frequenze": [
+      "75.400",
+      "85.400",
+      "76.850"
+     ]
+    },
+    {
+     "nome": "Milano (Aeroporto Malpensa)",
+     "frequenze": [
+      "75.525",
+      "85.525",
+      "76.970"
+     ],
+     "note": "Competenza territoriale estesa"
+    },
+    {
+     "nome": "Milano (Polfer Centrale)",
+     "frequenze": [
+      "75.875",
+      "85.875"
+     ]
+    },
+    {
+     "nome": "Milano (Reparto Mobile)",
+     "frequenze": [
+      "76.000",
+      "76.200",
+      "86.000"
+     ]
+    },
+    {
+     "nome": "Monza (Commissariato / CO)",
+     "frequenze": [
+      "75.350",
+      "75.825",
+      "85.350"
+     ]
+    },
+    {
+     "nome": "Sesto San Giovanni",
+     "frequenze": [
+      "75.400",
+      "75.425",
+      "85.400"
+     ]
+    },
+    {
+     "nome": "Legnano (Commissariato)",
+     "frequenze": [
+      "75.400",
+      "85.400"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Napoli",
+   "localita": [
+    {
+     "nome": "Napoli (Questura / CO centrale)",
+     "frequenze": [
+      "75.300",
+      "75.350",
+      "75.750",
+      "75.800",
+      "85.300"
+     ],
+     "note": "Multi-canale Volanti/Radiomobile PS"
+    },
+    {
+     "nome": "Napoli (Aeroporto Capodichino)",
+     "frequenze": [
+      "75.300",
+      "85.300",
+      "76.800"
+     ]
+    },
+    {
+     "nome": "Napoli (Polfer / Nautica Porto)",
+     "frequenze": [
+      "75.750",
+      "85.750"
+     ]
+    },
+    {
+     "nome": "Acerra (Commissariato)",
+     "frequenze": [
+      "75.350",
+      "85.350"
+     ]
+    },
+    {
+     "nome": "Castellammare di Stabia",
+     "frequenze": [
+      "75.300",
+      "85.300"
+     ]
+    },
+    {
+     "nome": "Ischia (Commissariato)",
+     "frequenze": [
+      "75.300",
+      "85.300"
+     ]
+    },
+    {
+     "nome": "Nola (Commissariato)",
+     "frequenze": [
+      "75.350",
+      "85.350"
+     ]
+    },
+    {
+     "nome": "Pozzuoli (Commissariato)",
+     "frequenze": [
+      "75.300",
+      "85.300"
+     ]
+    },
+    {
+     "nome": "Torre del Greco",
+     "frequenze": [
+      "75.300",
+      "85.300"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Palermo",
+   "localita": [
+    {
+     "nome": "Palermo (Questura / CO Volanti)",
+     "frequenze": [
+      "75.525",
+      "75.550",
+      "75.950",
+      "85.525"
+     ],
+     "note": "75.525 Ch Principale Volanti"
+    },
+    {
+     "nome": "Palermo (Aeroporto Punta Raisi)",
+     "frequenze": [
+      "75.525",
+      "85.525",
+      "76.950"
+     ]
+    },
+    {
+     "nome": "Bagheria (Commissariato)",
+     "frequenze": [
+      "75.525",
+      "85.525"
+     ]
+    },
+    {
+     "nome": "Cefalù (Commissariato)",
+     "frequenze": [
+      "75.525",
+      "85.525"
+     ]
+    },
+    {
+     "nome": "Termini Imerese",
+     "frequenze": [
+      "75.525",
+      "75.950",
+      "85.525"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Roma",
+   "localita": [
+    {
+     "nome": "Roma (Questura - CO Centrale San Vitale)",
+     "frequenze": [
+      "75.600",
+      "75.625",
+      "75.650",
+      "75.700",
+      "76.000",
+      "76.025",
+      "85.600"
+     ],
+     "note": "75.600 Ch 1 Volanti / 75.625 Ch 2 Volanti / 76.000 Canale CO Roma-Polstrada / 75.700 Fluviale-Tevere / Civitavecchia Nautica"
+    },
+    {
+     "nome": "Roma (Aeroporto Fiumicino)",
+     "frequenze": [
+      "75.600",
+      "85.600",
+      "76.900",
+      "76.925"
+     ]
+    },
+    {
+     "nome": "Roma (Aeroporto Ciampino)",
+     "frequenze": [
+      "75.600",
+      "85.600",
+      "76.825"
+     ]
+    },
+    {
+     "nome": "Anzio / Nettuno (Commissariato)",
+     "frequenze": [
+      "75.600",
+      "85.600"
+     ]
+    },
+    {
+     "nome": "Civitavecchia (Commissariato)",
+     "frequenze": [
+      "75.600",
+      "75.700",
+      "85.600"
+     ]
+    },
+    {
+     "nome": "Frascati (Commissariato)",
+     "frequenze": [
+      "75.625",
+      "85.625"
+     ]
+    },
+    {
+     "nome": "Tivoli (Commissariato)",
+     "frequenze": [
+      "75.625",
+      "85.625"
+     ]
+    },
+    {
+     "nome": "Velletri (Commissariato)",
+     "frequenze": [
+      "75.600",
+      "85.600"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Torino",
+   "localita": [
+    {
+     "nome": "Torino (Questura / CO Centrale)",
+     "frequenze": [
+      "75.500",
+      "75.525",
+      "75.900",
+      "75.925",
+      "85.500"
+     ],
+     "note": "75.500 Ch 1 Volanti / 75.900 Sottoponti Stradale-Susa"
+    },
+    {
+     "nome": "Torino (Aeroporto Caselle)",
+     "frequenze": [
+      "75.500",
+      "85.500",
+      "76.800"
+     ]
+    },
+    {
+     "nome": "Bardonecchia (Polizia Frontiera)",
+     "frequenze": [
+      "75.900",
+      "85.900",
+      "76.350"
+     ]
+    },
+    {
+     "nome": "Ivrea (Commissariato)",
+     "frequenze": [
+      "75.500",
+      "85.500"
+     ]
+    },
+    {
+     "nome": "Pinerolo (Commissariato)",
+     "frequenze": [
+      "75.500",
+      "85.500"
+     ]
+    },
+    {
+     "nome": "Susa (Polstrada Traforo)",
+     "frequenze": [
+      "75.900",
+      "85.900"
+     ]
+    }
+   ]
+  }
+ ],
+ "canali_nella_riserva_di_stato": [
+  {
+   "codice": "Alpha 1",
+   "frequenza": "75.200",
+   "note": "Frequenza di riserva nazionale / Interforze PS"
+  },
+  {
+   "codice": "Alpha 2",
+   "frequenza": "75.575",
+   "note": "Emergenza ordine pubblico coordinamento"
+  },
+  {
+   "codice": "Alpha 3",
+   "frequenza": "76.100",
+   "note": "Reparti Mobili - Canale di travaso Alpha"
+  },
+  {
+   "codice": "Alpha 4",
+   "frequenza": "76.550",
+   "note": "Collegamenti speciali CO inter-questure"
+  },
+  {
+   "codice": "UHF Link 1",
+   "frequenza": "440.125",
+   "note": "Dorsale UHF di trasferimento dati e fonia Questure-Viminale"
+  },
+  {
+   "codice": "UHF Link 2",
+   "frequenza": "440.350",
+   "note": "Dorsale UHF di trasferimento dati e fonia Questure-Viminale"
+  }
+ ],
+ "note_operative_scrambler": {
+  "tecnologia": "Inversione di banda analogica / Digitale Crypto (ove implementato)",
+  "note": "Molti dei canali elencati utilizzano sistemi di mascheramento della parola analogici o ponti ripetitori con tone-squelch (CTCSS) differenziati tra ingresso e uscita."
+ },
+ "blocchi_pdf": {
+  "fonte": "Tutte le frequenze segrete V2.0, pag. 17–23",
+  "blocchi": [
+   {
+    "nota": "PRONTO INTERVENTO"
+   },
+   {
+    "nota": "Polizia di Stato"
+   },
+   {
+    "nota": "BANDA 76-79 MHz"
+   },
+   {
+    "nota": "LINK MASTER UHF - LIMITI DI BANDA 434 –435 443-444 444-445 MHz"
+   },
+   {
+    "nota": "( limiti di banda 444 - 445 MHz vengono utilizzati solo in alcune regioni)"
+   },
+   {
+    "nota": "VENGONO RIPORTATE LE PROVINCIE E LOCALITA’ DISPONIBILI"
+   },
+   {
+    "colonne": [
+     "Localita’",
+     "Prov",
+     "Frequenze"
+    ],
+    "righe": [
+     [
+      "Acerra",
+      "NA",
+      "79.150"
+     ],
+     [
+      "Adria",
+      "RO",
+      "77.875"
+     ],
+     [
+      "Afragola",
+      "NA",
+      "79.150"
+     ],
+     [
+      "Agrigento",
+      "",
+      "78.000  78.275"
+     ],
+     [
+      "Alassio",
+      "SV",
+      "78.575"
+     ],
+     [
+      "Albano Laziale",
+      "RM",
+      "77.950  79.125 (da verificare)"
+     ],
+     [
+      "Alcamo",
+      "TP",
+      "78.825"
+     ],
+     [
+      "Alessandria",
+      "",
+      "76.700  77.675  78.475"
+     ],
+     [
+      "Alghero",
+      "SS",
+      "77.050"
+     ],
+     [
+      "Ancona",
+      ".",
+      "77.450  77.525  78.575  79.175"
+     ],
+     [
+      "Andria",
+      "BA",
+      "78.325"
+     ],
+     [
+      "Anzio",
+      "RM",
+      "77.950  79.125 (entrambe da verificare)"
+     ],
+     [
+      "Aosta",
+      "",
+      "77.850  79.100"
+     ],
+     [
+      "Arezzo",
+      "",
+      "77.900 – 78.125"
+     ],
+     [
+      "Ariano Irpino",
+      "AV",
+      "77.875"
+     ],
+     [
+      "Arona",
+      "NO",
+      "78.975"
+     ],
+     [
+      "Ascoli Piceno",
+      "",
+      "78.250"
+     ],
+     [
+      "Assisi",
+      "PG",
+      "77.875"
+     ],
+     [
+      "Asti",
+      "",
+      "79.050"
+     ],
+     [
+      "Atri",
+      "TE",
+      "77.575  77.650"
+     ],
+     [
+      "Augusta",
+      "SR",
+      "76.775"
+     ],
+     [
+      "Avellino",
+      "",
+      "78.800"
+     ],
+     [
+      "Aversa",
+      "CE",
+      "78.150"
+     ],
+     [
+      "Avezzano",
+      "AQ",
+      "77.575  77.700"
+     ],
+     [
+      "Avola",
+      "SR",
+      "76.775"
+     ],
+     [
+      "Bercellona Pozzo di Gotto",
+      "ME",
+      "79.075"
+     ],
+     [
+      "Bari",
+      "",
+      "77.200  77.325  77.375  77.650  78.100  76.200  78.325"
+     ],
+     [
+      "Barletta",
+      "BA",
+      "78.325"
+     ],
+     [
+      "Bassano del Grappa",
+      "VI",
+      "78.175"
+     ],
+     [
+      "Battipaglia",
+      "SA",
+      "78.950"
+     ],
+     [
+      "Belluno",
+      "",
+      "77.475  78.700"
+     ],
+     [
+      "Benevento",
+      "",
+      "78.775"
+     ],
+     [
+      "Bergamo",
+      "",
+      "77.750  78.250"
+     ],
+     [
+      "Biella",
+      "",
+      "78.800"
+     ],
+     [
+      "Bitonto",
+      "BA",
+      "78.325"
+     ],
+     [
+      "Bizzarrone",
+      "CO",
+      "77.125",
+      "(da verificare)"
+     ],
+     [
+      "Bologna",
+      "",
+      "77.450  77.550  78.075  78.150  78.600  79.075"
+     ],
+     [
+      "Bolzano",
+      "",
+      "77.450  77.475  77.550"
+     ],
+     [
+      "Bovalino",
+      "RC",
+      "78.700"
+     ],
+     [
+      "Brà",
+      "CN",
+      "78.825"
+     ],
+     [
+      "Brennero",
+      "BZ",
+      "77.550",
+      "(da verificare)"
+     ],
+     [
+      "Brescia",
+      "",
+      "78.725 (altra frequenza Rx 73,862.5 Tx 73,062.5)"
+     ],
+     [
+      "Bressanone",
+      "BZ",
+      "77.400  77.750",
+      "(entrambe da verificare)"
+     ],
+     [
+      "Brindisi",
+      "",
+      "77.150  77.650"
+     ],
+     [
+      "Brogeda",
+      "CO",
+      "77.125",
+      "(da verificare)"
+     ],
+     [
+      "Busto Arsizio",
+      "VA",
+      "78.250"
+     ],
+     [
+      "Cagliari",
+      "78.525",
+      "(da verificare) 79.025"
+     ],
+     [
+      "Cairo Montenotte",
+      "SV",
+      "77.200"
+     ],
+     [
+      "Caltanissetta",
+      "",
+      "79.150"
+     ],
+     [
+      "Campobasso",
+      "",
+      "77.475  77.750"
+     ],
+     [
+      "Canicatti",
+      "AG",
+      "77.700  78.000",
+      "(da verificare)"
+     ],
+     [
+      "Canosa di Puglia",
+      "BA",
+      "78.325"
+     ],
+     [
+      "Capo d’Orlando",
+      "ME",
+      "79.075"
+     ],
+     [
+      "Capri",
+      "NA",
+      "79.175"
+     ],
+     [
+      "Capua",
+      "CE",
+      "78.150"
+     ],
+     [
+      "Carpi",
+      "MO",
+      "77.500"
+     ],
+     [
+      "Carrara",
+      "MS",
+      "77.475  78.525"
+     ],
+     [
+      "Casa Possa",
+      "GO",
+      "78.050"
+     ],
+     [
+      "Casale Monferrato",
+      "AL",
+      "78.050"
+     ],
+     [
+      "Caserta",
+      "",
+      "78.175"
+     ],
+     [
+      "Cessino",
+      "FR",
+      "77.350"
+     ],
+     [
+      "Castel Gandolfo",
+      "RM",
+      "77.200",
+      "(da verificare)"
+     ],
+     [
+      "Castellammare del Golfo",
+      "TP",
+      "78.825"
+     ],
+     [
+      "Castellammare di Stabia",
+      "NA",
+      "79.175"
+     ],
+     [
+      "Castelvetrano",
+      "TP",
+      "78.825"
+     ],
+     [
+      "Castelvolturno",
+      "CE",
+      "78.150"
+     ],
+     [
+      "Catania",
+      "",
+      "77.975  78.175  79.150"
+     ],
+     [
+      "Catanzaro",
+      "",
+      "78.675"
+     ],
+     [
+      "Cava dei Tirreni",
+      "SA",
+      "78.950"
+     ],
+     [
+      "Cavalese",
+      "TN",
+      "77.600"
+     ],
+     [
+      "Cecina",
+      "LI",
+      "79.025"
+     ],
+     [
+      "Cefalù",
+      "PA",
+      "78.875"
+     ],
+     [
+      "Cerignola",
+      "FG",
+      "78.125"
+     ],
+     [
+      "Cervinara",
+      "AV",
+      "77.875"
+     ],
+     [
+      "Cesena",
+      "FO",
+      "77.850"
+     ],
+     [
+      "Chiavari",
+      "GE",
+      "79.100"
+     ],
+     [
+      "Chieti",
+      "",
+      "77.575  78.050"
+     ],
+     [
+      "Chioggia",
+      "VE",
+      "78.625"
+     ],
+     [
+      "Chiusi",
+      "SI",
+      "77.925"
+     ],
+     [
+      "Cinisello Balsamo",
+      "Ml",
+      "78.700"
+     ],
+     [
+      "Cisterna",
+      "LT",
+      "75.925"
+     ],
+     [
+      "Città di Castello",
+      "PG",
+      "77.875"
+     ],
+     [
+      "Cittanova",
+      "RC",
+      "78.700"
+     ],
+     [
+      "Cividale del Friuli",
+      "UD",
+      "78.075"
+     ],
+     [
+      "Civitanova Marche",
+      "MC",
+      "78.925"
+     ],
+     [
+      "Civitavecchia",
+      "RM",
+      "77.950  79.125",
+      "(entrambe da verificare)"
+     ],
+     [
+      "Colleferro",
+      "RM",
+      "77.950  79.125",
+      "(entrambe da verificare)"
+     ],
+     [
+      "Comiso",
+      "RG",
+      "79.100"
+     ],
+     [
+      "Como",
+      "",
+      "78.600"
+     ],
+     [
+      "Condofuri",
+      "RC",
+      "78.700"
+     ],
+     [
+      "Corato",
+      "BA",
+      "78.325"
+     ],
+     [
+      "Cortina d’Ampezzo",
+      "BL",
+      "77.550"
+     ],
+     [
+      "Courmayeur",
+      "AO",
+      "78.900"
+     ],
+     [
+      "Cremo",
+      "CR",
+      "77.875"
+     ],
+     [
+      "Cremona",
+      "",
+      "77.875"
+     ],
+     [
+      "Cuneo",
+      "",
+      "78.150"
+     ],
+     [
+      "Domodossola",
+      "VB",
+      "77.200"
+     ],
+     [
+      "Duino",
+      "TS",
+      "77.075  77.950"
+     ],
+     [
+      "Empoli",
+      "FI",
+      "77.550"
+     ],
+     [
+      "Enna",
+      "",
+      "79.000"
+     ],
+     [
+      "Fabriano",
+      "AN",
+      "78.575"
+     ],
+     [
+      "Faenza",
+      "RA",
+      "77.950"
+     ],
+     [
+      "Falconara",
+      "AN",
+      "77.150  78.575"
+     ],
+     [
+      "Fano",
+      "PS",
+      "78.550"
+     ],
+     [
+      "Farfa Sabina",
+      "RI",
+      "77.475  77.800",
+      "(da verificare)"
+     ],
+     [
+      "Fermo",
+      "AP",
+      "78.250"
+     ],
+     [
+      "Fernetti",
+      "TS",
+      "77.550"
+     ],
+     [
+      "Ferrara",
+      "",
+      "78.200"
+     ],
+     [
+      "Firenze",
+      "",
+      "77.550  78.500  78.525  79.175"
+     ],
+     [
+      "Fiuggi",
+      "FR",
+      "77.350"
+     ],
+     [
+      "Fiumicino",
+      "RM",
+      "77.950  79.125",
+      "(entrambe da verificare)"
+     ],
+     [
+      "Foggia",
+      "",
+      "78.125  79.050"
+     ],
+     [
+      "Foligno",
+      "PG",
+      "77875"
+     ],
+     [
+      "Fondi",
+      "LT",
+      "76.925",
+      "(da verificare)"
+     ],
+     [
+      "Forlì",
+      "",
+      "77.650"
+     ],
+     [
+      "Formia",
+      "LT",
+      "76.925",
+      "(da verificare)"
+     ],
+     [
+      "Forte dei Marmi",
+      "LU",
+      "78.650"
+     ],
+     [
+      "Frascati",
+      "RM",
+      "77.950  79.125",
+      "(entrambe da verificare)"
+     ],
+     [
+      "Frattamaggiore",
+      "NA",
+      "79.150"
+     ],
+     [
+      "Fregene",
+      "RM",
+      "77.950  79.125",
+      "(entrambe da verificare)"
+     ],
+     [
+      "Frosinone",
+      "77.350",
+      "(da verificare)"
+     ],
+     [
+      "Gaeta",
+      "LT",
+      "76.925",
+      "(da verificare)"
+     ],
+     [
+      "Galatina",
+      "LE",
+      "78.225"
+     ],
+     [
+      "Gallarate",
+      "VA",
+      "78.250"
+     ],
+     [
+      "Gallipoli",
+      "LE",
+      "78.225"
+     ],
+     [
+      "Gavoi",
+      "NU",
+      "78.700"
+     ],
+     [
+      "Gela",
+      "CL",
+      "78.950"
+     ],
+     [
+      "Genova",
+      "",
+      "77.275  77.675  77.975  78.550  78.600  78.650  78.825"
+     ],
+     [
+      "",
+      "",
+      "78.950  78.975  79.075  79.150"
+     ],
+     [
+      "Genzano di Roma",
+      "RM",
+      "77.950  79.125",
+      "(entrambe da verificare)"
+     ],
+     [
+      "Gioia Tauro",
+      "RC",
+      "78.700"
+     ],
+     [
+      "Giugliano in Campania",
+      "NA",
+      "79.150"
+     ],
+     [
+      "Giulianova",
+      "TE",
+      "77.650"
+     ],
+     [
+      "Gorizia",
+      "",
+      "78.050"
+     ],
+     [
+      "Gradisca d’Isonzo",
+      "GO",
+      "78.050"
+     ],
+     [
+      "Grado",
+      "GO",
+      "78.050"
+     ],
+     [
+      "Gravina di Puglia",
+      "BA",
+      "78.300"
+     ],
+     [
+      "Grosseto",
+      "",
+      "77.825"
+     ],
+     [
+      "Grottaglie",
+      "TA",
+      "78.025  78.275"
+     ],
+     [
+      "Imola",
+      "BO",
+      "79.075"
+     ],
+     [
+      "Imperia",
+      "",
+      "78.975"
+     ],
+     [
+      "Ischia",
+      "NA",
+      "79.150"
+     ],
+     [
+      "Isernia",
+      "",
+      "77.475  77.525"
+     ],
+     [
+      "Ivrea",
+      "TO",
+      "77.650"
+     ],
+     [
+      "Jesi",
+      "AN",
+      "78.575"
+     ],
+     [
+      "Jesolo Lido",
+      "VE",
+      "78.625"
+     ],
+     [
+      "La Spezia",
+      "",
+      "78.725  79.125"
+     ],
+     [
+      "Lamezia Terme",
+      "CZ",
+      "79.150"
+     ],
+     [
+      "Lanciano",
+      "CH",
+      "77.575  78.050"
+     ],
+     [
+      "Lanusei",
+      "NU",
+      "78.700"
+     ],
+     [
+      "Latina",
+      "",
+      "76.925"
+     ],
+     [
+      "Lauro di Nola",
+      "AV",
+      "77.875"
+     ],
+     [
+      "Lecce",
+      "",
+      "78.225  79.050"
+     ],
+     [
+      "Lecco",
+      "",
+      "78.575"
+     ],
+     [
+      "Legnano",
+      "Ml",
+      "78.700"
+     ],
+     [
+      "Lentini",
+      "SR",
+      "76.775"
+     ],
+     [
+      "Licata",
+      "AG",
+      "77.700"
+     ],
+     [
+      "Lignano Sabbiadoro",
+      "UD",
+      "78.050"
+     ],
+     [
+      "Livorno",
+      "",
+      "78.100  79.025"
+     ],
+     [
+      "Locri",
+      "RC",
+      "78.700"
+     ],
+     [
+      "Lodi",
+      "",
+      "78.750"
+     ],
+     [
+      "Lucca",
+      "77.225",
+      "(da verificare)"
+     ],
+     [
+      "Lucera",
+      "FG",
+      "78.125"
+     ],
+     [
+      "Lugo di Ravenna",
+      "RA",
+      "77.950"
+     ],
+     [
+      "Luino",
+      "VA",
+      "78.250"
+     ],
+     [
+      "L’Aquila",
+      "",
+      "77.700"
+     ],
+     [
+      "Macerata",
+      "",
+      "78.925 (altra frequenza Rx 73,000 Tx 73,800)"
+     ],
+     [
+      "Macomer",
+      "NU",
+      "78.700"
+     ],
+     [
+      "Maddaloni",
+      "CE",
+      "78.150"
+     ],
+     [
+      "Malles Venosta",
+      "BZ",
+      "77.400  77.750",
+      "(entrambe da verificare)"
+     ],
+     [
+      "Malpensa",
+      "VA",
+      "77.625  78.250"
+     ],
+     [
+      "Manduria",
+      "TA",
+      "78.025  78.275"
+     ],
+     [
+      "Manfredonia",
+      "FG",
+      "78.125"
+     ],
+     [
+      "Mantova",
+      "",
+      "76.850"
+     ],
+     [
+      "Marano",
+      "NA",
+      "79.150"
+     ],
+     [
+      "Marghera",
+      "VE",
+      "78.825  78.850  79.175"
+     ],
+     [
+      "Marina di Massa",
+      "MS",
+      "77.850"
+     ],
+     [
+      "Marino",
+      "RM",
+      "77.950  79.125",
+      "(entrambe da verificare)"
+     ],
+     [
+      "Marsala",
+      "TP",
+      "78.825"
+     ],
+     [
+      "Martina Franca",
+      "TA",
+      "78.025  78.275"
+     ],
+     [
+      "Massa",
+      "",
+      "77.475  78.525"
+     ],
+     [
+      "Matera",
+      "",
+      "77.625  77.850"
+     ],
+     [
+      "Marzara del Vallo",
+      "TP",
+      "78.825"
+     ],
+     [
+      "Melfi",
+      "PZ",
+      "77.100"
+     ],
+     [
+      "Merano",
+      "BZ",
+      "77.400  77.750",
+      "(entrambe da verificare)"
+     ],
+     [
+      "Mesagne",
+      "BR",
+      "78.050"
+     ],
+     [
+      "Messina",
+      "",
+      "77.725  78.675  78.725  79.150"
+     ],
+     [
+      "Mestre",
+      "VE",
+      "77.975  78.825  78.850"
+     ],
+     [
+      "Milano",
+      "",
+      "76.850  77.925  78.000  78.275 78.325  78.500 78.675 79.075"
+     ],
+     [
+      "Milazzo",
+      "ME",
+      "79.100"
+     ],
+     [
+      "Mirandola",
+      "MO",
+      "77.500"
+     ],
+     [
+      "Modena",
+      "",
+      "77.500"
+     ],
+     [
+      "Modica",
+      "RG",
+      "79.100"
+     ],
+     [
+      "Moena",
+      "TN",
+      "77.950  78.475"
+     ],
+     [
+      "Mola",
+      "BA",
+      "78.300"
+     ],
+     [
+      "Molfetta",
+      "BA",
+      "78.325"
+     ],
+     [
+      "Mondragone",
+      "CE",
+      "78.150"
+     ],
+     [
+      "Monfalcone",
+      "GO",
+      "78.050"
+     ],
+     [
+      "Monopoli",
+      "BA",
+      "78.300"
+     ],
+     [
+      "Montecatini Terme",
+      "PT",
+      "77.725"
+     ],
+     [
+      "Montevarchi",
+      "AR",
+      "77.900"
+     ],
+     [
+      "Monza",
+      "Ml",
+      "78.700"
+     ],
+     [
+      "Mortara",
+      "PV",
+      "77.975"
+     ],
+     [
+      "Muggia",
+      "TS",
+      "77.075"
+     ],
+     [
+      "Napoli",
+      "",
+      "76.725  77.350  77.650  77.700"
+     ],
+     [
+      "",
+      "",
+      "77.950  78.025  78.225  78.275"
+     ],
+     [
+      "Nardò",
+      "LE",
+      "78.225"
+     ],
+     [
+      "Niscemi",
+      "CL",
+      "78.950"
+     ],
+     [
+      "Nocera Inferiore",
+      "SA",
+      "78.950"
+     ],
+     [
+      "Nola",
+      "NA",
+      "79.175"
+     ],
+     [
+      "Noto",
+      "SR",
+      "76.775"
+     ],
+     [
+      "Novara",
+      "",
+      "78.300"
+     ],
+     [
+      "Novi Ligure",
+      "AL",
+      "77.200"
+     ],
+     [
+      "Nuoro",
+      "",
+      "78.625  78.950"
+     ],
+     [
+      "Olbia",
+      "SS",
+      "78.175 (altra frequenza Rx 73,000 Tx 73,800)"
+     ],
+     [
+      "Omegna",
+      "VB",
+      "78.975"
+     ],
+     [
+      "Opicina",
+      "TS",
+      "77.075  77.550"
+     ],
+     [
+      "Orgosolo",
+      "NU",
+      "78.700"
+     ],
+     [
+      "Orlo al Serio",
+      "BG",
+      "76.700"
+     ],
+     [
+      "Osimo",
+      "AN",
+      "78.575"
+     ],
+     [
+      "Ostia",
+      "RM",
+      "77.950  79.125",
+      "(entrambe da verificare)"
+     ],
+     [
+      "Ostuni",
+      "BR",
+      "78.050"
+     ],
+     [
+      "Ottana",
+      "NU",
+      "78.700"
+     ],
+     [
+      "Ozieri",
+      "SS",
+      "78.175"
+     ],
+     [
+      "Pachino",
+      "SR",
+      "76.775"
+     ],
+     [
+      "Padova",
+      "",
+      "77.450  77.850  77.975  78.800  78.850  78.900"
+     ],
+     [
+      "Palermo",
+      "",
+      "77.475  77.925  78.100  78.200  78.275  78.575"
+     ],
+     [
+      "Palma di Montichiaro",
+      "AG",
+      "77.700  78.000",
+      "(da verificare)"
+     ],
+     [
+      "Palmi",
+      "RC",
+      "78.700"
+     ],
+     [
+      "Parma",
+      "",
+      "77.650"
+     ],
+     [
+      "Patti",
+      "ME",
+      "79.100"
+     ],
+     [
+      "Pavia",
+      "",
+      "78.225"
+     ],
+     [
+      "Perugia",
+      "",
+      "79.150"
+     ],
+     [
+      "Pesaro",
+      "",
+      "78.550"
+     ],
+     [
+      "Pescara",
+      "",
+      "77.850"
+     ],
+     [
+      "Peschiera del Garda",
+      "VR",
+      "77.450"
+     ],
+     [
+      "Pescia",
+      "PT",
+      "77.725"
+     ],
+     [
+      "Pese",
+      "TS",
+      "77.550"
+     ],
+     [
+      "Piacenza",
+      "",
+      "77.400  77.450"
+     ],
+     [
+      "Piombino",
+      "LI",
+      "79.025"
+     ],
+     [
+      "Pisa",
+      "",
+      "78.500  78.525"
+     ],
+     [
+      "Pisticci",
+      "MT",
+      "77.850",
+      "(da verificare)"
+     ],
+     [
+      "Pistoia",
+      "",
+      "77.725"
+     ],
+     [
+      "Poggibonsi",
+      "SI",
+      "77. 925"
+     ],
+     [
+      "Polistena",
+      "RC",
+      "78.700"
+     ],
+     [
+      "Pompei",
+      "NA",
+      "79.175"
+     ],
+     [
+      "Ponte Chiasso",
+      "CO",
+      "77.125",
+      "(da verificare)"
+     ],
+     [
+      "Ponte Tresa .",
+      "VA",
+      "78.250"
+     ],
+     [
+      "Pontedera",
+      "PI",
+      "77.975"
+     ],
+     [
+      "Ponticelli",
+      "NA",
+      "79.150"
+     ],
+     [
+      "Pordenone",
+      "",
+      "77.725"
+     ],
+     [
+      "Portici",
+      "NA",
+      "79.175"
+     ],
+     [
+      "Porto Ceresio",
+      "VA",
+      "78.250"
+     ],
+     [
+      "Porto Cervo",
+      "SS",
+      "78.175"
+     ],
+     [
+      "Porto Empedocle",
+      "AG",
+      "77.700"
+     ],
+     [
+      "Porto Tolle",
+      "RO",
+      "77.675"
+     ],
+     [
+      "Porto Torres",
+      "SS",
+      "78.175"
+     ],
+     [
+      "Portoferraio",
+      "LI",
+      "79.025"
+     ],
+     [
+      "Portogruaro",
+      "VE",
+      "78.625"
+     ],
+     [
+      "Potenza",
+      "77.100",
+      "(da verificare)"
+     ],
+     [
+      "Pozzuoli",
+      "NA",
+      "79.150"
+     ],
+     [
+      "Prato",
+      "",
+      "77.600"
+     ],
+     [
+      "Pre",
+      "GE",
+      "79.075"
+     ],
+     [
+      "Priolo",
+      "SR",
+      "76.775"
+     ],
+     [
+      "Quinto al Mare",
+      "GE",
+      "79.075"
+     ],
+     [
+      "Ragusa",
+      "77. 925"
+     ],
+     [
+      "Rapallo",
+      "GE",
+      "78.950"
+     ],
+     [
+      "Ravenna",
+      "",
+      "77.950"
+     ],
+     [
+      "Reggio Calabria",
+      "",
+      "76.700  77.800  77.625  77.825  78.925"
+     ],
+     [
+      "Reggio Emilia",
+      "",
+      "77.450  78.050"
+     ],
+     [
+      "Riccione",
+      "FO",
+      "77.650"
+     ],
+     [
+      "Rieti",
+      "77.475  77.800",
+      "(entrambe da veriticare)"
+     ],
+     [
+      "Rimini",
+      "",
+      "77.650"
+     ],
+     [
+      "Riva del Garda",
+      "TN",
+      "78.475"
+     ],
+     [
+      "Rivoli",
+      "TO",
+      "78.775"
+     ],
+     [
+      "Roma",
+      "",
+      "76.825  77.150  77.200  77.400  77.950  78.075"
+     ],
+     [
+      "",
+      "",
+      "78.100  78.150  78.475  78.525  78.675  78.775"
+     ],
+     [
+      "",
+      "",
+      "78.850  78.900  79.000  79.125  79.175"
+     ],
+     [
+      "Ronchi dei Legionari",
+      "GO",
+      "78.050"
+     ],
+     [
+      "Rosignano Marittimo",
+      "LI",
+      "79.025"
+     ],
+     [
+      "Rosignano Solvay",
+      "LI",
+      "79.025"
+     ],
+     [
+      "Rovereto Trentino",
+      "TN",
+      "78.475"
+     ],
+     [
+      "Rovigo",
+      "",
+      "77.875"
+     ],
+     [
+      "Saint Vincent",
+      "AO",
+      "77.850  79.100"
+     ],
+     [
+      "Salerno",
+      "",
+      "78.075"
+     ],
+     [
+      "San Benedetto deI Tronto",
+      "AP",
+      "78.250"
+     ],
+     [
+      "San Candido",
+      "BZ",
+      "77.550"
+     ],
+     [
+      "San Giorgio a Cremano",
+      "NA",
+      "79.175"
+     ],
+     [
+      "San Giovanni in Persiceto",
+      "BO",
+      "79.075"
+     ],
+     [
+      "San Giuseppe Vesuviano",
+      "NA",
+      "79.175"
+     ],
+     [
+      "San Remo",
+      "IM",
+      "78.975"
+     ],
+     [
+      "San Sabba",
+      "TS",
+      "77.075"
+     ],
+     [
+      "San Sepolcro",
+      "AR",
+      "77.900"
+     ],
+     [
+      "San Severo",
+      "FG",
+      "78.125"
+     ],
+     [
+      "Santa Maria Capua a Vetere",
+      "CE",
+      "78.150"
+     ],
+     [
+      "Senta Teresa di Gallura",
+      "SS",
+      "78.175"
+     ],
+     [
+      "SantAgata di Militello",
+      "ME",
+      "79.100"
+     ],
+     [
+      "SantAndrea",
+      "GO",
+      "78.050"
+     ],
+     [
+      "SantAngelo dei Lombardi",
+      "AV",
+      "77.875"
+     ],
+     [
+      "Sarno",
+      "SA",
+      "78.950"
+     ],
+     [
+      "Sarzana",
+      "SP",
+      "78.800"
+     ],
+     [
+      "Sassari",
+      "",
+      "76.960  78.325"
+     ],
+     [
+      "Sassuolo",
+      "MO",
+      "77.500"
+     ],
+     [
+      "Savona",
+      "",
+      "77.775  76.025  78.550  78.875"
+     ],
+     [
+      "Sciacca",
+      "AG",
+      "77.700"
+     ],
+     [
+      "Senigallia",
+      "AN",
+      "77.550  78.575"
+     ],
+     [
+      "Serra San Bruno",
+      "CZ",
+      "79.150"
+     ],
+     [
+      "Sessa Aurunca",
+      "CE",
+      "78.150"
+     ],
+     [
+      "Sesto Fiorentino",
+      "FI",
+      "77.550"
+     ],
+     [
+      "Sesto San Giovanni",
+      "MI",
+      "78.700"
+     ],
+     [
+      "Sestri Levante",
+      "GE",
+      "78.550",
+      "(da verificare)"
+     ],
+     [
+      "Siderno Marina",
+      "RC",
+      "78.700"
+     ],
+     [
+      "Siena",
+      "",
+      "77.925  78.600 (da verificare)"
+     ],
+     [
+      "Siniscola",
+      "NU",
+      "78.700"
+     ],
+     [
+      "Siracusa",
+      "",
+      "79.025  79.150"
+     ],
+     [
+      "Sondrio",
+      "",
+      "78.500"
+     ],
+     [
+      "Sora",
+      "FR",
+      "77.350",
+      "(da verificare)"
+     ],
+     [
+      "Sorrento",
+      "NA",
+      "79.175"
+     ],
+     [
+      "Spoleto",
+      "PG",
+      "77.875"
+     ],
+     [
+      "Sulmona",
+      "AQ",
+      "77.575  77.700"
+     ],
+     [
+      "Taormina",
+      "ME",
+      "79.075"
+     ],
+     [
+      "Taranto",
+      "",
+      "78.025  78.275  78.725  79.050"
+     ],
+     [
+      "Tarvisio",
+      "UD",
+      "77.300  78.075",
+      "(entrambe da verificare)"
+     ],
+     [
+      "Taurianova",
+      "RC",
+      "77.775  77.800"
+     ],
+     [
+      "Tempio Pausania",
+      "SS",
+      "77.050"
+     ],
+     [
+      "Teramo",
+      "",
+      "77.575  77.650"
+     ],
+     [
+      "Termini merese",
+      "PA",
+      "78.875"
+     ],
+     [
+      "Termoli",
+      "CB",
+      "77.475  77.775"
+     ],
+     [
+      "Torni",
+      "",
+      "79.175"
+     ],
+     [
+      "Terracina",
+      "LT",
+      "76.925",
+      "(da verificare)"
+     ],
+     [
+      "Tirano",
+      "SO",
+      "78.500"
+     ],
+     [
+      "Tivoli",
+      "RM",
+      "77.950  79.125",
+      "(entrambe da verificare)"
+     ],
+     [
+      "Tolmezzo",
+      "UD",
+      "77.950  78.075",
+      "(entrambe da verificare)"
+     ],
+     [
+      "Torino",
+      "",
+      "76.700  77.325  77.925  77.975  78.125  78.475  78.575"
+     ],
+     [
+      "",
+      "",
+      "78.650  78.675  78.750  78.850  78.875  79.025  79.125"
+     ],
+     [
+      "Torre Annunziata",
+      "NA",
+      "79.175"
+     ],
+     [
+      "Torre del Greco",
+      "NA",
+      "79.175"
+     ],
+     [
+      "Tortolì",
+      "NU",
+      "78.700"
+     ],
+     [
+      "Tortorici",
+      "ME",
+      "79.075"
+     ],
+     [
+      "Traforo Monte Bianco",
+      "AO",
+      "78.850",
+      "(da verificare)"
+     ],
+     [
+      "Trani",
+      "BA",
+      "78.325"
+     ],
+     [
+      "Trapani",
+      "",
+      "78.275  78.825"
+     ],
+     [
+      "Trento",
+      "",
+      "78.475"
+     ],
+     [
+      "Treviglio",
+      "BG",
+      "78.250"
+     ],
+     [
+      "Treviso",
+      "",
+      "78.275"
+     ],
+     [
+      "Trieste",
+      "",
+      "77.075  77.100  77.550  77.600  77.625  77.650  77.850"
+     ],
+     [
+      "Udine",
+      "",
+      "77.525"
+     ],
+     [
+      "Urbino",
+      "PS",
+      "78.550"
+     ],
+     [
+      "Varese",
+      "",
+      "78.200"
+     ],
+     [
+      "Vasto",
+      "CH",
+      "77.575  78.050"
+     ],
+     [
+      "Velletri",
+      "RM",
+      "77.950  79.125",
+      "(entrambe da verificare)"
+     ],
+     [
+      "Venezia",
+      "",
+      "77.525  77.975  78.825  78.850  79.175"
+     ],
+     [
+      "Ventimiglia",
+      "IM",
+      "78.850  78.975"
+     ],
+     [
+      "Verbania-Pallanza",
+      "",
+      "78.975"
+     ],
+     [
+      "Vercelli",
+      "",
+      "77.850"
+     ],
+     [
+      "Verona",
+      "",
+      "77.825  77.975"
+     ],
+     [
+      "Viareggio",
+      "LU",
+      "78.625"
+     ],
+     [
+      "Vibo Valentia",
+      "",
+      "79.150"
+     ],
+     [
+      "Vicenza",
+      "",
+      "77.450  78.175"
+     ],
+     [
+      "Vigevano",
+      "PV",
+      "77.975"
+     ],
+     [
+      "Villa San Giovanni",
+      "RC",
+      "78.700  78.925"
+     ],
+     [
+      "Viterbo",
+      "",
+      "78.875"
+     ],
+     [
+      "Vittoria",
+      "RG",
+      "79.100"
+     ],
+     [
+      "Voghera",
+      "PV",
+      "77.975",
+      "(da verificare)"
+     ],
+     [
+      "Volterra",
+      "PI",
+      "77.975"
+     ]
+    ]
+   }
+  ]
+ }
+}

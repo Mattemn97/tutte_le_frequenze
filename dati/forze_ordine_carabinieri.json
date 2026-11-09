@@ -1,0 +1,2013 @@
+{
+ "sezione": "Pronto Intervento Arma dei Carabinieri",
+ "banda_principale": "VHF (77-79 MHz / 87-89 MHz)",
+ "ultimo_aggiornamento": "2026-06",
+ "dati_provinciali": [
+  {
+   "provincia": "Agrigento",
+   "localita": [
+    {
+     "nome": "Agrigento (Comando Provinciale / Centrale Operativa)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Bivona (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Cammarata (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Canicattì (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Licata (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Sciacca (Compagnia)",
+     "frequenze": [
+      "77.375",
+      "87.375"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Alessandria",
+   "localita": [
+    {
+     "nome": "Alessandria (Comando Provinciale)",
+     "frequenze": [
+      "77.400",
+      "87.400"
+     ]
+    },
+    {
+     "nome": "Acqui Terme (Compagnia)",
+     "frequenze": [
+      "77.400",
+      "87.400"
+     ]
+    },
+    {
+     "nome": "Casale Monferrato (Compagnia)",
+     "frequenze": [
+      "77.400",
+      "87.400"
+     ]
+    },
+    {
+     "nome": "Novi Ligure (Compagnia)",
+     "frequenze": [
+      "77.550",
+      "87.550"
+     ]
+    },
+    {
+     "nome": "Tortona (Compagnia)",
+     "frequenze": [
+      "77.550",
+      "87.550"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Ancona",
+   "localita": [
+    {
+     "nome": "Ancona (Comando Provinciale)",
+     "frequenze": [
+      "77.125",
+      "77.500",
+      "87.125"
+     ]
+    },
+    {
+     "nome": "Fabriano (Compagnia)",
+     "frequenze": [
+      "77.125",
+      "87.125"
+     ]
+    },
+    {
+     "nome": "Jesi (Compagnia)",
+     "frequenze": [
+      "77.125",
+      "87.125"
+     ]
+    },
+    {
+     "nome": "Osimo (Compagnia)",
+     "frequenze": [
+      "77.125",
+      "87.125"
+     ]
+    },
+    {
+     "nome": "Senigallia (Compagnia)",
+     "frequenze": [
+      "77.125",
+      "87.125"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Aosta",
+   "localita": [
+    {
+     "nome": "Aosta (Comando Gruppo)",
+     "frequenze": [
+      "77.300",
+      "77.625",
+      "87.300"
+     ]
+    },
+    {
+     "nome": "Chatillon (Compagnia)",
+     "frequenze": [
+      "77.300",
+      "87.300"
+     ]
+    },
+    {
+     "nome": "Saint Vincent (Stazione)",
+     "frequenze": [
+      "77.300",
+      "87.300"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Arezzo",
+   "localita": [
+    {
+     "nome": "Arezzo (Comando Provinciale)",
+     "frequenze": [
+      "77.450",
+      "87.450"
+     ]
+    },
+    {
+     "nome": "Bibbiena (Compagnia)",
+     "frequenze": [
+      "77.450",
+      "87.450"
+     ]
+    },
+    {
+     "nome": "Cortona (Compagnia)",
+     "frequenze": [
+      "77.450",
+      "87.450"
+     ]
+    },
+    {
+     "nome": "San Giovanni Valdarno (Compagnia)",
+     "frequenze": [
+      "77.450",
+      "87.450"
+     ]
+    },
+    {
+     "nome": "Sansepolcro (Compagnia)",
+     "frequenze": [
+      "77.450",
+      "87.450"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Ascoli Piceno",
+   "localita": [
+    {
+     "nome": "Ascoli Piceno (Comando Provinciale)",
+     "frequenze": [
+      "77.200",
+      "87.200"
+     ]
+    },
+    {
+     "nome": "Fermo (Compagnia)",
+     "frequenze": [
+      "77.200",
+      "87.200"
+     ]
+    },
+    {
+     "nome": "San Benedetto del Tronto (Compagnia)",
+     "frequenze": [
+      "77.200",
+      "77.650",
+      "87.200"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Asti",
+   "localita": [
+    {
+     "nome": "Asti (Comando Provinciale)",
+     "frequenze": [
+      "77.150",
+      "77.475",
+      "87.150"
+     ]
+    },
+    {
+     "nome": "Canelli (Compagnia)",
+     "frequenze": [
+      "77.150",
+      "87.150"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Avellino",
+   "localita": [
+    {
+     "nome": "Avellino (Comando Provinciale)",
+     "frequenze": [
+      "77.325",
+      "87.325"
+     ]
+    },
+    {
+     "nome": "Ariano Irpino (Compagnia)",
+     "frequenze": [
+      "77.325",
+      "87.325"
+     ]
+    },
+    {
+     "nome": "Baiano (Compagnia)",
+     "frequenze": [
+      "77.325",
+      "87.325"
+     ]
+    },
+    {
+     "nome": "Cervinara (Stazione)",
+     "frequenze": [
+      "77.325",
+      "87.325"
+     ]
+    },
+    {
+     "nome": "Mirabella Eclano (Compagnia)",
+     "frequenze": [
+      "77.325",
+      "87.325"
+     ]
+    },
+    {
+     "nome": "Montella (Compagnia)",
+     "frequenze": [
+      "77.325",
+      "87.325"
+     ]
+    },
+    {
+     "nome": "Sant'Angelo dei Lombardi (Compagnia)",
+     "frequenze": [
+      "77.325",
+      "87.325"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Bari",
+   "localita": [
+    {
+     "nome": "Bari (Comando Provinciale / CO San Paolo)",
+     "frequenze": [
+      "77.100",
+      "77.525",
+      "77.900",
+      "87.100"
+     ],
+     "note": "77.100 Ch 1 gazzelle Radiomobile"
+    },
+    {
+     "nome": "Altamura (Compagnia)",
+     "frequenze": [
+      "77.100",
+      "87.100"
+     ]
+    },
+    {
+     "nome": "Andria (Compagnia)",
+     "frequenze": [
+      "77.250",
+      "87.250"
+     ]
+    },
+    {
+     "nome": "Barletta (Compagnia)",
+     "frequenze": [
+      "77.250",
+      "87.250"
+     ]
+    },
+    {
+     "nome": "Gioia del Colle (Compagnia)",
+     "frequenze": [
+      "77.100",
+      "87.100"
+     ]
+    },
+    {
+     "nome": "Molfetta (Compagnia)",
+     "frequenze": [
+      "77.250",
+      "87.250"
+     ]
+    },
+    {
+     "nome": "Monopoli (Compagnia)",
+     "frequenze": [
+      "77.100",
+      "87.100"
+     ]
+    },
+    {
+     "nome": "Trani (Compagnia)",
+     "frequenze": [
+      "77.250",
+      "87.250"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Belluno",
+   "localita": [
+    {
+     "nome": "Belluno (Comando Provinciale)",
+     "frequenze": [
+      "77.525",
+      "87.525"
+     ]
+    },
+    {
+     "nome": "Cortina d'Ampezzo (Compagnia)",
+     "frequenze": [
+      "77.525",
+      "87.525"
+     ]
+    },
+    {
+     "nome": "Feltre (Compagnia)",
+     "frequenze": [
+      "77.525",
+      "87.525"
+     ]
+    },
+    {
+     "nome": "Pieve di Cadore (Compagnia)",
+     "frequenze": [
+      "77.525",
+      "87.525"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Benevento",
+   "localita": [
+    {
+     "nome": "Benevento (Comando Provinciale)",
+     "frequenze": [
+      "77.275",
+      "87.275"
+     ]
+    },
+    {
+     "nome": "Cerreto Sannita (Compagnia)",
+     "frequenze": [
+      "77.275",
+      "87.275"
+     ]
+    },
+    {
+     "nome": "Montesarchio (Compagnia)",
+     "frequenze": [
+      "77.275",
+      "87.275"
+     ]
+    },
+    {
+     "nome": "San Bartolomeo in Galdo (Compagnia)",
+     "frequenze": [
+      "77.275",
+      "87.275"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Bergamo",
+   "localita": [
+    {
+     "nome": "Bergamo (Comando Provinciale)",
+     "frequenze": [
+      "77.350",
+      "77.725",
+      "87.350"
+     ]
+    },
+    {
+     "nome": "Clusone (Compagnia)",
+     "frequenze": [
+      "77.350",
+      "87.350"
+     ]
+    },
+    {
+     "nome": "Treviglio (Compagnia)",
+     "frequenze": [
+      "77.350",
+      "87.350"
+     ]
+    },
+    {
+     "nome": "Zogno (Compagnia)",
+     "frequenze": [
+      "77.350",
+      "87.350"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Bologna",
+   "localita": [
+    {
+     "nome": "Bologna (Comando Provinciale / CO)",
+     "frequenze": [
+      "77.425",
+      "77.800",
+      "77.925",
+      "87.425"
+     ],
+     "note": "77.425 Canale Emergenza 112 / Radiomobile"
+    },
+    {
+     "nome": "Imola (Compagnia)",
+     "frequenze": [
+      "77.425",
+      "87.425"
+     ]
+    },
+    {
+     "nome": "Molinella (Compagnia)",
+     "frequenze": [
+      "77.425",
+      "87.425"
+     ]
+    },
+    {
+     "nome": "Porretta Terme (Compagnia)",
+     "frequenze": [
+      "77.425",
+      "87.425"
+     ]
+    },
+    {
+     "nome": "San Giovanni in Persiceto (Compagnia)",
+     "frequenze": [
+      "77.425",
+      "87.425"
+     ]
+    },
+    {
+     "nome": "Vergato (Compagnia)",
+     "frequenze": [
+      "77.425",
+      "87.425"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Bolzano",
+   "localita": [
+    {
+     "nome": "Bolzano (Comando Provinciale)",
+     "frequenze": [
+      "77.200",
+      "77.575",
+      "87.200"
+     ]
+    },
+    {
+     "nome": "Bressanone (Compagnia)",
+     "frequenze": [
+      "77.200",
+      "87.200"
+     ]
+    },
+    {
+     "nome": "Brunico (Compagnia)",
+     "frequenze": [
+      "77.200",
+      "87.200"
+     ]
+    },
+    {
+     "nome": "Egna (Compagnia)",
+     "frequenze": [
+      "77.200",
+      "87.200"
+     ]
+    },
+    {
+     "nome": "Merano (Compagnia)",
+     "frequenze": [
+      "77.200",
+      "87.200"
+     ]
+    },
+    {
+     "nome": "Ortisei (Compagnia)",
+     "frequenze": [
+      "77.200",
+      "87.200"
+     ]
+    },
+    {
+     "nome": "San Candido (Compagnia)",
+     "frequenze": [
+      "77.200",
+      "87.200"
+     ]
+    },
+    {
+     "nome": "Silandro (Compagnia)",
+     "frequenze": [
+      "77.200",
+      "87.200"
+     ]
+    },
+    {
+     "nome": "Vipiteno (Compagnia)",
+     "frequenze": [
+      "77.200",
+      "87.200"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Brescia",
+   "localita": [
+    {
+     "nome": "Brescia (Comando Provinciale)",
+     "frequenze": [
+      "77.150",
+      "77.500",
+      "87.150"
+     ]
+    },
+    {
+     "nome": "Breno (Compagnia)",
+     "frequenze": [
+      "77.150",
+      "87.150"
+     ]
+    },
+    {
+     "nome": "Chiari (Compagnia)",
+     "frequenze": [
+      "77.150",
+      "87.150"
+     ]
+    },
+    {
+     "nome": "Desenzano del Garda (Compagnia)",
+     "frequenze": [
+      "77.150",
+      "87.150"
+     ]
+    },
+    {
+     "nome": "Gardone Val Trompia (Compagnia)",
+     "frequenze": [
+      "77.150",
+      "87.150"
+     ]
+    },
+    {
+     "nome": "Salò (Compagnia)",
+     "frequenze": [
+      "77.150",
+      "87.150"
+     ]
+    },
+    {
+     "nome": "Verolanuova (Compagnia)",
+     "frequenze": [
+      "77.150",
+      "87.150"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Cagliari",
+   "localita": [
+    {
+     "nome": "Cagliari (Comando Provinciale)",
+     "frequenze": [
+      "77.400",
+      "77.725",
+      "87.400"
+     ]
+    },
+    {
+     "nome": "Carbonia (Compagnia)",
+     "frequenze": [
+      "77.400",
+      "87.400"
+     ]
+    },
+    {
+     "nome": "Iglesias (Compagnia)",
+     "frequenze": [
+      "77.400",
+      "87.400"
+     ]
+    },
+    {
+     "nome": "Isili (Compagnia)",
+     "frequenze": [
+      "77.400",
+      "87.400"
+     ]
+    },
+    {
+     "nome": "Sanluri (Compagnia)",
+     "frequenze": [
+      "77.400",
+      "87.400"
+     ]
+    },
+    {
+     "nome": "Quartu Sant'Elena (Compagnia)",
+     "frequenze": [
+      "77.400",
+      "87.400"
+     ]
+    },
+    {
+     "nome": "Villacidro (Compagnia)",
+     "frequenze": [
+      "77.400",
+      "87.400"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Catania",
+   "localita": [
+    {
+     "nome": "Catania (Comando Provinciale / CO)",
+     "frequenze": [
+      "77.225",
+      "77.625",
+      "77.950",
+      "87.225"
+     ],
+     "note": "77.225 Frequenza Operativa Gg.Gg."
+    },
+    {
+     "nome": "Acireale (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Caltagirone (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Giarre (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Gravina di Catania (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Palagonia (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Paternò (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Randazzo (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Como",
+   "localita": [
+    {
+     "nome": "Como (Comando Provinciale)",
+     "frequenze": [
+      "77.225",
+      "77.600",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Cantù (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Menaggio (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Cuneo",
+   "localita": [
+    {
+     "nome": "Cuneo (Comando Provinciale)",
+     "frequenze": [
+      "77.300",
+      "77.700",
+      "87.300"
+     ]
+    },
+    {
+     "nome": "Alba (Compagnia)",
+     "frequenze": [
+      "77.300",
+      "87.300"
+     ]
+    },
+    {
+     "nome": "Borgosessio (Stazione)",
+     "frequenze": [
+      "77.300",
+      "87.300"
+     ]
+    },
+    {
+     "nome": "Bra (Compagnia)",
+     "frequenze": [
+      "77.300",
+      "87.300"
+     ]
+    },
+    {
+     "nome": "Fossano (Compagnia)",
+     "frequenze": [
+      "77.300",
+      "87.300"
+     ]
+    },
+    {
+     "nome": "Mondovì (Compagnia)",
+     "frequenze": [
+      "77.300",
+      "87.300"
+     ]
+    },
+    {
+     "nome": "Saluzzo (Compagnia)",
+     "frequenze": [
+      "77.300",
+      "87.300"
+     ]
+    },
+    {
+     "nome": "Savigliano (Compagnia)",
+     "frequenze": [
+      "77.300",
+      "87.300"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Firenze",
+   "localita": [
+    {
+     "nome": "Firenze (Comando Provinciale / CO Borgo Pinti)",
+     "frequenze": [
+      "77.375",
+      "77.750",
+      "77.900",
+      "87.375"
+     ]
+    },
+    {
+     "nome": "Borgo San Lorenzo (Compagnia)",
+     "frequenze": [
+      "77.375",
+      "87.375"
+     ]
+    },
+    {
+     "nome": "Empoli (Compagnia)",
+     "frequenze": [
+      "77.375",
+      "87.375"
+     ]
+    },
+    {
+     "nome": "Figline Valdarno (Compagnia)",
+     "frequenze": [
+      "77.375",
+      "87.375"
+     ]
+    },
+    {
+     "nome": "Scandicci (Compagnia)",
+     "frequenze": [
+      "77.375",
+      "87.375"
+     ]
+    },
+    {
+     "nome": "Signa (Compagnia)",
+     "frequenze": [
+      "77.375",
+      "87.375"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Genova",
+   "localita": [
+    {
+     "nome": "Genova (Comando Provinciale / CO Forte San Giuliano)",
+     "frequenze": [
+      "77.175",
+      "77.550",
+      "77.875",
+      "87.175"
+     ],
+     "note": "77.175 Canale Principale Radiomobile"
+    },
+    {
+     "nome": "Chiavari (Compagnia)",
+     "frequenze": [
+      "77.175",
+      "87.175"
+     ]
+    },
+    {
+     "nome": "Sestri Levante (Compagnia)",
+     "frequenze": [
+      "77.175",
+      "87.175"
+     ]
+    },
+    {
+     "nome": "Arenzano (Compagnia)",
+     "frequenze": [
+      "77.175",
+      "87.175"
+     ]
+    },
+    {
+     "nome": "San Martino (Compagnia)",
+     "frequenze": [
+      "77.175",
+      "87.175"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Milano",
+   "localita": [
+    {
+     "nome": "Milano (Comando Provinciale / CO Via Moscova)",
+     "frequenze": [
+      "77.250",
+      "77.275",
+      "77.300",
+      "77.650",
+      "77.675",
+      "87.250"
+     ],
+     "note": "77.250 Ch 1 Radiomobile (Gazzelle città) / 77.300 Ch 2 Hinterland / 77.650 Link Servizi Speciali Operativi"
+    },
+    {
+     "nome": "Monza (Comando Gruppo / CO)",
+     "frequenze": [
+      "77.450",
+      "77.825",
+      "87.450"
+     ]
+    },
+    {
+     "nome": "Sesto San Giovanni (Compagnia)",
+     "frequenze": [
+      "77.300",
+      "87.300"
+     ]
+    },
+    {
+     "nome": "Legnano (Compagnia)",
+     "frequenze": [
+      "77.300",
+      "87.300"
+     ]
+    },
+    {
+     "nome": "San Donato Milanese (Compagnia)",
+     "frequenze": [
+      "77.300",
+      "87.300"
+     ]
+    },
+    {
+     "nome": "Corsico (Compagnia)",
+     "frequenze": [
+      "77.250",
+      "77.300",
+      "87.250"
+     ]
+    },
+    {
+     "nome": "Abbiategrasso (Compagnia)",
+     "frequenze": [
+      "77.300",
+      "87.300"
+     ]
+    },
+    {
+     "nome": "Desio (Compagnia)",
+     "frequenze": [
+      "77.450",
+      "87.450"
+     ]
+    },
+    {
+     "nome": "Seregno (Compagnia)",
+     "frequenze": [
+      "77.450",
+      "87.450"
+     ]
+    },
+    {
+     "nome": "Vimercate (Compagnia)",
+     "frequenze": [
+      "77.450",
+      "87.450"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Napoli",
+   "localita": [
+    {
+     "nome": "Napoli (Comando Provinciale / CO Caserma Pastrengo)",
+     "frequenze": [
+      "77.450",
+      "77.475",
+      "77.500",
+      "77.825",
+      "77.850",
+      "87.450"
+     ],
+     "note": "Struttura multi-canale flessibile per la gestione delle zone calde (città e cintura urbana)"
+    },
+    {
+     "nome": "Bagnoli (Compagnia)",
+     "frequenze": [
+      "77.450",
+      "87.450"
+     ]
+    },
+    {
+     "nome": "Castellammare di Stabia (Compagnia)",
+     "frequenze": [
+      "77.450",
+      "87.450"
+     ]
+    },
+    {
+     "nome": "Casoria (Compagnia)",
+     "frequenze": [
+      "77.475",
+      "87.475"
+     ]
+    },
+    {
+     "nome": "Giugliano in Campania (Compagnia)",
+     "frequenze": [
+      "77.475",
+      "87.475"
+     ]
+    },
+    {
+     "nome": "Ischia (Compagnia)",
+     "frequenze": [
+      "77.450",
+      "87.450"
+     ]
+    },
+    {
+     "nome": "Marano di Napoli (Compagnia)",
+     "frequenze": [
+      "77.475",
+      "87.475"
+     ]
+    },
+    {
+     "nome": "Nola (Compagnia)",
+     "frequenze": [
+      "77.500",
+      "87.500"
+     ]
+    },
+    {
+     "nome": "Pozzuoli (Compagnia)",
+     "frequenze": [
+      "77.450",
+      "87.450"
+     ]
+    },
+    {
+     "nome": "Torre del Greco (Compagnia)",
+     "frequenze": [
+      "77.450",
+      "87.450"
+     ]
+    },
+    {
+     "nome": "Torre Annunziata (Compagnia)",
+     "frequenze": [
+      "77.450",
+      "87.450"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Palermo",
+   "localita": [
+    {
+     "nome": "Palermo (Comando Provinciale / CO Piazza Verdi)",
+     "frequenze": [
+      "77.125",
+      "77.150",
+      "77.525",
+      "87.125"
+     ],
+     "note": "77.125 Ch 1 Radiomobile città"
+    },
+    {
+     "nome": "Bagheria (Compagnia)",
+     "frequenze": [
+      "77.125",
+      "87.125"
+     ]
+    },
+    {
+     "nome": "Carini (Compagnia)",
+     "frequenze": [
+      "77.150",
+      "87.150"
+     ]
+    },
+    {
+     "nome": "Cefalù (Compagnia)",
+     "frequenze": [
+      "77.125",
+      "87.125"
+     ]
+    },
+    {
+     "nome": "Corleone (Compagnia)",
+     "frequenze": [
+      "77.150",
+      "87.150"
+     ]
+    },
+    {
+     "nome": "Lercara Friddi (Compagnia)",
+     "frequenze": [
+      "77.150",
+      "87.150"
+     ]
+    },
+    {
+     "nome": "Monreale (Compagnia)",
+     "frequenze": [
+      "77.150",
+      "87.150"
+     ]
+    },
+    {
+     "nome": "Partinico (Compagnia)",
+     "frequenze": [
+      "77.150",
+      "87.150"
+     ]
+    },
+    {
+     "nome": "Petralia Sottana (Compagnia)",
+     "frequenze": [
+      "77.125",
+      "87.125"
+     ]
+    },
+    {
+     "nome": "Termini Imerese (Compagnia)",
+     "frequenze": [
+      "77.125",
+      "87.125"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Roma",
+   "localita": [
+    {
+     "nome": "Roma (Comando Provinciale / CO Piazza San Lorenzo in Lucina)",
+     "frequenze": [
+      "77.175",
+      "77.200",
+      "77.225",
+      "77.575",
+      "77.600",
+      "87.175"
+     ],
+     "note": "77.175 Ch 1 Radiomobile / 77.200 Ch 2 / 77.225 Ch 3 / 77.575 Canale coordinamento Interforze CO e servizi di scorta Quirinale/Vaticano"
+    },
+    {
+     "nome": "Roma Ostia (Compagnia)",
+     "frequenze": [
+      "77.175",
+      "87.175"
+     ]
+    },
+    {
+     "nome": "Roma Cassia (Compagnia)",
+     "frequenze": [
+      "77.200",
+      "87.200"
+     ]
+    },
+    {
+     "nome": "Roma Castel Gandolfo (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Anzio (Compagnia)",
+     "frequenze": [
+      "77.175",
+      "87.175"
+     ]
+    },
+    {
+     "nome": "Bracciano (Compagnia)",
+     "frequenze": [
+      "77.200",
+      "87.200"
+     ]
+    },
+    {
+     "nome": "Civitavecchia (Compagnia)",
+     "frequenze": [
+      "77.175",
+      "87.175"
+     ]
+    },
+    {
+     "nome": "Colleferro (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Frascati (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Monterotondo (Compagnia)",
+     "frequenze": [
+      "77.200",
+      "87.200"
+     ]
+    },
+    {
+     "nome": "Palestrina (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    },
+    {
+     "nome": "Subiaco (Compagnia)",
+     "frequenze": [
+      "77.200",
+      "87.200"
+     ]
+    },
+    {
+     "nome": "Tivoli (Compagnia)",
+     "frequenze": [
+      "77.200",
+      "87.200"
+     ]
+    },
+    {
+     "nome": "Velletri (Compagnia)",
+     "frequenze": [
+      "77.225",
+      "87.225"
+     ]
+    }
+   ]
+  },
+  {
+   "provincia": "Torino",
+   "localita": [
+    {
+     "nome": "Torino (Comando Provinciale / CO Via Valfrè)",
+     "frequenze": [
+      "77.325",
+      "77.350",
+      "77.725",
+      "87.325"
+     ],
+     "note": "77.325 Canale gazzelle città"
+    },
+    {
+     "nome": "Chieri (Compagnia)",
+     "frequenze": [
+      "77.325",
+      "87.325"
+     ]
+    },
+    {
+     "nome": "Chivasso (Compagnia)",
+     "frequenze": [
+      "77.325",
+      "87.325"
+     ]
+    },
+    {
+     "nome": "Ivrea (Compagnia)",
+     "frequenze": [
+      "77.350",
+      "87.350"
+     ]
+    },
+    {
+     "nome": "Moncalieri (Compagnia)",
+     "frequenze": [
+      "77.325",
+      "87.325"
+     ]
+    },
+    {
+     "nome": "Pinerolo (Compagnia)",
+     "frequenze": [
+      "77.325",
+      "87.325"
+     ]
+    },
+    {
+     "nome": "Rivoli (Compagnia)",
+     "frequenze": [
+      "77.325",
+      "87.325"
+     ]
+    },
+    {
+     "nome": "Susa (Compagnia)",
+     "frequenze": [
+      "77.350",
+      "77.725",
+      "87.350"
+     ],
+     "note": "Sottoponti dedicati per la Val di Susa (controllo cantieri TAV e ordine pubblico)"
+    },
+    {
+     "nome": "Venaria Reale (Compagnia)",
+     "frequenze": [
+      "77.325",
+      "87.325"
+     ]
+    }
+   ]
+  }
+ ],
+ "riserve_nazionali_e_speciali_cc": [
+  {
+   "codice": "Bravo 1",
+   "frequenza": "77.500",
+   "note": "Frequenza Nazionale Emergenza e coordinamento mobile Arma"
+  },
+  {
+   "codice": "Bravo 2",
+   "frequenza": "77.900",
+   "note": "Canale Travaso Operativo per macro-eventi e Ordine Pubblico (Battaglioni)"
+  },
+  {
+   "codice": "Bravo 3",
+   "frequenza": "78.025",
+   "note": "Frequenza Servizio Scorte e Reparto Mezzi Corazzati CC"
+  },
+  {
+   "codice": "UHF Dorsale 1",
+   "frequenza": "438.250",
+   "note": "Trassatellitare / Link UHF interconnessione comandi di corpo"
+  },
+  {
+   "codice": "UHF Dorsale 2",
+   "frequenza": "438.475",
+   "note": "Trassatellitare / Link UHF interconnessione comandi di corpo"
+  }
+ ],
+ "frequenze_coordinamento_interforze": {
+  "canale_112": "77.500",
+  "note": "La canalizzazione prevede una spaziatura rigidamente fissa di +10 MHz esatti per la ricezione dai ponti (es. se si trasmette a 77.125, il ponte risponde ed è ascoltabile a 87.125)."
+ },
+ "blocchi_pdf": {
+  "fonte": "Tutte le frequenze segrete V2.0, pag. 25–35",
+  "blocchi": [
+   {
+    "nota": "PRONTO INTERVENTO"
+   },
+   {
+    "nota": "Carabinieri"
+   },
+   {
+    "nota": "BANDA 424 - 427 MHz"
+   },
+   {
+    "nota": "PER OGNI PROVINCIA VENGONO RIPORTATE LE PRINCIPALI LOCALITA DIPENDENTI"
+   },
+   {
+    "colonne": [
+     "Provincie E Localita’",
+     "Frequenze",
+     "Località dipendenti"
+    ],
+    "righe": [
+     [
+      "Agrigento",
+      "425.550  425.925  426.100  426.225  426.425  426.000",
+      "Cammarata, Canicattì, Licata, Sciacca"
+     ],
+     [
+      "Alessandria",
+      "425.900  426.050  426.125  426.300  426.950  426.000",
+      "Acqui Terme, Casale Monferrato, Novi Ligure, Tortona"
+     ],
+     [
+      "Ancona",
+      "426.250  426.550  425.350  425.425  425.825  426.000",
+      "Fabriano, Jesi, Osimo, Senigallia"
+     ],
+     [
+      "Aosta",
+      "425.175  425.250  425.475  425.525  425.850  426.000",
+      "Chatilìon-Saint Vincent"
+     ],
+     [
+      "Arezzo",
+      "426.250  426.550  426.775  426.875  426.925  426.000",
+      "Bibbiena, Cortona, San Giovanni Valdarno, San Sepolcro"
+     ],
+     [
+      "Ascoli Piceno",
+      "425.025  425.100  425.200  425.500  425.625  426.000",
+      "Fermo, Montegiorgio, San Benedetto deI Tronto"
+     ],
+     [
+      "Asti",
+      "426.400  426.450  426.725  426.825  426.975  426.000",
+      "Canelli"
+     ],
+     [
+      "Avellino",
+      "425.375  425.650  425.700  425.775  426.150  426.000",
+      "Ariano Irpino, Baleno, Mirabella Eclano, Montella, Sant'Angelo dei Lombardi"
+     ],
+     [
+      "Bari",
+      "425.025  425.100  425.200  425.500  425.625  426.000",
+      "Altamura, Andria, Barletta, Molfetta, Monopoli, Trani"
+     ],
+     [
+      "Belluno",
+      "425.375  425.650  425.700  425.775  426.150  426.000",
+      "Cortina d'Ampezzo, Feltre"
+     ],
+     [
+      "Benevento",
+      "425.175  425.250  425.475  425.525  425.850  426.000",
+      "Cerreto Sannita, Montesarchio, San Bartolomeo in Galdo"
+     ],
+     [
+      "Bergamo",
+      "425.950  426.200  426.325  426.800  426.900  426.000",
+      "Clusone, Orio al Serio (aeroporto), Treviglio, Zogno"
+     ],
+     [
+      "Biella",
+      "425.400  426.000"
+     ],
+     [
+      "Bologna",
+      "425.550  425.925  426.100  426.225  426.425  426.000",
+      "Imola, Medicina, Molinella, San Giovanni in Persiceto, Vergato"
+     ],
+     [
+      "Bolzano",
+      "425.275  425.325  425.400  425.575  425.725  426.000",
+      "Bressanone, Brunico, Egna, Merano, Ortisei, San Candido, Silandro, Vipiteno"
+     ],
+     [
+      "Brescia",
+      "426.400  426.450  426.725  426.625  426.975  426.000",
+      "Breno, Chiari, Desenzano, Gardone Val Trompia, Ghedi (aeroporto), Salò, Verolanuova"
+     ],
+     [
+      "Brindisi",
+      "425.000  425.050  425.150  425.600  425.675  426.000",
+      "Francavilla Fontana, Fasano"
+     ],
+     [
+      "Cagliari",
+      "425.800  425.675  426.275  426.375  426.600  426.000",
+      "Carbonia, Dolianova, Iglesias, Quartu Sant'Elena, Sanluri, Villacidro"
+     ],
+     [
+      "Caltanissetta",
+      "426.250  426.550  426.775  426.875  426.925  426.000",
+      "Gela, Mussumeli"
+     ],
+     [
+      "Campobasso",
+      "426.350  426.625  426.675  426.750  426.650  426.000",
+      "Larino, Termali"
+     ],
+     [
+      "Caserta",
+      "425.550  425.925  426.100  426.225  426.425  426.000",
+      "Aversa, Capua, Maddaloni, Mondragone, Piedimonte Matese, Santa Maria Capua Vetere"
+     ],
+     [
+      "Catania",
+      "425.025  425.100  425.200  425.500  425.625  426.000",
+      "Acireale, Caltagirone, Giarre, Gravina di Catania, Paternò, Randazzo, Vizzini"
+     ],
+     [
+      "Catanzaro",
+      "426.350  426.625  426.675  426.750  426.850  426.000",
+      "Lamezia Terme, Serra San Bruno, Soverato, Tropea"
+     ],
+     [
+      "Chieti",
+      "425.950  426.200  426.325  426.600  426.900  426.000",
+      "Atessa, Lanciano, Ortona, Vasto"
+     ],
+     [
+      "Como",
+      "425.375  425.650  425.700  425.775  426.150  426.000",
+      "Cantù, Menaggio"
+     ],
+     [
+      "Cosenza",
+      "426.400  426.450  426.725  426.825  426.975  426.000",
+      "Castrovillari, Corigliano Calabro, Paola, Rogliano, Rossano, San Marco Argentano, Scalea"
+     ],
+     [
+      "Cremona",
+      "426.250  426.560  425.350  425.425  425.825  426.000",
+      "Casalmaggiore, Crema"
+     ],
+     [
+      "Crotone",
+      "425.175  425.250  425.475  425.525  425.850  426.000",
+      "Cirò, Marina"
+     ],
+     [
+      "Cuneo",
+      "425.375  425.650  425.700  425.775  426.150  426.000",
+      "Alba, Borgo San Dalmazzo, Brà, Fossano, Mondovi, Saluzzo, Savigliano"
+     ],
+     [
+      "Enna",
+      "425.175  425.250  425.475  425.525  425.850  426.000",
+      "Nicosia, Piazza Armerina"
+     ],
+     [
+      "Ferrara",
+      "425.275  425.325  425.400  425.575  425.725  426.000",
+      "Cento, Comacchio, Copparo, Portomaggiore"
+     ],
+     [
+      "Firenze",
+      "425.275  425.325  425.400  425.575  425.725  426.000",
+      "Borgo San Lorenzo, Empoli, Figline Valdarno, Pontassieve, Signa"
+     ],
+     [
+      "Foggia",
+      "425.275  425.325  425.400  425.575  425.725  426.000",
+      "Cerignola, Lucera, Manfredonia, San Severo, Vico deI Gargano"
+     ],
+     [
+      "Forlì",
+      "425.375  425.650  425.700  425.775  426.150  426.000",
+      "Cesena, Meldola"
+     ],
+     [
+      "Frosinone",
+      "425.000  425.050  425.150  425.500  425.675  426.000",
+      "Alatri, Anagni, Cassino, Pontecorvo, Sora"
+     ],
+     [
+      "Genova",
+      "426.350  426.625  426.675  426.750  426.850  426.000",
+      "Chiavari, Sampierdarena, Santa Margherita Ligure, Sestri Levante"
+     ],
+     [
+      "Gorizia",
+      "426.400  426.450  426.725  426.625  426.975  426.000",
+      "Cormons, Gradisca d'Isonzo, Monfalcone"
+     ],
+     [
+      "Grosseto",
+      "425.800  425.675  426.275  426.375  426.600  426.000",
+      "Arcidosso, Massa Marittima, Orbetallo, Pitigliano, Sorano"
+     ],
+     [
+      "Imperia",
+      "425.950  426.200  426.325  426.600  426.900  426.000",
+      "Bordighera, San Remo, Ventimiglia"
+     ],
+     [
+      "Isernia",
+      "426.400  426.450  426.725  426.825  426.975  426.000",
+      "Agnone"
+     ],
+     [
+      "Le Spezia",
+      "426.250  426.550  425.350  425.425  425.825  426.000",
+      "Sarzana"
+     ],
+     [
+      "Latina",
+      "425.025  425.100  425.200  425.500  425.625  426.000",
+      "Aprilia, Formia, Gaeta, Terracina"
+     ],
+     [
+      "Lecce",
+      "425.450  425.750  426.175  426.575  426.650  426.000",
+      "Casarano, Gallipoli, Maglie, Tricase"
+     ],
+     [
+      "Lecco",
+      "425.175  425.250  425.475  425.525  425.850  426.000"
+     ],
+     [
+      "Livorno",
+      "425.550  425.925  426.100  426.225  426.425  426.000",
+      "Cecina, Piombino, Portoferraio"
+     ],
+     [
+      "Lodi",
+      "425.025  425.100  425.200  425.500  425.625  426.000",
+      "Codogno"
+     ],
+     [
+      "Lucca",
+      "425.025  425.100  425.200  425.500  425.625  426.000",
+      "Castelnuovo di Garfagnana, Viareggio"
+     ],
+     [
+      "L’Aquila",
+      "425.900  426.050  426.125  426.300  426.950  426.000",
+      "Avezzano, Castei di Sangro, Sulmona, Tagliacozzo"
+     ],
+     [
+      "Macerata",
+      "425.000  425.050  425.150  425.600  425.675  426.000",
+      "Camerino, Civitanova Marche, Tolentino"
+     ],
+     [
+      "Mantova",
+      "426.350  426.625  426.675  426.750  426.850  426.000",
+      "Gonzaga, Viadana"
+     ],
+     [
+      "Massa",
+      "425.000  425.050  425.150  425.600  425.675  426.000",
+      "Carrara, Pontremoli"
+     ],
+     [
+      "Matera",
+      "425.950  426.200  426.325  426.800  426.900  426.000",
+      "Pisticci, Policoro, Tricarico"
+     ],
+     [
+      "Messina",
+      "425.000  425.050  425.150  425.600  425.675  426.000",
+      "Messina Sud (loc. Tremestieri), Barcellona Pozzo di Gotto, Milazzo, Mistretta, Patti, Sant'Agata di Militello, Santo Stefano di Camastra, Taormina"
+     ],
+     [
+      "Milano",
+      "425.450  425.750  425.075  425.125  425.225  426.000"
+     ],
+     [
+      "Milano (aeroporto)",
+      "426.175  426.575  426.650"
+     ],
+     [
+      "Abbiategrasso",
+      "425.300  425.975  426.475  426.525  426.700  426.000",
+      "Corsico, San Donato Milanese"
+     ],
+     [
+      "Monza",
+      "425.000  425.050  425.150  425.600  425.675  426.000",
+      "Cassano d’Adda, Desio, Legnano, Rho, Sesto San Giovanni, Seregno"
+     ],
+     [
+      "Modena",
+      "424.575  424.675  424.725  424.850  425.300  426.000",
+      "Carpi, Pavullo nel Frignano, Sassuolo"
+     ],
+     [
+      "Napoli",
+      "426.250  426.550  425.350  425.425  425.625  426.000"
+     ],
+     [
+      "Ischia",
+      "426.775  426.875  426.925"
+     ],
+     [
+      "Pozzuoli",
+      "425.300  425.975  426.475  426.525  426.700  426.000"
+     ],
+     [
+      "Pomigliano d'Arco",
+      "425.800  425.875  426.275  426.375  426.600  426.000",
+      "Casoria, Castellammare di Stabia, Giugliano in Campania, Noia, Sorrento, Torre Annunziata, Torre del Greco"
+     ],
+     [
+      "Novara",
+      "426.350  426.625  426.675  426.850  426.000",
+      "Arona, Domodossola"
+     ],
+     [
+      "Nuoro",
+      "426.400  426.450  426.725  426.825  426.975  426.000",
+      "Bitti, Is ili, lerzu, Lanusei, Macomer, Ottone, Siniscola, Sorgono"
+     ],
+     [
+      "Oristano",
+      "425.550  425.925  426.100  426.225  426.425  426.000",
+      "Ghilarza, Mogoro"
+     ],
+     [
+      "Padova",
+      "425.800  425.875  426.275  426.375  426.600  426.000",
+      "Abano Terme, Cittadella, Este, Piove di Sacco"
+     ],
+     [
+      "Palermo",
+      "425.450  425.750  425.075  425.125  425.225  426.000"
+     ],
+     [
+      "Begheria",
+      "426.175  426.575  426.650"
+     ],
+     [
+      "Carini",
+      "425.300  425.975  426.475  426.525  426.700  426.000",
+      "Cefalù, Corleone, Lercara Friddi, Misilmeri, Monreale, Partinico, Petralia Sottana, Termini Imerese"
+     ],
+     [
+      "Parma",
+      "424.500  424.650  424.700  424.775  424.875  426.000",
+      "Borgo Val di Taro, Fidenza, Salsomaggiore"
+     ],
+     [
+      "Pavia",
+      "425.800  425.875  426.275  426.375  428.600  426.000",
+      "Stradella, Vigevano, Voghera"
+     ],
+     [
+      "Perugia",
+      "425.950  426.200  426.325  426.800  426.900  426.000",
+      "Assisi, Città delle Pieve, Città di Castello, Foligno, Gubbio, Norcia, Spoleto, Todi"
+     ],
+     [
+      "Pesaro",
+      "425.450  425.750  425.075  425.125  425.225  426.000",
+      "Fano, Novafeltria"
+     ],
+     [
+      "Pescara",
+      "425.800  425.875  426.275  426.375  426.600  426.000",
+      "Penne, Popoli"
+     ],
+     [
+      "Piacenza",
+      "424.550  424.625  424.825  424.925  424.975  426.000",
+      "Bobbio Piacentino, Fiorenzuola dAida"
+     ],
+     [
+      "Pisa",
+      "425.375  425.650  425.700  425.775  426.150  426.000",
+      "Pontedera, San Miniato, Volterra"
+     ],
+     [
+      "Pistoia",
+      "425.175  425.250  425.475  425.525  425.650  426.000",
+      "Montecatini Terme, San Marcello Pistoiese"
+     ],
+     [
+      "Pordenone",
+      "425.900  426.050  426.125  426.300  426.950  426.000",
+      "Sacile"
+     ],
+     [
+      "Potenza",
+      "425.450  425.750  425.075  425.125  425.225  426.000",
+      "Acerenza, Lagonegro, Melfi, Senise, Venosa, Viggiano"
+     ],
+     [
+      "Prato",
+      "425.950  426.200  426.325  426.800  426.900  426.000"
+     ],
+     [
+      "Ragusa",
+      "425.375  425.650  425.700  425.775  426.150  426.000",
+      "Modica, Vittoria"
+     ],
+     [
+      "Ravenna",
+      "425.175  425.250  425.475  425.525  425.850  426.000",
+      "Cervia, Faenza, Lugo"
+     ],
+     [
+      "Reggio Calabria",
+      "425.275  425.325  425.400  425.575  425.725  426.000",
+      "Bianco, Gioia Tauro, Locri, Melito di Porto Salvo, Palmi, Roccella Ionica, Taurianova, Villa San Giovanni"
+     ],
+     [
+      "Reggio Emilia",
+      "424.525  424.600  424.800  424.900  424.950  426.000",
+      "Castelnuovo nè Monti, Guastalla"
+     ],
+     [
+      "Rieti",
+      "425.175  425.250  425.475  425.525  425.850  426.000",
+      "Cittaducale, Poggio Mirteto"
+     ],
+     [
+      "Rimini",
+      "425.025  425.100  425.200  425.500  425.625  426.000",
+      "Riccione"
+     ],
+     [
+      "Roma",
+      "425.450  425.750  425.075  425.125  425.225  426.000"
+     ],
+     [
+      "Roma (aeroporto Ciampino)",
+      "426.175  426.575  426.650"
+     ],
+     [
+      "Roma (aeroporto Fiumicino)",
+      "425.300  425.975  426.475  426.525  426.700  426.000"
+     ],
+     [
+      "Roma Cassia",
+      "425.275  425.325  425.400  425.575  425.725  426.000",
+      "Bracciano, Civitavecchia, Monterotondo, Subiaco, Tivoli"
+     ],
+     [
+      "Frascati",
+      "425.375  425.650  425.700  425.775  426.150  426.000",
+      "Anzio, Castel Gandolfo, Colleferro, Ostia, Palestrina, Pomezia, Velletri"
+     ],
+     [
+      "Rovigo",
+      "426.250  426.550  426.775  426.675  426.925  426.000",
+      "Adria, Castelmassa"
+     ],
+     [
+      "Salerno",
+      "425.900  426.050  426.125  426.300  426.950  426.000",
+      "Agropoli, Amalfi, Battipaglia, Eboli, Nocera Inferiore, Sala Consilina, Sapri, Vallo della Lucania"
+     ],
+     [
+      "Sassari",
+      "426.250  426.550  426.775  426.875  426.925  426.000",
+      "Alghero, Bono, Bonarva, Valledoria, Olbia, Ozieri, Porto Torres, Tempio Pausania"
+     ],
+     [
+      "Savona",
+      "425.450  425.750  426.175  426.575  426.650  426.000",
+      "Alassio, Albenga, Cairo Montenotte"
+     ],
+     [
+      "Siena",
+      "425.900  426.050  426.125  426.300  426.950  426.000",
+      "Abbadia San Salvatore, Montalcino, Montepulciano, Poggibonsi"
+     ],
+     [
+      "Siracusa",
+      "425.800  425.875  426.275  426.375  426.600  426.000",
+      "Augusta, Avola, Lentini, Noto"
+     ],
+     [
+      "Sondrio",
+      "426.250  426.550  426.775  426.675  426.925  426.000",
+      "Chiavenna, Tirano"
+     ],
+     [
+      "Taranto",
+      "426.250  426.550  426.775  426.875  426.925  426.000",
+      "Castellaneta, Manduria, Martina Franca"
+     ],
+     [
+      "Teramo",
+      "425.550  425.925  425.100  426.225  426.425  426.000",
+      "Giulianova, Nereto"
+     ],
+     [
+      "Terni",
+      "426.400  426.450  426.725  426.825  426.975  426.000",
+      "Amelia, Orvieto"
+     ],
+     [
+      "Torino",
+      "426.250  426.550  425.350  425.425  425.825  426.000"
+     ],
+     [
+      "Chieri",
+      "426.775  426.875  426.925"
+     ],
+     [
+      "Chivasso",
+      "425.300  425.975  426.475  426.525  426.700  426.000",
+      "Ivrea, Moncalieri, Pinerolo, Rivoli, Susa, Venaria Reale"
+     ],
+     [
+      "Trapani",
+      "425.950  426.200  426.325  426.800  426.900  426.000",
+      "Alcamo, Castelvetrano, Marsala, Mazara del Vallo"
+     ],
+     [
+      "Trento",
+      "426.350  426.625  426.675  426.750  426.850  426.000",
+      "Borgo Valsugana, Cavalese, Cles, Riva del Garda, Rovereto Trentino"
+     ],
+     [
+      "Treviso",
+      "425.025  425.100  425.200  425.500  425.625  426.000",
+      "Castelfranco Veneto, Conegliano Veneto, Vittorio Veneto"
+     ],
+     [
+      "Trieste",
+      "426.350  426.625  426.675  426.750  426.850  426.000",
+      "Aurisina, Muggia"
+     ],
+     [
+      "Udine",
+      "425.950  426.200  426.325  426.800  426.900  426.000",
+      "Cividale del Friuli, Palmanova, Tarvisio, Tolmezzo"
+     ],
+     [
+      "Varese",
+      "425.550  425.925  426.100  428.225  426.425  426.000",
+      "Busto Arsizio, Gallarate, Luino, Saronno"
+     ],
+     [
+      "Venezia",
+      "425.450  425.150  426.175  428.575  426.650  426.000",
+      "Chioggia, Mestre, Portogruaro"
+     ],
+     [
+      "Verbania",
+      "426.750  426.000"
+     ],
+     [
+      "Vercelli",
+      "425.275  425.325  425.575  425.725  426.000",
+      "Varallo Sesia"
+     ],
+     [
+      "Verona",
+      "425.900  426.050  426.125  426.300  426.950  426.000",
+      "Caprino Veronese, Legnago, San Bonifacio, Villafranca di Verona"
+     ],
+     [
+      "Vibo Valentia",
+      "425.550  425.925  426.100  426.225  426.425  426.000"
+     ],
+     [
+      "Vicenza",
+      "425.000  425.050  425.150  425.600  425.675  426.000",
+      "Bassano del Grappa, Schio, Thiene, Valdagno"
+     ],
+     [
+      "Viterbo",
+      "426.350  426.625  428.675  426.750  426.850  428.000",
+      "Civita Castellana, Montef iascone, Ronciglione, Tuscania"
+     ],
+     [
+      "Sono inoltre frequenze nazionali comuni a tutte le provincie:",
+      "426.000  426.025  426.075  426.475"
+     ],
+     [
+      "FREQUENZE PER IMIPIEGO AERONAUTICO",
+      ":",
+      "Civile Vhf",
+      "121.350",
+      "Militare Uhf",
+      "292.900"
+     ],
+     {
+      "g": "ALTRI SERVIZI SONO OPERATI VI ENTRO I LIMITI DI BANDA :"
+     },
+     [
+      "154.600 - 155.975  170.000 - 171.975",
+      "173.000- 174.000 MHz"
+     ]
+    ]
+   }
+  ]
+ }
+}

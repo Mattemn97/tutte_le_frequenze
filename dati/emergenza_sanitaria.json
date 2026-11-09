@@ -1,0 +1,568 @@
+{
+ "sezione": "Emergenza sanitaria 118 e guardie mediche",
+ "fonte": "Tutte le frequenze segrete V2.0, pag. 83–85",
+ "blocchi": [
+  {
+   "nota": "EMERGENZA SANITARIA"
+  },
+  {
+   "nota": "BANDE 156 – 175 460 - 470 MHz (servizi compresi nelle gamme civili VHF-UHF)"
+  },
+  {
+   "nota": "LINK MASTER UHF - LIMITI DI BANDA 436 - 440 445 –449 MHz"
+  },
+  {
+   "nota": "(compresi nella gamma civile UHF)"
+  },
+  {
+   "nota": "L’ASSEGNAZIONE E UTILIZZO DELLE FREQUENZE DI LAVORO AWIENE A LIVELLO"
+  },
+  {
+   "nota": "PROVINCIALE"
+  },
+  {
+   "nota": "PER OGNI BACINO DI UTENZA"
+  },
+  {
+   "colonne": [
+    "Localita",
+    "Ente",
+    "Frequenze"
+   ],
+   "righe": [
+    [
+     "Abano Terme (PD)",
+     "Guardia Medica",
+     "173.550"
+    ],
+    [
+     "Adria (RO)",
+     "Delta Soccorso",
+     "173.550"
+    ],
+    [
+     "Alessandria",
+     "Emergenza Sanitaria 118 (freq. CRI)",
+     "173.275"
+    ],
+    [
+     "Ancona",
+     "Marche Soccorso",
+     "173.225"
+    ],
+    [
+     "Aosta",
+     "Emergenza Sanitaria 118 (da verificare)",
+     "181.575"
+    ],
+    [
+     "Assisi (PG)",
+     "Pronto Soccorso (Ospedale)",
+     "160.250"
+    ],
+    [
+     "Asti",
+     "Emergenze Sanitaria 118 (freq. CRI)",
+     "173.275"
+    ],
+    [
+     "Avigliana (TO)",
+     "Centro Soccorso",
+     "162.387,5"
+    ],
+    [
+     "Badalucco (IM)",
+     "Guardia Medica",
+     "173.525"
+    ],
+    [
+     "Belluno",
+     "Emergenza Sanitaria 116",
+     "446.850"
+    ],
+    [
+     "Bergamo",
+     "Emergenza Sanitaria 118 (freq. CRI)",
+     "173.300"
+    ],
+    [
+     "Biella",
+     "Emergenza Sanitaria 118",
+     "162.037,5"
+    ],
+    [
+     "Biella",
+     "Guardia Medica",
+     "162.050"
+    ],
+    [
+     "Bologna",
+     "Bologna Soccorso 118",
+     "160.650  165.650  165.725"
+    ],
+    [
+     "Bordighera (IM)",
+     "Pronto Soccorso",
+     "173.125"
+    ],
+    [
+     "Borgo San Dalmazzo (CN)",
+     "Centro Unico Soccorso",
+     "160.675"
+    ],
+    [
+     "Bosco Marengo (AL)",
+     "Guardia Medica",
+     "173.400"
+    ],
+    [
+     "Brescia",
+     "Emergenza Sanitaria 118 (freq. CRI)",
+     "171.975"
+    ],
+    [
+     "Cagliari",
+     "Guardia Medica",
+     "162.225"
+    ],
+    [
+     "Caluso (TO)",
+     "Guardia Medica",
+     "162.150"
+    ],
+    [
+     "Castiglione del Lago (PG)",
+     "Pronto Soccorso (Ospedale)",
+     "161.700"
+    ],
+    [
+     "Catania",
+     "Emergenza Sanitaria 118",
+     "172.000"
+    ],
+    [
+     "Cesena (FO)",
+     "Cesena Soccorso 118",
+     "165.775"
+    ],
+    [
+     "Como",
+     "Emergenza Sanitaria 118",
+     "172.775<>173.600 (parla-"
+    ],
+    [
+     "ascolta)"
+    ],
+    [
+     "Cremona",
+     "Emergenza Sanitaria 118",
+     "173.095"
+    ],
+    [
+     "Cuneo",
+     "Emergenza Sanitaria 118 (freq. CRI)",
+     "173.325"
+    ],
+    [
+     "Desio (MI)",
+     "Guardia Medica",
+     "460.012.5"
+    ],
+    [
+     "Ferrara",
+     "Ferrara Soccorso 118",
+     "165.675"
+    ],
+    [
+     "Firenze",
+     "Firenze Soccorso 118",
+     "173.175"
+    ],
+    [
+     "Firenze",
+     "non disponibile",
+     "171.825  171.850"
+    ],
+    [
+     "Foligno (PG)",
+     "Pronto Soccorso (Ospedale)",
+     "163.550"
+    ],
+    [
+     "Forlì",
+     "Forlì Soccorso 118",
+     "165.650"
+    ],
+    [
+     "Genova",
+     "Genova Soccorso - 118",
+     "173.125  173.500  173.550"
+    ],
+    [
+     "Genova",
+     "Guardie Medica",
+     "173.550"
+    ],
+    [
+     "Gorizia",
+     "Emergenza Sanitaria 118",
+     "173.125  173.512,5 (verificare)"
+    ],
+    [
+     "Imperia",
+     "Imperia Soccorso 118",
+     "173.125"
+    ],
+    [
+     "Imperia",
+     "Pronto Soccorso",
+     "173.125"
+    ],
+    [
+     "Le Spezia",
+     "Le Spezia Soccorso 118",
+     "173.525"
+    ],
+    [
+     "Le Spezia",
+     "Guardia Medica",
+     "173.525"
+    ],
+    [
+     "Lecco",
+     "Emergenza Sanitarie 118",
+     "172.775<>173.600 (parla-"
+    ],
+    [
+     "ascolta)"
+    ],
+    [
+     "Livorno",
+     "Emergenza Sanitaria 118",
+     "173.775"
+    ],
+    [
+     "Locate Triulzi (MI)",
+     "Pronto Intervento Locatese",
+     "442.100"
+    ],
+    [
+     "Lodi",
+     "Emergenza Sanitaria 116",
+     "460.137,5"
+    ],
+    [
+     "Lodi (provincia)",
+     "Guardia Medica",
+     "160.575"
+    ],
+    [
+     "Lucca",
+     "Emergenza Sanitaria 118 (da verificare)",
+     "171.850"
+    ],
+    [
+     "Macerata",
+     "Macerata Soccorso 118",
+     "163.275"
+    ],
+    [
+     "Mantova",
+     "Emergenza Sanitaria 118",
+     "165.300"
+    ],
+    [
+     "Mestre (VE)",
+     "Emergenza Sanitaria 118",
+     "172.787,5"
+    ],
+    [
+     "Modena",
+     "Modena Soccorso 118",
+     "166.900"
+    ],
+    [
+     "Mondovì (CN)",
+     "non disponibile",
+     "162.375"
+    ],
+    [
+     "Monza (MI)",
+     "Emergenza Sanitaria 118",
+     "460.012,5"
+    ],
+    [
+     "Monza (MI)",
+     "Guardia Medica",
+     "460.012,5"
+    ],
+    [
+     "Napoli",
+     "Taxi Sanitario",
+     "173.700"
+    ],
+    [
+     "Novara",
+     "Emergenza Sanitaria 118 (freq. CRI)",
+     "171.975"
+    ],
+    [
+     "Omegna (VB)",
+     "Guardia Medica",
+     "173.225"
+    ],
+    [
+     "Padova",
+     "Emergenza Sanitaria 118",
+     "173.10625"
+    ],
+    [
+     "Padova",
+     "Guardia Medica",
+     "165.775"
+    ],
+    [
+     "Padova",
+     "non disponibile",
+     "161.650"
+    ],
+    [
+     "Palermo",
+     "Taxi Sanitario",
+     "172.775"
+    ],
+    [
+     "Parma",
+     "Parma Soccorso 118",
+     "165.725  172.800"
+    ],
+    [
+     "Pavia",
+     "Emergenza Sanitaria 118 (freq. CRI)",
+     "173.325"
+    ],
+    [
+     "Perugia",
+     "Pronto Soccorso (Ospedale)",
+     "161.600"
+    ],
+    [
+     "Piacenza",
+     "Piacenza Soccorso 118",
+     "165.650  173.550 (nuova freq.)"
+    ],
+    [
+     "Pisa",
+     "Emergenza Sanitaria 118 (da verificare)",
+     "171 .800"
+    ],
+    [
+     "Pordenone",
+     "Emergenza Sanitaria 118",
+     "172.7687,5",
+     "173.7187,5"
+    ],
+    [
+     "Rapallo (GE)",
+     "Guardia Medica",
+     "173.500"
+    ],
+    [
+     "Ravenna",
+     "Ravenna Soccorso 118",
+     "165.626"
+    ],
+    [
+     "Reggio Emilia",
+     "Reggio Emilia Soccorso 118",
+     "165.625  173.250 (freq. CRI)"
+    ],
+    [
+     "Rho (MI)",
+     "Rho Soccorso",
+     "173.175"
+    ],
+    [
+     "Rho (MI)",
+     "Guardia Medica",
+     "165.025"
+    ],
+    [
+     "Rimini",
+     "Rimini Soccorso 118",
+     "165.775"
+    ],
+    [
+     "Rovigo",
+     "Emergenza Sanitaria 118",
+     "173.550"
+    ],
+    [
+     "Sanremo (IM)",
+     "San Remo Soccorso 118",
+     "173.525"
+    ],
+    [
+     "Sarzana (SP)",
+     "Guardia Medica",
+     "173.525"
+    ],
+    [
+     "Sassello (SV)",
+     "Pronto Soccorso",
+     "173.100"
+    ],
+    [
+     "Savigliano (CN)",
+     "non disponibile",
+     "162.150"
+    ],
+    [
+     "Savona",
+     "Savona Soccorso 118",
+     "173.100"
+    ],
+    [
+     "Savona",
+     "Guardia Medica",
+     "173.100"
+    ],
+    [
+     "Seregno",
+     "Seregno Soccorso",
+     "460.0l2,5"
+    ],
+    [
+     "Sesto San Giovanni (MI)",
+     "Guardie Medica",
+     "161.675"
+    ],
+    [
+     "Siena",
+     "Siena Soccorso 118",
+     "161.025"
+    ],
+    [
+     "Sondrio",
+     "Emergenza Sanitaria 118 (freq. CRI)",
+     "173.250"
+    ],
+    [
+     "Susa (TO)",
+     "Susa Soccorso",
+     "173.537,5"
+    ],
+    [
+     "Torino",
+     "Torino Soccorso 118",
+     "467.125"
+    ],
+    [
+     "Torino",
+     "Emergenza Sanitaria 118",
+     "173.493,75"
+    ],
+    [
+     "Torino",
+     "Guardie Medica",
+     "467.500"
+    ],
+    [
+     "Torino",
+     "Servizio Medico domiciliare",
+     "162.137,5"
+    ],
+    [
+     "Torino provincia",
+     "Emergenza Sanitaria 118 (freq. CRI)",
+     "172.000"
+    ],
+    [
+     "Torino provincia",
+     "Emergenza Sanitaria 118",
+     "460.250 (prossima attivazione)"
+    ],
+    [
+     "Trento",
+     "Emergenza Sanitaria 118",
+     "161.800  161.625  161.850"
+    ],
+    [
+     "Treviso",
+     "Emergenza Sanitaria 118",
+     "165.675  173.493.75"
+    ],
+    [
+     "Trieste",
+     "Emergenze Sanitaria 118",
+     "172.806,250  173,500"
+    ],
+    [
+     "Udine",
+     "Emergenza Sanitaria 118",
+     "173.737,5  173.118,75 (verif.)"
+    ],
+    [
+     "Valle Susa (TO)",
+     "Guardia Medica",
+     "173.537,5"
+    ],
+    [
+     "Varazze (SV)",
+     "Guardia Medica",
+     "173.100"
+    ],
+    [
+     "Varese",
+     "Emergenza Sanitaria 118 (freq. CRI)",
+     "171.975"
+    ],
+    [
+     "Varese (provincia)",
+     "Servizio Medico domiciliare",
+     "440.700"
+    ],
+    [
+     "Venezia",
+     "Emergenza Sanitaria 118",
+     "165.700  172.787.5"
+    ],
+    [
+     "Ventimiglia (IM)",
+     "Ventimiglia Soccorso 118",
+     "173.525"
+    ],
+    [
+     "Verbania",
+     "Emergenza Sanitaria .118",
+     "173.493,75"
+    ],
+    [
+     "Vercelli",
+     "Emergenza Sanitaria 118",
+     "163.800"
+    ],
+    [
+     "Vercelli",
+     "Guardia Medica",
+     "165.862.5"
+    ],
+    [
+     "Verona",
+     "Verona Emergenza 118",
+     "172.770"
+    ],
+    [
+     "Viareggio (LU}",
+     "Emergenza Sanitaria 118 (da verificare)",
+     "171.850"
+    ],
+    [
+     "Zanica (BG)",
+     "Zanica Soccorso",
+     "161.987,5"
+    ]
+   ]
+  }
+ ]
+}

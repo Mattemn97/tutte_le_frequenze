@@ -1,0 +1,60 @@
+{
+ "sezione": "Marina militare",
+ "fonte": "Tutte le frequenze segrete V2.0, pag. 125",
+ "blocchi": [
+  {
+   "nota": "MARINA MILITARE"
+  },
+  {
+   "nota": "Vengono riportati tre gruppi di frequenze utilizzati nell’ambito militare"
+  },
+  {
+   "nota": "con esclusione dei numeri dei canali, delle località portuali operative, nonchè del servizio in asse attuato."
+  },
+  {
+   "nota": "L’utilizzo di detti canali da parte dei mezzi navali militari avviene esclusivamente previa chiamata sul"
+  },
+  {
+   "nota": "Ch. 16 (156.800)."
+  },
+  {
+   "colonne": [
+    "Alfa",
+    "Charlie",
+    "Portuali"
+   ],
+   "righe": [
+    [
+     "157.425  155.500  156.375"
+    ],
+    [
+     "157.450  155.550  156.625"
+    ],
+    [
+     "157.475  155.650"
+    ],
+    [
+     "157.500  155.750"
+    ],
+    [
+     "157.525  155.850"
+    ],
+    [
+     "157.550  155.900"
+    ],
+    [
+     "157.575  155.925"
+    ],
+    [
+     "157.600  155.950"
+    ],
+    [
+     "157.625  155.975"
+    ],
+    [
+     "157.650  156.000"
+    ]
+   ]
+  }
+ ]
+}

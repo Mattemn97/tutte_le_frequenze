@@ -1,0 +1,73 @@
+{
+ "sezione": "Federazione Ciclistica · corse professionistiche",
+ "fonte": "Tutte le frequenze segrete V2.0, pag. 97",
+ "blocchi": [
+  {
+   "nota": "FEDERAZIONE CICLISTICA ITALIANA"
+  },
+  {
+   "nota": "SERVIZI CORSE PROFESSIONISTICHE"
+  },
+  {
+   "nota": "BANDA 156 - 175 MHz (servizi compresi nella gamma civile VHF)"
+  },
+  {
+   "nota": "RADIO CORSA PARTENZA TRAGUARDO MOTOCICLISTI"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "154.560"
+    ],
+    [
+     "154.680"
+    ],
+    [
+     "157.600"
+    ],
+    [
+     "161.087,5"
+    ],
+    [
+     "161.112,5"
+    ],
+    [
+     "161.512,5"
+    ],
+    [
+     "161.537,5"
+    ],
+    [
+     "162.087,5"
+    ],
+    [
+     "162.112,5"
+    ],
+    [
+     "162.137,5"
+    ],
+    [
+     "154.560",
+     "Link Master UHF",
+     "431.875"
+    ],
+    [
+     "154.560",
+     "Link Master UHF",
+     "432.000"
+    ],
+    [
+     "154.680",
+     "Link Master UHF",
+     "431.875"
+    ],
+    [
+     "154.680",
+     "Link Master UHF",
+     "432.000"
+    ]
+   ]
+  }
+ ]
+}

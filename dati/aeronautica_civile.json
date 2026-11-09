@@ -1,0 +1,2148 @@
+{
+ "sezione": "Aeronautica civile · aeroporti",
+ "fonte": "Tutte le frequenze segrete V2.0, pag. 105–113",
+ "blocchi": [
+  {
+   "nota": "AERONAUTICA CIVILE"
+  },
+  {
+   "nota": "BANDA 118-136 MHz"
+  },
+  {
+   "nota": "BANDA 108 - 117 MHz V.O.R. (Vhf Omnidirectional Range)"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "LINK MASTER UHF - LIMITI DI BANDA",
+     "225",
+     "- 399.950",
+     "MHz"
+    ]
+   ]
+  },
+  {
+   "nota": "OPERATIVI NEGLI AEROPORTI DI :"
+  },
+  {
+   "nota": "BOLOGNA BRINDISI MILANO NAPOLI PADOVA ROMA TREVISO"
+  },
+  {
+   "nota": "VOLMET (Servizi Metereologici di volo)"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "Brindisi 127.600 -",
+     "Milano 126.600 -",
+     "Pisa 128.400",
+     "- Roma 126.000 F.I.S. (Flight Information Service)"
+    ],
+    [
+     "Brindisi 131.200 -",
+     "Milano 134.300 -",
+     "Padova 124.150 -",
+     "Roma 126.750"
+    ]
+   ]
+  },
+  {
+   "nota": "ENTI REGIONALI CONTROLLO TRAFFICO AEREO"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "Garda 124.250 -",
+     "124.450 -  124.850",
+     "Romagna 118.150 -",
+     "124.850 S.A.R. (Soccorso Aereo)"
+    ]
+   ]
+  },
+  {
+   "nota": "PER SCOPI DI SICUREZZA CON STAZIONI MOBILI MARITTIME"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "Cagliari 123.100 -",
+     "Martina Franca 123.100 -",
+     "Padova 123.100 -",
+     "Rimini 123.100 AIR to AIR"
+    ],
+    [
+     "118.350 -  122.700",
+     "- 122.750 -  122.800 -  123.450 -  131.800"
+    ],
+    [
+     "AEREI MINISTERO DEGLI INTERNI",
+     "130.450"
+    ],
+    [
+     "EMERGENZA INTERNAZIONALE",
+     "121.500 -",
+     "123.100-(ausiliaria)"
+    ]
+   ]
+  },
+  {
+   "nota": "AEROPORTI"
+  },
+  {
+   "nota": "LISTA DELLE FREQUENZE VHF USATE NEl COLLEGAMENTI T/B/T"
+  },
+  {
+   "nota": "DEGLI ENTI DI CONTROLLO DEL TRAFFICO AEREO"
+  },
+  {
+   "nota": "E RADIOASSISTENZE USATE NELLA NAVIGAZIONE AEREA"
+  },
+  {
+   "colonne": [
+    "Localita’",
+    "Servizio Attuato",
+    "Frequenza"
+   ],
+   "righe": [
+    [
+     "Acqui Terme",
+     "Radio Aviosuperficie",
+     "127.000"
+    ],
+    [
+     "Agrigento",
+     "Torre di controllo",
+     "118.850"
+    ],
+    [
+     "Albenga",
+     "Radio",
+     "123.850"
+    ],
+    [
+     "Alessandria",
+     "Radio",
+     "126.900"
+    ],
+    [
+     "Alghero",
+     "Torre di controllo",
+     "118.850"
+    ],
+    [
+     "",
+     "Controllo di avvicinamento",
+     "118.660"
+    ],
+    [
+     "",
+     "Controllo di avvicinamento",
+     "128.550"
+    ],
+    [
+     "",
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "",
+     "Acars",
+     "131.725"
+    ],
+    [
+     "Alzate Brianza",
+     "Radio",
+     "123.500"
+    ],
+    [
+     "Ancona",
+     "Torre di controllo",
+     "119.800"
+    ],
+    [
+     "",
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "",
+     "Acars",
+     "131.725"
+    ],
+    [
+     "",
+     "Eliporto",
+     "122.500"
+    ],
+    [
+     "Aosta",
+     "Radio",
+     "119.950"
+    ],
+    [
+     "Aquino",
+     "Radio",
+     "126.900"
+    ],
+    [
+     "Arezzo",
+     "Radio",
+     "126.900"
+    ],
+    [
+     "Asiago",
+     "Radio",
+     "122.600"
+    ],
+    [
+     "Bari",
+     "Torre di controllo",
+     "118.300"
+    ],
+    [
+     "",
+     "Controllo di avvicinamento",
+     "119.500"
+    ],
+    [
+     "",
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "",
+     "Acars",
+     "131.725"
+    ],
+    [
+     "Belluno",
+     "Radio",
+     "119.650"
+    ],
+    [
+     "Bergamo (località Orio al Serio)",
+     "Torre di controllo",
+     "120.500"
+    ],
+    [
+     "",
+     "Torre di controllo (riserva)",
+     "126.500"
+    ],
+    [
+     "",
+     "Aeroclub",
+     "120.500"
+    ],
+    [
+     "",
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "",
+     "Acars",
+     "131.725"
+    ],
+    {
+     "g": "COMPAGNIE AEREE DI BANDIERA"
+    },
+    [
+     "Alitatia operativo azzurra’",
+     "",
+     "131.550"
+    ],
+    [
+     "",
+     "Air One operativo aquila’ (coord. voli)",
+     "131.550"
+    ],
+    [
+     "",
+     "Lufthansa",
+     "131.550"
+    ],
+    [
+     "Biella",
+     "Radio",
+     "123.050"
+    ],
+    [
+     "",
+     "Radio",
+     "123.500"
+    ],
+    [
+     "Bologna",
+     "Torre di controllo",
+     "120.800"
+    ],
+    [
+     "",
+     "Torre di controllo (riserva)",
+     "129.900"
+    ],
+    [
+     "",
+     "Controllo di avvicinamento",
+     "120.100"
+    ],
+    [
+     "",
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "",
+     "Acars",
+     "131.725"
+    ],
+    [
+     "",
+     "Eliporlo (militare)",
+     "129.900"
+    ],
+    {
+     "g": "COMPAGNIE AEREE DI BANDIERA"
+    },
+    [
+     "Alitalia operativo azzurra’",
+     "",
+     "131.400"
+    ],
+    [
+     "",
+     "Lufthansa",
+     "131.850"
+    ],
+    [
+     "Bolzano",
+     "Radio",
+     "120.600"
+    ],
+    [
+     "Brescia (località Montichiari)",
+     "Radio Aeroclub",
+     "119.400"
+    ],
+    [
+     "Bresso",
+     "Radio",
+     "122.000"
+    ],
+    [
+     "Brindisi",
+     "ENTE REG. CONTROLLO",
+     "TRAFFICO AEREO"
+    ],
+    [
+     "",
+     "Radar",
+     "124.750"
+    ],
+    [
+     "",
+     "Radar",
+     "132.300"
+    ],
+    [
+     "",
+     "Radar",
+     "132.450"
+    ],
+    [
+     "",
+     "Radar",
+     "134.670"
+    ],
+    [
+     "",
+     "Informazioni di volo",
+     "131.200"
+    ],
+    [
+     "Brindisi",
+     "Torre di controllo",
+     "118.100"
+    ],
+    [
+     "",
+     "Controllo di avvicinamonto",
+     "118.400"
+    ],
+    [
+     "",
+     "Controllo di avvicinamento",
+     "121.000"
+    ],
+    [
+     "",
+     "Radar di precisione in avvicinamento",
+     "119.900"
+    ],
+    [
+     "",
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "",
+     "Acars",
+     "131.725"
+    ],
+    [
+     "Budrione (località Carpi)",
+     "Radio",
+     "119.650"
+    ],
+    [
+     "Cagliari",
+     "Torre di controllo",
+     "120.600"
+    ],
+    [
+     "",
+     "Controllo di avvicinamento",
+     "115.750"
+    ],
+    [
+     "",
+     "Controllo di terra",
+     "121.600"
+    ],
+    [
+     "",
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "",
+     "Acars",
+     "131.725"
+    ],
+    [
+     "",
+     "Soccorso Aereo",
+     "123.100"
+    ],
+    [
+     "Caiolo",
+     "Radio",
+     "129.500"
+    ],
+    [
+     "Calcinate del Pesce",
+     "Radio",
+     "123.500"
+    ],
+    [
+     "Cà Negra",
+     "Radio",
+     "120.200"
+    ],
+    [
+     "Capena",
+     "Radio",
+     "122.650"
+    ],
+    [
+     "Capri",
+     "Eliporto",
+     "123.500"
+    ],
+    [
+     "Capua",
+     "Radio",
+     "122.500"
+    ],
+    [
+     "Casale Monferrato",
+     "Radio",
+     "123.570"
+    ],
+    [
+     "Cascina Costa",
+     "società Agusta",
+     "121.600"
+    ],
+    [
+     "",
+     "società Agusta",
+     "123.750"
+    ],
+    [
+     "",
+     "società Agusta",
+     "126.200"
+    ],
+    [
+     "",
+     "società Agusta",
+     "127.500"
+    ],
+    [
+     "Castel Viscardo",
+     "Radio",
+     "130.000"
+    ],
+    [
+     "",
+     "Radio (da verificare)",
+     "126.950"
+    ],
+    [
+     "Castiglione deI Lago",
+     "Radio",
+     "123.500"
+    ],
+    [
+     "Catania",
+     "Torre di controllo",
+     "118.700"
+    ],
+    [
+     "",
+     "Controllo di avvicinamento",
+     "119.250"
+    ],
+    [
+     "",
+     "Controllo di avvicinamento",
+     "120.600"
+    ],
+    [
+     "",
+     "Controllo di terra",
+     "121.600"
+    ],
+    [
+     "",
+     "Controllo di terra",
+     "129.720"
+    ],
+    [
+     "",
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "",
+     "Acars",
+     "131.725"
+    ],
+    {
+     "g": "COMPAGNIE AEREE DI BANDIERA"
+    },
+    [
+     "Alitalia operativo azzurra”",
+     "",
+     "131.475"
+    ],
+    [
+     "Celano",
+     "Radio",
+     "130.000"
+    ],
+    [
+     "Consalvo",
+     "Radio",
+     "130.000"
+    ],
+    [
+     "Clusone",
+     "Eliporto",
+     "123.500"
+    ],
+    [
+     "Como",
+     "Radio",
+     "121.000"
+    ],
+    [
+     "Corfino",
+     "Radio",
+     "130.000"
+    ],
+    [
+     "Costa d’Argento",
+     "Radio",
+     "130.000"
+    ],
+    [
+     "Cremona",
+     "Radio",
+     "119.650"
+    ],
+    [
+     "Crotone",
+     "Radio",
+     "119.100"
+    ],
+    [
+     "Cuneo",
+     "Radio",
+     "119.550"
+    ],
+    [
+     "Cuvio",
+     "Radio Aviosuperficie",
+     "120.350"
+    ],
+    [
+     "Falconara (località Ancona)",
+     "Torre di controllo",
+     "119.600"
+    ],
+    [
+     "",
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "",
+     "Acars",
+     "131.725"
+    ],
+    [
+     "Fano",
+     "Radio",
+     "119.650"
+    ],
+    [
+     "Ferrara",
+     "Radio",
+     "122.500"
+    ],
+    [
+     "Firenze",
+     "Torre di controllo",
+     "118.300"
+    ],
+    [
+     "",
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "",
+     "Acars",
+     "131.725"
+    ],
+    {
+     "g": "COMPAGNIE AEREE DI BANDIERA"
+    },
+    [
+     "Alitalia “operativo azzurra”",
+     "",
+     "131.475"
+    ],
+    [
+     "",
+     "Compagnia non identificate (bollettino meteo)",
+     "120.200"
+    ],
+    [
+     "Foggia",
+     "Torre di controllo",
+     "116.200"
+    ],
+    [
+     "",
+     "Centro informazioni di volo",
+     "120.100"
+    ],
+    [
+     "",
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "",
+     "Acars",
+     "131.725"
+    ],
+    [
+     "Foligno",
+     "Radio",
+     "119.550"
+    ],
+    [
+     "Forlì",
+     "Torre di controllo",
+     "118.950"
+    ],
+    [
+     "",
+     "Torre di controllo Aeroclub",
+     "119.750"
+    ],
+    [
+     "",
+     "Radio",
+     "133.300"
+    ],
+    [
+     "",
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "",
+     "Acars",
+     "131.725"
+    ],
+    [
+     "Frosinone",
+     "Torre di controllo",
+     "122.600"
+    ],
+    [
+     "",
+     "Controllo di avvicinamento",
+     "119.350"
+    ],
+    [
+     "",
+     "Controllo di terra",
+     "126.500"
+    ],
+    [
+     "Gardolo",
+     "Radio",
+     "119.650"
+    ],
+    [
+     "",
+     "GenovaTorre di controllo",
+     "116.600"
+    ],
+    [
+     "",
+     "Controllo di avvicinamento",
+     "119.600"
+    ],
+    [
+     "",
+     "Controllo di avvicinamento (stand-by)",
+     "119.850"
+    ],
+    [
+     "",
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "",
+     "Acars",
+     "131.725"
+    ],
+    {
+     "g": "COMPAGNIE AEREE DI BANDIERA"
+    },
+    [
+     "Alitalia ‘operativo azzurra”",
+     "",
+     "131.450"
+    ],
+    [
+     "",
+     "Iberia",
+     "131.650"
+    ],
+    [
+     "",
+     "Compagnia (non identificata)",
+     "131.600"
+    ],
+    [
+     "Gorizia",
+     "Radio",
+     "119.650"
+    ],
+    [
+     "Grosseto",
+     "Torre di controllo",
+     "128.100"
+    ],
+    [
+     "",
+     "Controllo di avvicinamento",
+     "124.520"
+    ],
+    [
+     "Grottaglie",
+     "Torre di controllo",
+     "118.700"
+    ],
+    [
+     "Guidonia",
+     "Radio",
+     "122.200"
+    ],
+    [
+     "Ivrea",
+     "Radio",
+     "130.000"
+    ],
+    [
+     "il Borro",
+     "servizio (non disponibile)",
+     "123.450"
+    ],
+    [
+     "Ischia",
+     "Eliporto",
+     "126.900"
+    ],
+    [
+     "Lamezia Terme",
+     "Torre di controllo",
+     "119.700"
+    ],
+    [
+     "",
+     "Torre di controllo",
+     "121.500"
+    ],
+    [
+     "",
+     "Controllo di avvicinamento",
+     "118.800"
+    ],
+    [
+     "",
+     "Controllo di avvicinamento",
+     "121.100"
+    ],
+    [
+     "Lempedusa",
+     "Radio",
+     "123.500"
+    ],
+    [
+     "",
+     "Moro - Campo",
+     "130.170"
+    ],
+    [
+     "Latina",
+     "Torre di controllo",
+     "119.150"
+    ],
+    [
+     "",
+     "Controllo di avvicinamento",
+     "126.550"
+    ],
+    [
+     "Lecce",
+     "Torre di controllo",
+     "119.550"
+    ],
+    [
+     "",
+     "Controllo di avvicinamento",
+     "118.950"
+    ],
+    [
+     "",
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "",
+     "Acars",
+     "131.725"
+    ],
+    [
+     "Lecce (località San Cataldo)",
+     "Radio",
+     "119.650"
+    ],
+    [
+     "Legnago",
+     "Radio",
+     "122.600"
+    ],
+    [
+     "Lucca",
+     "Radio",
+     "122.500"
+    ],
+    [
+     "Lugo di Romagna",
+     "Radio",
+     "119.650"
+    ],
+    [
+     "Manduria",
+     "Radio",
+     "122.500"
+    ],
+    [
+     "Marina di Campo",
+     "Elba Radio",
+     "123.700"
+    ],
+    [
+     "",
+     "Elba Torre di controllo",
+     "119.050"
+    ],
+    [
+     "Martina Franca",
+     "Radio",
+     "121.300"
+    ],
+    [
+     "",
+     "Soccorso aereo",
+     "123.100"
+    ],
+    [
+     "Massa",
+     "Radio",
+     "120.350"
+    ],
+    [
+     "Matera",
+     "Torre di controllo",
+     "122.500"
+    ],
+    [
+     "Mattarello",
+     "Radio",
+     "119.650"
+    ]
+   ]
+  },
+  {
+   "colonne": [
+    "Milano",
+    "Ente Reg. Controllo Traffico Aereo"
+   ],
+   "righe": [
+    [
+     "Radar",
+     "125.270"
+    ],
+    [
+     "Radar",
+     "127.450"
+    ],
+    [
+     "Radar",
+     "130.170"
+    ],
+    [
+     "Radar",
+     "132.900"
+    ],
+    [
+     "Radar",
+     "134.050"
+    ],
+    [
+     "informazioni di volo",
+     "134.300"
+    ],
+    [
+     "Radar",
+     "134.520"
+    ],
+    [
+     "Radar",
+     "135.120"
+    ],
+    [
+     "Radar",
+     "135.450"
+    ],
+    [
+     "Milano (Linate)",
+     "Torre di controllo",
+     "118.100"
+    ],
+    [
+     "Torre di controllo (riserva)",
+     "119.250"
+    ],
+    [
+     "Arrivi",
+     "126.300"
+    ],
+    [
+     "Arrivi",
+     "126.750"
+    ],
+    [
+     "Partenze",
+     "132.700"
+    ],
+    [
+     "Controllo di terra",
+     "121.800"
+    ],
+    [
+     "Servizio manutenzione aerei",
+     "131.850"
+    ],
+    [
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "Acars",
+     "131.725"
+    ],
+    {
+     "g": "COMPAGNIE AEREE DI BANDIERA"
+    },
+    [
+     "Alitalia \"operativo azzurra",
+     "131.475"
+    ],
+    [
+     "Air Franca",
+     "131.500"
+    ],
+    [
+     "Alilalia operativo azzurra\" (coord. voli MI-Roma)",
+     "131.550"
+    ],
+    [
+     "Air One “operativo aquila” (coordinamento voli)",
+     "131.550"
+    ],
+    [
+     "Twa",
+     "131.600"
+    ],
+    [
+     "Compagnie (non identificate)",
+     "131.600"
+    ],
+    [
+     "Aviazione Generale",
+     "131.625"
+    ],
+    [
+     "Air France",
+     "131.650"
+    ],
+    [
+     "Iberia",
+     "131.650"
+    ],
+    [
+     "Klm",
+     "131.650"
+    ],
+    [
+     "Sabena",
+     "131.650"
+    ],
+    [
+     "Compagnie (non identificate)",
+     "131.650"
+    ],
+    [
+     "Alitalia operativo azzurra” (coordinamento voli)",
+     "131.675"
+    ],
+    [
+     "Olimpic",
+     "131.700"
+    ],
+    [
+     "Scandinavian Air Lines",
+     "131.700"
+    ],
+    [
+     "Swissair",
+     "131.700"
+    ],
+    [
+     "Compagnie (non identificate)",
+     "131.700"
+    ],
+    [
+     "Compagnie (non identificate)",
+     "131.800"
+    ],
+    [
+     "Lufthansa",
+     "131.925"
+    ],
+    [
+     "Milano (Malpensa)",
+     "Torre di controllo",
+     "119.000"
+    ],
+    [
+     "Torre di controllo (riserva)",
+     "128.350"
+    ],
+    [
+     "Controllo di terra (da verificare)",
+     "121.600"
+    ],
+    [
+     "Controllo di terra",
+     "121.900"
+    ],
+    [
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "Acars",
+     "131.725"
+    ]
+   ]
+  },
+  {
+   "nota": "COMPAGNIE AEREE DI BANDIERA"
+  },
+  {
+   "nota": "Alitalia “operativo azzurra’ 131 .450"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "Alitalia “operativo azzurra”",
+     "131.475"
+    ],
+    [
+     "Alitalia “operativo azzurre” (coordinamento voli)",
+     "131.550"
+    ],
+    [
+     "Air One “operativo aquila” (coordinamento voli)",
+     "131.550"
+    ],
+    [
+     "Twa",
+     "131.600"
+    ],
+    [
+     "Modena (località Marzaglia)",
+     "Radio",
+     "119.550"
+    ],
+    [
+     "Molinella",
+     "Radio",
+     "126.900"
+    ],
+    [
+     "Monte Marenzo",
+     "Radio Aviosuperficie",
+     "130.000"
+    ],
+    [
+     "Montegaldelle",
+     "Radio",
+     "130.000"
+    ],
+    [
+     "Monteverdi Marittimo",
+     "Radio",
+     "130.090"
+    ],
+    [
+     "Napoli",
+     "Torre di controllo",
+     "118.500"
+    ],
+    [
+     "Controllo di avvicinamento",
+     "120.950"
+    ],
+    [
+     "Controllo di avvicinamento",
+     "124.350"
+    ],
+    [
+     "Inserimento radar aereo in avvicinamento",
+     "118.300"
+    ],
+    [
+     "Napoli direttore",
+     "120.950"
+    ],
+    [
+     "Controllo di terra",
+     "121.900"
+    ],
+    [
+     "Terminale automatico d’informazione",
+     "135.970"
+    ],
+    [
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "Acars",
+     "131.725"
+    ]
+   ]
+  },
+  {
+   "nota": "COMPAGNIE AEREE DI BANDIERA"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "Alitalia “operativo azzurra”",
+     "131.750"
+    ],
+    [
+     "Novi Ligure",
+     "Radio",
+     "122.590"
+    ],
+    [
+     "Olbia",
+     "Torre di controllo",
+     "125.950"
+    ],
+    [
+     "Controllo di avvicinamento",
+     "118.250"
+    ]
+   ]
+  },
+  {
+   "nota": "COMPAGNIE AEREE DI BANDIERA"
+  },
+  {
+   "colonne": [],
+   "righe": [
+    [
+     "Alitalia “operativo azzurra”",
+     "131.475"
+    ],
+    [
+     "Meridiana",
+     "131.475"
+    ],
+    [
+     "Geasar",
+     "131.670"
+    ],
+    [
+     "Orbassano",
+     "Radio",
+     "119.850"
+    ],
+    [
+     "Oristano",
+     "Radio",
+     "122.600"
+    ],
+    [
+     "Ozzano dall’Emilia",
+     "Radio",
+     "128.450"
+    ],
+    [
+     "Radio",
+     "130.000"
+    ]
+   ]
+  },
+  {
+   "colonne": [
+    "Padova",
+    "Ente Regionale Controllo Traffico Aereo"
+   ],
+   "righe": [
+    [
+     "Radar",
+     "120.725"
+    ],
+    [
+     "Radar",
+     "124.150"
+    ],
+    [
+     "Radar",
+     "124.700"
+    ],
+    [
+     "Radar",
+     "124.750"
+    ],
+    [
+     "Rader",
+     "125.470"
+    ],
+    [
+     "Radar",
+     "125.900"
+    ],
+    [
+     "Radar",
+     "133.300"
+    ],
+    [
+     "Radar",
+     "133.700"
+    ],
+    [
+     "Radar",
+     "134.625"
+    ],
+    [
+     "Radar",
+     "134.750"
+    ],
+    [
+     "Radar",
+     "135.000"
+    ],
+    [
+     "Padova",
+     "Torre di controllo",
+     "123.250"
+    ],
+    [
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "Acars",
+     "131.725"
+    ],
+    [
+     "Soccorso Aereo",
+     "123.100"
+    ],
+    [
+     "Bollettino meteo",
+     "120.200"
+    ],
+    [
+     "Palermo",
+     "Torre di controllo",
+     "119.050"
+    ],
+    [
+     "Controllo di avvicinamento",
+     "118.650"
+    ],
+    [
+     "Controllo di avvicinamento",
+     "120.200"
+    ],
+    [
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "Acars",
+     "131.725"
+    ],
+    [
+     "Radio (Bocca di Falco)",
+     "122.600"
+    ],
+    [
+     "Pantelleria",
+     "Torre di controllo",
+     "116.450"
+    ],
+    [
+     "Radar Moro Campo",
+     "130.170"
+    ],
+    [
+     "Parma",
+     "Radio",
+     "118.450"
+    ],
+    [
+     "Pavullo nel Frignano",
+     "Radio",
+     "122.600"
+    ],
+    [
+     "Perugia",
+     "Radio",
+     "118.100"
+    ],
+    [
+     "Pescara",
+     "Torre di controllo",
+     "118.450"
+    ],
+    [
+     "Controllo di avvicinamento",
+     "120.050"
+    ],
+    [
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "Acars",
+     "131.725"
+    ],
+    [
+     "Pianezza",
+     "Scuola volo ULM",
+     "142.120"
+    ],
+    [
+     "Scuola volo ULM",
+     "142.165"
+    ],
+    [
+     "Pianosa",
+     "Radio",
+     "122.500"
+    ],
+    [
+     "Pisa",
+     "Torre di controllo",
+     "119.100"
+    ],
+    [
+     "Controllo di avvicinamento",
+     "124.270"
+    ],
+    [
+     "Controllo di avvicinamento",
+     "126.050"
+    ],
+    [
+     "Controllo di avvicinamento",
+     "126.070"
+    ],
+    [
+     "Controllo di avvicinamento (stand-by)",
+     "121.300"
+    ],
+    [
+     "Inserimento radar aereo in avvicinamento",
+     "118.200"
+    ],
+    [
+     "Controllo di terra",
+     "121.600"
+    ],
+    [
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "Acars",
+     "131.725"
+    ],
+    {
+     "g": "COMPAGNIE AEREE DI BANDIERA"
+    },
+    [
+     "Alitalia operativo azzurra\"",
+     "131.775"
+    ],
+    [
+     "Poggio Renatico",
+     "Radio",
+     "122.500"
+    ],
+    [
+     "Radio Aeroclub",
+     "124.525"
+    ],
+    [
+     "Pontedera",
+     "Radio",
+     "123.500"
+    ],
+    [
+     "Prati Vecchi di Aguscello",
+     "Radio",
+     "122.600"
+    ],
+    [
+     "Preturo",
+     "Radio",
+     "122.500"
+    ],
+    [
+     "Ravenna",
+     "Radio",
+     "123.500"
+    ],
+    [
+     "Reggio Calabria",
+     "Torre di controllo",
+     "118.300"
+    ],
+    [
+     "Reggio Emilia",
+     "Radio",
+     "127.150"
+    ],
+    [
+     "Rieti",
+     "Radio",
+     "123.050"
+    ],
+    [
+     "Rimini",
+     "Torre di controllo",
+     "119.100"
+    ],
+    [
+     "Inserimento radar aereo in avvicinamento",
+     "119.250"
+    ],
+    [
+     "Controllo di terra",
+     "121.600"
+    ],
+    [
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "Acars",
+     "131.725"
+    ],
+    [
+     "Soccorso Aereo",
+     "123.100"
+    ],
+    [
+     "Rivaltella",
+     "Scuola elicotteristi",
+     "122.000"
+    ],
+    [
+     "Rivanazzano",
+     "Radio",
+     "123.000"
+    ]
+   ]
+  },
+  {
+   "colonne": [
+    "Roma",
+    "Ente Regionale Controllo Traffico Aereo"
+   ],
+   "righe": [
+    [
+     "Informazioni di volo (stand-by)",
+     "122.400"
+    ],
+    [
+     "Radar",
+     "124.200"
+    ],
+    [
+     "Radar",
+     "124.800"
+    ],
+    [
+     "Radar",
+     "125.450"
+    ],
+    [
+     "Radar",
+     "125.500"
+    ],
+    [
+     "Centro informazioni di volo (solo VFR)",
+     "125.750"
+    ],
+    [
+     "Radar",
+     "127.350"
+    ],
+    [
+     "Radar",
+     "127.950"
+    ],
+    [
+     "Radar",
+     "128.600"
+    ],
+    [
+     "Radar",
+     "129.000"
+    ],
+    [
+     "Rader",
+     "131.250"
+    ],
+    [
+     "Radar",
+     "132.025"
+    ],
+    [
+     "Radar",
+     "132.075"
+    ],
+    [
+     "Radar",
+     "132.520"
+    ],
+    [
+     "Radar",
+     "133.120"
+    ],
+    [
+     "Radar",
+     "133.250"
+    ],
+    [
+     "Radar",
+     "134.200"
+    ],
+    [
+     "Radar",
+     "135.700"
+    ],
+    [
+     "Roma (Fiumicino)",
+     "Torre di controllo",
+     "118.700"
+    ],
+    [
+     "Torre di controllo",
+     "119.300"
+    ],
+    [
+     "Arrivi",
+     "119.200"
+    ],
+    [
+     "Partenze",
+     "130.900"
+    ],
+    [
+     "Controllo di terra",
+     "121.800"
+    ],
+    [
+     "Controllo di terra",
+     "121.900"
+    ],
+    [
+     "Vdf",
+     "118.900"
+    ],
+    [
+     "Terminale automatico d’informazione",
+     "121.700"
+    ],
+    [
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "Acars",
+     "131.725"
+    ],
+    {
+     "g": "COMPAGNIE AEREE Di BANDIERA"
+    },
+    [
+     "Alitalia operativo azzurra’",
+     "131.450"
+    ],
+    [
+     "Air France",
+     "131.500"
+    ],
+    [
+     "Air One ‘operativo aquila”",
+     "131.550"
+    ],
+    [
+     "Alitalia “operativo azzurra’ (coord. voli Roma-MI)",
+     "131.550"
+    ],
+    [
+     "Ati",
+     "131.550"
+    ],
+    [
+     "Aviazione Generale aeroporti di Roma",
+     "131.825"
+    ],
+    [
+     "Iberia",
+     "131.650"
+    ],
+    [
+     "Klm",
+     "131.650"
+    ],
+    [
+     "Sabena",
+     "131.650"
+    ],
+    [
+     "Alitalie “Operativo azzurra” (coordinamento voli)",
+     "131.675"
+    ],
+    [
+     "Olimpic",
+     "131.700"
+    ],
+    [
+     "Scandinavian Air Lines",
+     "131.700"
+    ],
+    [
+     "Swissair",
+     "131.700"
+    ],
+    [
+     "Compagnia (non identificata)",
+     "131.800"
+    ],
+    [
+     "Lufthansa",
+     "131.925"
+    ],
+    [
+     "Roma (Ciampino)",
+     "Torre di controllo",
+     "120.500"
+    ],
+    [
+     "Arrivi",
+     "119.200"
+    ],
+    [
+     "Partenze",
+     "130.900"
+    ],
+    [
+     "Controllo di terra",
+     "119.400"
+    ],
+    [
+     "Controllo di terra",
+     "121.750"
+    ],
+    [
+     "Controllo di terra",
+     "131.620"
+    ],
+    [
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "Acars",
+     "131.725"
+    ],
+    {
+     "g": "COMPAGNIE AEREE DI BANDIERA"
+    },
+    [
+     "Alitalia “operativo azzurra” (coord. voli Roma-MI)",
+     "131.550"
+    ],
+    [
+     "Aviazione Generale aeroporti di Roma",
+     "131.625"
+    ],
+    [
+     "Iberia",
+     "131.650"
+    ],
+    [
+     "Klm",
+     "131.650"
+    ],
+    [
+     "Sabena",
+     "131.650"
+    ],
+    [
+     "Altre compagnie (non identificate)",
+     "131.650"
+    ],
+    [
+     "Roma (Urbe)",
+     "Torre di controllo",
+     "123.800"
+    ],
+    [
+     "Controllo di terra",
+     "122.700"
+    ],
+    [
+     "Ronchi dei Legionari",
+     "Torre di controllo",
+     "130.200"
+    ],
+    [
+     "Controllo di avvicinamento",
+     "119.150"
+    ],
+    [
+     "Alitalia “operativo azzurra”",
+     "131.750"
+    ],
+    [
+     "Salerno",
+     "Radio",
+     "118.100"
+    ],
+    [
+     "Salgareda",
+     "Radio Aviosuperficie",
+     "118.000"
+    ],
+    [
+     "San Giustino Valdarno",
+     "Radio",
+     "123.450"
+    ],
+    [
+     "Sant'Eufemia Lamezia",
+     "Torre di controllo",
+     "119.700"
+    ],
+    [
+     "Controllo di avvicinamento",
+     "118.800"
+    ],
+    [
+     "Sarzana",
+     "Radio",
+     "119.650"
+    ],
+    [
+     "Sassuolo",
+     "Radio",
+     "124.000"
+    ],
+    [
+     "Siena",
+     "Radio",
+     "122.600"
+    ],
+    [
+     "Sigonella",
+     "Torre di controllo",
+     "118.050"
+    ],
+    [
+     "Controllo di avvicinamento",
+     "118.100"
+    ],
+    [
+     "Radar",
+     "119.250"
+    ],
+    [
+     "Catania direttore",
+     "120.800"
+    ],
+    [
+     "Controllo di terra",
+     "121.950"
+    ],
+    [
+     "Thiene",
+     "Radio",
+     "121.650"
+    ],
+    [
+     "Torino",
+     "Torre di controllo",
+     "116.500"
+    ],
+    [
+     "Radar (riserva)",
+     "120.150"
+    ],
+    [
+     "Radar",
+     "121.100"
+    ],
+    [
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "Acars",
+     "131.725"
+    ],
+    [
+     "Alenia (stazione talemetria EFA)",
+     "130.675"
+    ],
+    [
+     "Fiat (Caselle)",
+     "122.950"
+    ],
+    {
+     "g": "COMPAGNIE AEREE DI BANDIERA"
+    },
+    [
+     "Alitalia operativo azzurra’",
+     "131.900"
+    ],
+    [
+     "Lufthansa",
+     "131.900"
+    ],
+    [
+     "Atis",
+     "133.950"
+    ],
+    [
+     "Torino (Aeritalia)",
+     "Radio",
+     "121.100"
+    ],
+    [
+     "Centro informazioni di volo",
+     "119.150"
+    ],
+    [
+     "Tortoli",
+     "Radio",
+     "119.500"
+    ],
+    [
+     "Radio",
+     "119.650"
+    ],
+    [
+     "Trapani",
+     "Torre di controllo",
+     "119.700"
+    ],
+    [
+     "Controllo di avvicinamento",
+     "119.950"
+    ],
+    [
+     "Controllo di terra",
+     "122.800"
+    ],
+    [
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "Acars",
+     "131.725"
+    ],
+    [
+     "Treviso",
+     "Torre di controllo",
+     "116.700"
+    ],
+    [
+     "Controllo di avvicinamento",
+     "120.400"
+    ],
+    [
+     "Controllo di avvicinamento",
+     "121.150"
+    ],
+    [
+     "Controllo di terra",
+     "122.300"
+    ],
+    [
+     "Controllo di terra",
+     "122.750"
+    ],
+    [
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "Acars",
+     "131.725"
+    ],
+    [
+     "Trieste",
+     "Radio",
+     "119.150"
+    ],
+    [
+     "Udine",
+     "Radio",
+     "119.050"
+    ],
+    [
+     "Velbrembo",
+     "Radio",
+     "122.600"
+    ],
+    [
+     "Val della Torre",
+     "Scuola volo ULM",
+     "142.670"
+    ],
+    [
+     "Valle dei laghi",
+     "Radio",
+     "130.000"
+    ],
+    [
+     "Varese",
+     "Radio",
+     "119.500"
+    ],
+    [
+     "Venegono",
+     "Radio",
+     "128.550"
+    ],
+    [
+     "Venezia",
+     "Torre di controllo",
+     "120.200"
+    ],
+    [
+     "Radar in avvicinamento",
+     "118.900"
+    ],
+    [
+     "Controllo di terra",
+     "121.700"
+    ],
+    [
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "Acars",
+     "131.725"
+    ],
+    [
+     "Radio (Venezia Lido)",
+     "120.000"
+    ],
+    {
+     "g": "COMPAGNIE AEREE DI BANDIERA"
+    },
+    [
+     "Alitalia “operativo azzurra”",
+     "131.475"
+    ],
+    [
+     "Air Franca",
+     "131.500"
+    ],
+    [
+     "Alitalia \"operativo azzurra” (coordinamento voli)",
+     "131.550"
+    ],
+    [
+     "Air One “operativo aquila” (coordinamento voli)",
+     "131.550"
+    ],
+    [
+     "Alpi Eagles",
+     "131.550"
+    ],
+    [
+     "Aviazione Generale",
+     "131.575"
+    ],
+    [
+     "Lufthansa",
+     "131.925"
+    ],
+    [
+     "Compagnia (non disponibile)",
+     "131.975"
+    ],
+    [
+     "Vercelli",
+     "Radio",
+     "122.600"
+    ],
+    [
+     "Vergiate",
+     "Radio",
+     "119.770"
+    ],
+    [
+     "Verona",
+     "Torre di controllo",
+     "116.650"
+    ],
+    [
+     "Radar",
+     "118.550"
+    ],
+    [
+     "Controllo di terra",
+     "121.750"
+    ],
+    [
+     "Acars (stand-by)",
+     "131.525"
+    ],
+    [
+     "Acars",
+     "131.725"
+    ],
+    [
+     "Radio (Boscomantico)",
+     "122.050"
+    ],
+    {
+     "g": "COMPAGNIE AEREE DI BANDIERA"
+    },
+    [
+     "Alitalia ‘operativo azzurra”",
+     "131.475"
+    ],
+    [
+     "Vibo Valentia",
+     "Radio",
+     "119.650"
+    ],
+    [
+     "Vicenza",
+     "Torre di controllo",
+     "130.400"
+    ],
+    [
+     "Viterbo",
+     "Torre di controllo",
+     "127.150"
+    ],
+    [
+     "Vizzola Ticino",
+     "Radio",
+     "122.500"
+    ],
+    [
+     "Voghera",
+     "Radio",
+     "119.650"
+    ],
+    [
+     "Radio",
+     "123.000"
+    ]
+   ]
+  }
+ ]
+}
