@@ -19,6 +19,10 @@
 
   const state = { modules: [], cache: new Map(), current: null, scope: 'section', q: '' };
 
+  // logger condiviso (mf-log.js); se manca, i log vengono ignorati
+  const noop = () => {};
+  const log = window.MFLog || { debug: noop, info: noop, warn: noop, error: noop, time: () => noop };
+
   /* ---------------- Utilità ---------------- */
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const norm = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/,/g, '.');
@@ -67,10 +71,21 @@
 
   async function loadModule(m) {
     if (!state.cache.has(m.id)) {
+      const end = log.time('dati', 'Caricamento ' + m.file);
       state.cache.set(m.id, fetch(m.file).then(r => {
-        if (!r.ok) throw new Error(m.file);
+        if (!r.ok) throw new Error('HTTP ' + r.status + ' su ' + m.file);
         return r.json();
+      }).then(data => {
+        end({ sezione: m.id, chiavi: Object.keys(data) });
+        return data;
+      }).catch(err => {
+        // non tenere in cache un errore: al prossimo clic si riprova
+        state.cache.delete(m.id);
+        log.error('dati', 'Sezione ' + m.id + ' non caricata: ' + err.message);
+        throw err;
       }));
+    } else {
+      log.debug('dati', 'Sezione ' + m.id + ' già in memoria');
     }
     return state.cache.get(m.id);
   }
@@ -185,6 +200,8 @@
 
   async function showSection(id) {
     const m = state.modules.find(x => x.id === id) || state.modules[0];
+    if (id && m.id !== id) log.warn('sezioni', 'Sezione "' + id + '" inesistente, apro ' + m.id);
+    log.info('sezioni', 'Apro ' + m.label + (state.q ? ' (filtro: "' + state.q + '")' : ''));
     state.current = m;
     $$('.nav-item').forEach(b => b.classList.toggle('active', b.dataset.id === m.id));
     closeDrawer();
@@ -193,14 +210,21 @@
     view.innerHTML = '<div class="empty"><span class="mf-spinner lg"></span></div>';
     try {
       const data = await loadModule(m);
-      if (state.current !== m) return;
-      if (!m.parts) m.parts = toParts(data);
+      if (state.current !== m) { log.debug('sezioni', m.id + ' caricata ma nel frattempo è stata aperta un\'altra sezione'); return; }
+      if (!m.parts) {
+        const endParse = log.time('sezioni', 'Preparazione tabelle di ' + m.id);
+        m.parts = toParts(data);
+        endParse({ parti: m.parts.length, tabelle: m.parts.filter(p => p.type === 'table').length });
+      }
+      const t0 = performance.now();
       const r = renderParts(m.parts, state.q);
+      log.debug('sezioni', 'Render ' + m.id + ': ' + r.total + ' righe in ' + Math.round(performance.now() - t0) + ' ms');
       view.innerHTML = sectionHead(m, data) + (r.html || empty('Nessun risultato in questa sezione', 'Prova a cercare "Ovunque".'));
       $('#searchInfo').textContent = state.q ? r.total + ' righe trovate in ' + m.label : '';
       document.title = m.label + ' · Tutte le frequenze';
     } catch (e) {
-      view.innerHTML = '<div class="mf-alert err"><i class="fa-solid fa-triangle-exclamation"></i> Impossibile caricare ' + esc(m.file) + '</div>';
+      log.error('sezioni', 'Errore mostrando ' + m.id + ': ' + e.message, e.stack);
+      view.innerHTML = '<div class="mf-alert err"><i class="fa-solid fa-triangle-exclamation"></i> Impossibile caricare ' + esc(m.file) + '. Riprova tra poco o ricarica la pagina.</div>';
     }
   }
 
@@ -208,8 +232,11 @@
     const q = state.q;
     const view = $('#view');
     view.innerHTML = '<div class="empty"><span class="mf-spinner lg"></span><p>Cerco in tutte le sezioni…</p></div>';
-    await Promise.all(state.modules.map(m => loadModule(m).then(d => { if (!m.parts) m.parts = toParts(d); }).catch(() => {})));
-    if (q !== state.q || state.scope !== 'all') return;
+    const endSearch = log.time('ricerca', 'Ricerca globale "' + q + '"');
+    const failed = [];
+    await Promise.all(state.modules.map(m => loadModule(m).then(d => { if (!m.parts) m.parts = toParts(d); }).catch(() => failed.push(m.id))));
+    if (failed.length) log.warn('ricerca', failed.length + ' sezioni escluse dalla ricerca perché non caricate', failed);
+    if (q !== state.q || state.scope !== 'all') { log.debug('ricerca', 'Ricerca "' + q + '" superata da una più recente'); return; }
     let total = 0, sections = 0;
     const html = state.modules.map(m => {
       if (!m.parts) return '';
@@ -220,6 +247,7 @@
         '<button class="mf-btn mf-btn-sm" data-goto="' + m.id + '">Apri sezione <i class="fa-solid fa-arrow-right"></i></button></h3>' + r.html + '</section>';
     }).join('');
     $('#searchInfo').textContent = total + ' righe trovate in ' + sections + ' sezioni';
+    endSearch({ righe: total, sezioni: sections });
     view.innerHTML = '<header class="sec-head"><div class="crumb">ricerca globale</div><h2><span class="ic"><i class="fa-solid fa-globe"></i></span>«' + esc(q) + '»</h2></header>' +
       (html || empty('Nessun risultato', 'Controlla l\'ortografia o cerca solo una parte della frequenza.'));
   }
@@ -290,15 +318,18 @@
   }
 
   /* ---------------- Avvio ---------------- */
+  const endBoot = log.time('avvio', 'Lettura indice config.json');
   fetch('config.json')
-    .then(r => { if (!r.ok) throw new Error('config.json'); return r.json(); })
+    .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status + ' su config.json'); return r.json(); })
     .then(cfg => {
       state.modules = cfg.moduli;
+      endBoot({ sezioni: state.modules.length });
       buildMenu();
       bind();
       showSection(location.hash.slice(1));
     })
-    .catch(() => {
+    .catch(err => {
+      log.error('avvio', 'Indice non caricato, l\'app non può partire: ' + err.message, err.stack);
       $('#menu').innerHTML = '<div class="mf-alert err"><i class="fa-solid fa-triangle-exclamation"></i> Errore nel caricamento dell\'indice</div>';
     });
 })();
